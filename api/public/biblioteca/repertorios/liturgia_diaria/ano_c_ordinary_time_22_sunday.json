@@ -1,0 +1,36 @@
+[
+  {
+    "titulo": "22º Domingo do Tempo Comum",
+    "itens": [
+      {
+        "id_musica": 2246,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": "15",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3800,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": "16",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3090,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": "17",
+          "ignorar": false
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "ordinary_time_22_sunday",
+      "referencia": "Liturgia Diária Agosto 2025 - Ano 34 Nº 404",
+      "ano": "C"
+    }
+  }
+]

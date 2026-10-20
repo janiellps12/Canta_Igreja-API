@@ -1,0 +1,69 @@
+[
+  {
+    "titulo": "Nosso Senhor Jesus Cristo, Rei do Universo",
+    "itens": [
+      {
+        "id_musica": 2,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": "26",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Novembro 2023 - Ano 32 Nº 383"
+          ]
+        }
+      },
+      {
+        "id_musica": 3173,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": "27",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Novembro 2023 - Ano 32 Nº 383"
+          ]
+        }
+      },
+      {
+        "id_musica": 3595,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": "28",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Novembro 2023 - Ano 32 Nº 383"
+          ]
+        }
+      },
+      {
+        "id_musica": 3175,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": "29",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Novembro 2023 - Ano 32 Nº 383"
+          ]
+        }
+      },
+      {
+        "id_musica": 3739,
+        "momento": "Final",
+        "metadata": {
+          "indice": "30",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Novembro 2023 - Ano 32 Nº 383"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "our_lord_jesus_christ_king_of_the_universe",
+      "referencias": [
+        "Liturgia Diária Novembro 2023 - Ano 32 Nº 383"
+      ],
+      "ano": "A"
+    }
+  }
+]

@@ -1,0 +1,1230 @@
+{
+  "nome": "Alegre Cantemos",
+  "itens": [
+    {
+      "titulo": "1º Domingo do Advento",
+      "slug": "ano_a_advent_1_sunday",
+      "previa": "Hosana, Com amor eterno, É sangue o que era vinho e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1915021520
+    },
+    {
+      "titulo": "1º Domingo do Advento",
+      "slug": "ano_b_advent_1_sunday",
+      "previa": "O amor é Tua lei, Com amor eterno, É sangue o que era vinho e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2477633496
+    },
+    {
+      "titulo": "1º Domingo do Advento",
+      "slug": "ano_c_advent_1_sunday",
+      "previa": "Jesus é o Rei, Com amor eterno, É sangue o que era vinho e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2979843092
+    },
+    {
+      "titulo": "2º Domingo do Advento",
+      "slug": "ano_a_advent_2_sunday",
+      "previa": "Hosana, Com amor eterno, É sangue o que era vinho e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3175086284
+    },
+    {
+      "titulo": "2º Domingo do Advento",
+      "slug": "ano_b_advent_2_sunday",
+      "previa": "Hosana ao Filho de Davi, Com amor eterno, É sangue o que era vinho e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3196810344
+    },
+    {
+      "titulo": "2º Domingo do Advento",
+      "slug": "ano_c_advent_2_sunday",
+      "previa": "O amor é Tua lei, Com amor eterno, É sangue o que era vinho e mais 2",
+      "total_musicas": 5,
+      "crc_32": 1554588851
+    },
+    {
+      "titulo": "3º Domingo do Advento",
+      "slug": "ano_a_advent_3_sunday",
+      "previa": "Com amor eterno, É sangue o que era vinho, Novo mandamento",
+      "total_musicas": 3,
+      "crc_32": 3061283820
+    },
+    {
+      "titulo": "3º Domingo do Advento",
+      "slug": "ano_b_advent_3_sunday",
+      "previa": "Com amor eterno, É sangue o que era vinho, Novo mandamento",
+      "total_musicas": 3,
+      "crc_32": 3390463543
+    },
+    {
+      "titulo": "3º Domingo do Advento",
+      "slug": "ano_c_advent_3_sunday",
+      "previa": "Com amor eterno, É sangue o que era vinho, Novo mandamento",
+      "total_musicas": 3,
+      "crc_32": 1461305153
+    },
+    {
+      "titulo": "4º Domingo do Advento",
+      "slug": "ano_a_advent_4_sunday",
+      "previa": "Ceia de despedida, Com amor eterno, É sangue o que era vinho e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3740109665
+    },
+    {
+      "titulo": "4º Domingo do Advento",
+      "slug": "ano_b_advent_4_sunday",
+      "previa": "Vitória, Jesus erguendo-se da Ceia, Eu quis comer esta Ceia agora e mais 1",
+      "total_musicas": 4,
+      "crc_32": 297537101
+    },
+    {
+      "titulo": "4º Domingo do Advento",
+      "slug": "ano_c_advent_4_sunday",
+      "previa": "Canto de procissão, Jesus erguendo-se da Ceia, Eu quis comer esta Ceia agora e mais 1",
+      "total_musicas": 4,
+      "crc_32": 4164119047
+    },
+    {
+      "titulo": "Natal - Missa da Noite",
+      "slug": "nativity_of_the_lord",
+      "previa": "Salve, ó Cristo obediente, De Cristo o novo mandamento (CF 1971), Salmo 50 (Súplica de Perdão) e mais 3",
+      "total_musicas": 6,
+      "crc_32": 450994897
+    },
+    {
+      "titulo": "Sagrada Família",
+      "slug": "holy_family_of_jesus_mary_and_joseph",
+      "previa": "Apresentação da Cruz, De Cristo o novo mandamento (CF 1971), Afasta de nós este cálice e mais 1",
+      "total_musicas": 4,
+      "crc_32": 4246304422
+    },
+    {
+      "titulo": "Epifania do Senhor",
+      "slug": "epiphany_of_the_lord",
+      "previa": "Que alegria, Eis o dia do Senhor, Afasta de nós este cálice e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1753462922
+    },
+    {
+      "titulo": "Batismo do Senhor",
+      "slug": "baptism_of_the_lord",
+      "previa": "Que alegria, Eis o dia do Senhor, Celebramos nossa páscoa e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1861261340
+    },
+    {
+      "titulo": "Quarta-Feira de Cinzas",
+      "slug": "ano_a_ash_wednesday",
+      "previa": "Cristo, nossa Páscoa, Salmo 92, Oi Jesus e mais 2",
+      "total_musicas": 5,
+      "crc_32": 4232784418
+    },
+    {
+      "titulo": "Quarta-Feira de Cinzas",
+      "slug": "ano_b_ash_wednesday",
+      "previa": "Cristo, nossa Páscoa, Água viva, Oi Jesus e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3976603154
+    },
+    {
+      "titulo": "Quarta-Feira de Cinzas",
+      "slug": "ano_c_ash_wednesday",
+      "previa": "Cristo, nossa Páscoa, Vou lhes preparar, Oi Jesus e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2610138262
+    },
+    {
+      "titulo": "1º Domingo da Quaresma",
+      "slug": "ano_a_lent_1_sunday",
+      "previa": "Cristo, nossa Páscoa, Salmo 92, A verdadeira igreja e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1366589896
+    },
+    {
+      "titulo": "1º Domingo da Quaresma",
+      "slug": "ano_b_lent_1_sunday",
+      "previa": "É tempo de libertação, Água viva, Profetas da alegria e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1082423772
+    },
+    {
+      "titulo": "1º Domingo da Quaresma",
+      "slug": "ano_c_lent_1_sunday",
+      "previa": "Ressuscitou, Vou lhes preparar, Eis-me aqui Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 281416076
+    },
+    {
+      "titulo": "2º Domingo da Quaresma",
+      "slug": "ano_a_lent_2_sunday",
+      "previa": "Cristo, nossa Páscoa, Salmo 92, A verdadeira igreja e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3039140057
+    },
+    {
+      "titulo": "2º Domingo da Quaresma",
+      "slug": "ano_b_lent_2_sunday",
+      "previa": "É tempo de libertação, Água viva, Profetas da alegria e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2765447373
+    },
+    {
+      "titulo": "2º Domingo da Quaresma",
+      "slug": "ano_c_lent_2_sunday",
+      "previa": "Ressuscitou, Vou lhes preparar, Eis-me aqui Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 4103538845
+    },
+    {
+      "titulo": "3º Domingo da Quaresma",
+      "slug": "ano_a_lent_3_sunday",
+      "previa": "Cristo, nossa Páscoa, Salmo 92, A verdadeira igreja e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1481511817
+    },
+    {
+      "titulo": "3º Domingo da Quaresma",
+      "slug": "ano_b_lent_3_sunday",
+      "previa": "É tempo de libertação, Água viva, A vida pra quem acredita e mais 1",
+      "total_musicas": 4,
+      "crc_32": 441898817
+    },
+    {
+      "titulo": "3º Domingo da Quaresma",
+      "slug": "ano_c_lent_3_sunday",
+      "previa": "Ressuscitou, Vou lhes preparar, Eis-me aqui Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1789894113
+    },
+    {
+      "titulo": "4º Domingo da Quaresma",
+      "slug": "ano_a_lent_4_sunday",
+      "previa": "Somos povo de Deus que caminha (CF 1999), Salmo 92, A verdadeira igreja e mais 1",
+      "total_musicas": 4,
+      "crc_32": 423383148
+    },
+    {
+      "titulo": "4º Domingo da Quaresma",
+      "slug": "ano_b_lent_4_sunday",
+      "previa": "A família, como vai? (CF 1994), Água viva, A vida pra quem acredita e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3613718683
+    },
+    {
+      "titulo": "4º Domingo da Quaresma",
+      "slug": "ano_c_lent_4_sunday",
+      "previa": "Somos povo de Deus que caminha (CF 1999), Vou lhes preparar, Eis-me aqui Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3368973297
+    },
+    {
+      "titulo": "5º Domingo da Quaresma",
+      "slug": "ano_a_lent_5_sunday",
+      "previa": "Cristo, nossa Páscoa, Salmo 92, A verdadeira igreja e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1520706218
+    },
+    {
+      "titulo": "5º Domingo da Quaresma",
+      "slug": "ano_b_lent_5_sunday",
+      "previa": "É tempo de libertação, Água viva, A vida pra quem acredita e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3793356252
+    },
+    {
+      "titulo": "5º Domingo da Quaresma",
+      "slug": "ano_c_lent_5_sunday",
+      "previa": "Ressuscitou, Vou lhes preparar, Eis-me aqui Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 903366410
+    },
+    {
+      "titulo": "Domingo de Ramos",
+      "slug": "palm_sunday_of_the_passion_of_the_lord",
+      "previa": "Bem-vindo meu irmão, Saudação de amigo, Canção da chegada",
+      "total_musicas": 3,
+      "crc_32": 3858622054
+    },
+    {
+      "titulo": "Quinta-feira da Ceia do Senhor",
+      "slug": "holy_thursday",
+      "previa": "Fala, Senhor, fala, Senhor (CFE 2000), A Deus pedimos perdoar (CF 2004), Senhor, tende piedade",
+      "total_musicas": 3,
+      "crc_32": 4158196899
+    },
+    {
+      "titulo": "Sexta-feira da Paixão do Senhor",
+      "slug": "friday_of_the_passion_of_the_lord",
+      "previa": "Porque fui omisso, Bem-vindo meu irmão",
+      "total_musicas": 2,
+      "crc_32": 2050638240
+    },
+    {
+      "titulo": "Vigília Pascal",
+      "slug": "holy_saturday",
+      "previa": "Ofertar nossa vida (CF 1992), Glória no céu, glória ao Senhor, Glória e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1106922298
+    },
+    {
+      "titulo": "Domingo de Páscoa",
+      "slug": "ano_a_easter_sunday",
+      "previa": "A palavra de Deus vai chegando, É bom ter família, O Senhor é meu pastor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1549052708
+    },
+    {
+      "titulo": "Domingo de Páscoa",
+      "slug": "ano_b_easter_sunday",
+      "previa": "Glória, glória nas alturas, Ser família, Súplicas ao Coração de Jesus Cristo e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2223437286
+    },
+    {
+      "titulo": "Domingo de Páscoa",
+      "slug": "ano_c_easter_sunday",
+      "previa": "Glória a Deus no céu, Exulta filha de Sião (Sl 121), Teu nome, Senhor, é tão bonito (Sl 8) e mais 1",
+      "total_musicas": 4,
+      "crc_32": 821700238
+    },
+    {
+      "titulo": "2º Domingo da Páscoa",
+      "slug": "ano_a_divine_mercy_sunday",
+      "previa": "A palavra de Deus vai chegando, É bom ter família, O Senhor é meu pastor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 4145247175
+    },
+    {
+      "titulo": "2º Domingo da Páscoa",
+      "slug": "ano_b_divine_mercy_sunday",
+      "previa": "Glória, glória nas alturas, Ser família, Súplicas ao Coração de Jesus Cristo e mais 1",
+      "total_musicas": 4,
+      "crc_32": 4028612697
+    },
+    {
+      "titulo": "2º Domingo da Páscoa",
+      "slug": "ano_c_divine_mercy_sunday",
+      "previa": "Glória a Deus no céu, Senhor, me conheces como sou (Sl 138), Teu nome, Senhor, é tão bonito (Sl 8) e mais 1",
+      "total_musicas": 4,
+      "crc_32": 424887256
+    },
+    {
+      "titulo": "3º Domingo da Páscoa",
+      "slug": "ano_a_easter_time_3_sunday",
+      "previa": "A palavra de Deus vai chegando, É bom ter família, O Senhor é meu pastor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1754010
+    },
+    {
+      "titulo": "3º Domingo da Páscoa",
+      "slug": "ano_b_easter_time_3_sunday",
+      "previa": "Glória, glória nas alturas, Ser família, Súplicas ao Coração de Jesus Cristo e mais 1",
+      "total_musicas": 4,
+      "crc_32": 4081425744
+    },
+    {
+      "titulo": "3º Domingo da Páscoa",
+      "slug": "ano_c_easter_time_3_sunday",
+      "previa": "Fazei ressoar a palavra de Deus, Senhor, me conheces como sou (Sl 138), Teu nome, Senhor, é tão bonito (Sl 8) e mais 1",
+      "total_musicas": 4,
+      "crc_32": 4177709384
+    },
+    {
+      "titulo": "4º Domingo da Páscoa",
+      "slug": "ano_a_easter_time_4_sunday",
+      "previa": "A Bíblia, É bom ter família, Salmo 145 e mais 1",
+      "total_musicas": 4,
+      "crc_32": 348141978
+    },
+    {
+      "titulo": "4º Domingo da Páscoa",
+      "slug": "ano_b_easter_time_4_sunday",
+      "previa": "Glória, glória nas alturas, Ser família",
+      "total_musicas": 4,
+      "crc_32": 3218893146
+    },
+    {
+      "titulo": "4º Domingo da Páscoa",
+      "slug": "ano_c_easter_time_4_sunday",
+      "previa": "Fazei ressoar a palavra de Deus, Senhor, me conheces como sou (Sl 138), Teu nome, Senhor, é tão bonito (Sl 8) e mais 1",
+      "total_musicas": 4,
+      "crc_32": 4076245195
+    },
+    {
+      "titulo": "5º Domingo da Páscoa",
+      "slug": "ano_a_easter_time_5_sunday",
+      "previa": "A Bíblia, É bom ter família, Salmo 145 e mais 1",
+      "total_musicas": 4,
+      "crc_32": 677391857
+    },
+    {
+      "titulo": "5º Domingo da Páscoa",
+      "slug": "ano_b_easter_time_5_sunday",
+      "previa": "Glória, glória nas alturas, Ser família, Maravilhas (Sl 125) e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1675403557
+    },
+    {
+      "titulo": "5º Domingo da Páscoa",
+      "slug": "ano_c_easter_time_5_sunday",
+      "previa": "Vida e Bíblia, Senhor, me conheces como sou (Sl 138), Bendito seja Deus (nós vos bendizemos) e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2204266651
+    },
+    {
+      "titulo": "6º Domingo da Páscoa",
+      "slug": "ano_a_easter_time_6_sunday",
+      "previa": "A Bíblia, É bom ter família, Salmo 145 e mais 1",
+      "total_musicas": 4,
+      "crc_32": 4165180360
+    },
+    {
+      "titulo": "6º Domingo da Páscoa",
+      "slug": "ano_b_easter_time_6_sunday",
+      "previa": "Glória, glória nas alturas, Ser família, Maravilhas (Sl 125) e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1916990421
+    },
+    {
+      "titulo": "6º Domingo da Páscoa",
+      "slug": "ano_c_easter_time_6_sunday",
+      "previa": "Vida e Bíblia, Senhor, me conheces como sou (Sl 138), Bendito seja Deus (nós vos bendizemos) e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1396819618
+    },
+    {
+      "titulo": "Ascenção do Senhor",
+      "slug": "ano_a_ascension_of_the_lord",
+      "previa": "Quem irá, Senhor morar? (Sl 15), É bom ter família, Salmo 145 e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3262591994
+    },
+    {
+      "titulo": "Ascenção do Senhor",
+      "slug": "ano_b_ascension_of_the_lord",
+      "previa": "Quem irá, Senhor morar? (Sl 15), Ser família, Maravilhas (Sl 125) e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3920957887
+    },
+    {
+      "titulo": "Ascenção do Senhor",
+      "slug": "ano_c_ascension_of_the_lord",
+      "previa": "Quem irá, Senhor morar? (Sl 15), Senhor, me conheces como sou (Sl 138), Bendito seja Deus (nós vos bendizemos) e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1794689544
+    },
+    {
+      "titulo": "Domingo de Pentecostes",
+      "slug": "ano_a_pentecost_sunday",
+      "previa": "Preces ao Espírito Santo, Divino Espírito que sois amigo, Salmo 47 (Is.. 52,7) e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3472275740
+    },
+    {
+      "titulo": "Domingo de Pentecostes",
+      "slug": "ano_b_pentecost_sunday",
+      "previa": "Pra te louvar, Senhor, Ser família, Entoai novo canto e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2107034802
+    },
+    {
+      "titulo": "Domingo de Pentecostes",
+      "slug": "ano_c_pentecost_sunday",
+      "previa": "Preces ao Espírito Santo, Bem alegres cantai salmos, Senhor, me conheces como sou (Sl 138) e mais 2",
+      "total_musicas": 5,
+      "crc_32": 1125228962
+    },
+    {
+      "titulo": "2º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_2_sunday",
+      "previa": "Em cada homem novo, Resposta preces, Entre nessa procissão e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1523865696
+    },
+    {
+      "titulo": "2º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_2_sunday",
+      "previa": "Em cada homem novo, Trazemos à mesa santa, Entre nessa procissão e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2071721033
+    },
+    {
+      "titulo": "2º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_2_sunday",
+      "previa": "Em cada homem novo, O que posso ofertar, Entre nessa procissão",
+      "total_musicas": 3,
+      "crc_32": 3451311437
+    },
+    {
+      "titulo": "3º Domingo do Tempo Comum",
+      "slug": "ano_a_sunday_of_the_word_of_god",
+      "previa": "Em cada homem novo, Resposta preces, Entre nessa procissão e mais 1",
+      "total_musicas": 4,
+      "crc_32": 514619564
+    },
+    {
+      "titulo": "3º Domingo do Tempo Comum",
+      "slug": "ano_b_sunday_of_the_word_of_god",
+      "previa": "Em cada homem novo, Te ofertamos, Senhor, Entre nessa procissão e mais 1",
+      "total_musicas": 4,
+      "crc_32": 826792071
+    },
+    {
+      "titulo": "3º Domingo do Tempo Comum",
+      "slug": "ano_c_sunday_of_the_word_of_god",
+      "previa": "Em cada homem novo, O que posso ofertar, Entre nessa procissão e mais 1",
+      "total_musicas": 4,
+      "crc_32": 33938709
+    },
+    {
+      "titulo": "4º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_4_sunday",
+      "previa": "Em cada homem novo, Resposta preces, Entre nessa procissão e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2593225794
+    },
+    {
+      "titulo": "4º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_4_sunday",
+      "previa": "Em cada homem novo, Te ofertamos, Senhor, Entre nessa procissão e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1340994500
+    },
+    {
+      "titulo": "4º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_4_sunday",
+      "previa": "Em cada homem novo, Nem a vida, nem a morte, Entre nessa procissão e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1435066879
+    },
+    {
+      "titulo": "5º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_5_sunday",
+      "previa": "Em cada homem novo, Resposta preces, Entre nessa procissão e mais 1",
+      "total_musicas": 4,
+      "crc_32": 4131459145
+    },
+    {
+      "titulo": "5º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_5_sunday",
+      "previa": "Em cada homem novo, Te ofertamos, Senhor, Entre nessa procissão e mais 1",
+      "total_musicas": 4,
+      "crc_32": 591241167
+    },
+    {
+      "titulo": "5º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_5_sunday",
+      "previa": "Em cada homem novo, Ó Pai, que pelo Espírito, Entre nessa procissão e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2664346565
+    },
+    {
+      "titulo": "6º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_6_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Resposta preces, Ofertar é dar a vida e mais 1",
+      "total_musicas": 4,
+      "crc_32": 512122221
+    },
+    {
+      "titulo": "6º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_6_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Te ofertamos, Senhor, Ofertar é dar a vida e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3422212843
+    },
+    {
+      "titulo": "6º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_6_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Ó Pai, que pelo Espírito, Ofertar é dar a vida e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2983140156
+    },
+    {
+      "titulo": "7º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_7_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Recebe, Senhor (CF 1999), Ofertar é dar a vida e mais 1",
+      "total_musicas": 4,
+      "crc_32": 604643043
+    },
+    {
+      "titulo": "7º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_7_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Te ofertamos, Senhor, Ofertar é dar a vida e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2804596448
+    },
+    {
+      "titulo": "7º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_7_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, O que posso ofertar, Ofertar é dar a vida e mais 1",
+      "total_musicas": 4,
+      "crc_32": 752150147
+    },
+    {
+      "titulo": "8º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_8_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Recebe, Senhor (CF 1999), Ofertar é dar a vida e mais 1",
+      "total_musicas": 4,
+      "crc_32": 690712649
+    },
+    {
+      "titulo": "8º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_8_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, De mãos estendidas, Ofertar é dar a vida e mais 1",
+      "total_musicas": 4,
+      "crc_32": 4233625551
+    },
+    {
+      "titulo": "8º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_8_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, O que posso ofertar, Ofertar é dar a vida e mais 1",
+      "total_musicas": 4,
+      "crc_32": 569739305
+    },
+    {
+      "titulo": "9º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_9_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Recebe, Senhor (CF 1999), Ofertar é dar a vida e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1174084674
+    },
+    {
+      "titulo": "9º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_9_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, De mãos estendidas, Ofertar é dar a vida e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2424804292
+    },
+    {
+      "titulo": "9º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_9_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, A maior amizade, Ofertar é dar a vida e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3937557011
+    },
+    {
+      "titulo": "10º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_10_sunday",
+      "previa": "A certeza que vive em mim, A mesa Santa que preparamos (CF 1994), Jesus, Jesus e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1342410557
+    },
+    {
+      "titulo": "10º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_10_sunday",
+      "previa": "A certeza que vive em mim, De mãos estendidas, Jesus, Jesus e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1156374724
+    },
+    {
+      "titulo": "10º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_10_sunday",
+      "previa": "A certeza que vive em mim, A maior amizade, Meu Senhor, meu sol e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1916742171
+    },
+    {
+      "titulo": "11º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_11_sunday",
+      "previa": "A certeza que vive em mim, A mesa Santa que preparamos (CF 1994), Jesus, Jesus e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2384154204
+    },
+    {
+      "titulo": "11º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_11_sunday",
+      "previa": "A certeza que vive em mim, Daqui do meu lugar, Jesus, Jesus e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2606493474
+    },
+    {
+      "titulo": "11º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_11_sunday",
+      "previa": "A certeza que vive em mim, A maior amizade, Meu Senhor, meu sol e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3497353020
+    },
+    {
+      "titulo": "12º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_12_sunday",
+      "previa": "A certeza que vive em mim, A mesa Santa que preparamos (CF 1994), Jesus, Jesus e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3014973300
+    },
+    {
+      "titulo": "12º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_12_sunday",
+      "previa": "A certeza que vive em mim, Daqui do meu lugar, Jesus, Jesus e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2445160996
+    },
+    {
+      "titulo": "12º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_12_sunday",
+      "previa": "A certeza que vive em mim, A maior amizade, Meu Senhor, meu sol e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3990537748
+    },
+    {
+      "titulo": "13º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_13_sunday",
+      "previa": "A certeza que vive em mim, A mesa Santa que preparamos (CF 1994), Jesus, Jesus e mais 1",
+      "total_musicas": 4,
+      "crc_32": 301900371
+    },
+    {
+      "titulo": "13º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_13_sunday",
+      "previa": "A certeza que vive em mim, Vamos com jesus, Jesus, Jesus e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2926603395
+    },
+    {
+      "titulo": "13º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_13_sunday",
+      "previa": "A certeza que vive em mim, Nem a vida, nem a morte, Meu Senhor, meu sol e mais 1",
+      "total_musicas": 4,
+      "crc_32": 4209700027
+    },
+    {
+      "titulo": "14º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_14_sunday",
+      "previa": "Vem, Santo Espírito, É dom de amor, Jesus, Jesus e mais 1",
+      "total_musicas": 4,
+      "crc_32": 598414976
+    },
+    {
+      "titulo": "14º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_14_sunday",
+      "previa": "Vem, Santo Espírito, Daqui do meu lugar, Jesus, Jesus e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2619725904
+    },
+    {
+      "titulo": "14º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_14_sunday",
+      "previa": "Vem, Santo Espírito, Os cristãos tinham tudo em comum (CF 1975), Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1146340351
+    },
+    {
+      "titulo": "15º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_15_sunday",
+      "previa": "Vem, Santo Espírito, É dom de amor, Jesus, Jesus e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2468831165
+    },
+    {
+      "titulo": "15º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_15_sunday",
+      "previa": "Vem, Santo Espírito, Daqui do meu lugar, Jesus, Jesus e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1047506295
+    },
+    {
+      "titulo": "15º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_15_sunday",
+      "previa": "Vem, Santo Espírito, As sementes que me deste, Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2073927000
+    },
+    {
+      "titulo": "16º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_16_sunday",
+      "previa": "Vem, Santo Espírito, É dom de amor, Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1045507444
+    },
+    {
+      "titulo": "16º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_16_sunday",
+      "previa": "Vem, Santo Espírito, Daqui do meu lugar, Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2467946430
+    },
+    {
+      "titulo": "16º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_16_sunday",
+      "previa": "Vem, Santo Espírito, Os cristãos tinham tudo em comum (CF 1975), Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3686150128
+    },
+    {
+      "titulo": "17º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_17_sunday",
+      "previa": "Glória e louvor a Cristo, É dom de amor, Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2980515919
+    },
+    {
+      "titulo": "17º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_17_sunday",
+      "previa": "Glória e louvor a Cristo, A nossa vida é como um barco, Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 4124257053
+    },
+    {
+      "titulo": "17º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_17_sunday",
+      "previa": "Glória e louvor a Cristo, Os cristãos tinham tudo em comum (CF 1975), Jesus de Nazaré e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1169405112
+    },
+    {
+      "titulo": "18º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_18_sunday",
+      "previa": "Glória e louvor a Cristo, Minha vida tem sentido, Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 482882501
+    },
+    {
+      "titulo": "18º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_18_sunday",
+      "previa": "Glória e louvor a Cristo, A nossa vida é como um barco, Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1052956309
+    },
+    {
+      "titulo": "18º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_18_sunday",
+      "previa": "Glória e louvor a Cristo, Os cristãos tinham tudo em comum (CF 1975), Jesus de Nazaré e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2393000240
+    },
+    {
+      "titulo": "19º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_19_sunday",
+      "previa": "Glória e louvor a Cristo, Minha vida tem sentido, Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2311586508
+    },
+    {
+      "titulo": "19º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_19_sunday",
+      "previa": "Glória e louvor a Cristo, A nossa vida é como um barco, Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2626200498
+    },
+    {
+      "titulo": "19º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_19_sunday",
+      "previa": "Glória e louvor a Cristo, Nem a vida, nem a morte, Jesus de Nazaré e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2813584670
+    },
+    {
+      "titulo": "20º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_20_sunday",
+      "previa": "Benditos os pés que evangelizam, Cores da vida, Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3878444802
+    },
+    {
+      "titulo": "20º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_20_sunday",
+      "previa": "Benditos os pés que evangelizam, A nossa vida é como um barco, Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1877530108
+    },
+    {
+      "titulo": "20º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_20_sunday",
+      "previa": "Benditos os pés que evangelizam, Nas tuas mãos, ó Pai do céu, Jesus de Nazaré e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1072765720
+    },
+    {
+      "titulo": "21º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_21_sunday",
+      "previa": "Benditos os pés que evangelizam, Cores da vida, Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1164323365
+    },
+    {
+      "titulo": "21º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_21_sunday",
+      "previa": "Benditos os pés que evangelizam, Vamos com jesus, Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2883354329
+    },
+    {
+      "titulo": "21º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_21_sunday",
+      "previa": "Benditos os pés que evangelizam, Nas tuas mãos, ó Pai do céu, Senhor, sois a luz e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3902788444
+    },
+    {
+      "titulo": "22º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_22_sunday",
+      "previa": "Benditos os pés que evangelizam, Cores da vida, Senhor, sois a luz e mais 1",
+      "total_musicas": 4,
+      "crc_32": 249074695
+    },
+    {
+      "titulo": "22º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_22_sunday",
+      "previa": "Benditos os pés que evangelizam, Vamos com jesus, Senhor, sois a luz e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2620421309
+    },
+    {
+      "titulo": "22º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_22_sunday",
+      "previa": "Benditos os pés que evangelizam, Nas tuas mãos, ó Pai do céu, Senhor, sois a luz e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3799649882
+    },
+    {
+      "titulo": "23º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_23_sunday",
+      "previa": "Benditos os pés que evangelizam, Um coração para amar, Senhor, sois a luz e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3282675707
+    },
+    {
+      "titulo": "23º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_23_sunday",
+      "previa": "Benditos os pés que evangelizam, Vamos com jesus, Senhor, sois a luz e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1048183194
+    },
+    {
+      "titulo": "23º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_23_sunday",
+      "previa": "Benditos os pés que evangelizam, Nas tuas mãos, ó Pai do céu, Senhor, sois a luz e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1076919165
+    },
+    {
+      "titulo": "24º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_24_sunday",
+      "previa": "O Evangelho proclamai, Minha vida tem sentido, Senhor, sois a luz e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3615095249
+    },
+    {
+      "titulo": "24º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_24_sunday",
+      "previa": "O Evangelho proclamai, Vamos com jesus, Senhor, sois a luz e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3402829553
+    },
+    {
+      "titulo": "24º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_24_sunday",
+      "previa": "O Evangelho proclamai, Nas tuas mãos, ó Pai do céu, Senhor, sois a luz e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3029955606
+    },
+    {
+      "titulo": "25º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_25_sunday",
+      "previa": "O Evangelho proclamai, Um coração para amar, Senhor, sois a luz e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2504711607
+    },
+    {
+      "titulo": "25º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_25_sunday",
+      "previa": "O Evangelho proclamai, Vamos com jesus, Senhor, sois a luz e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1754889174
+    },
+    {
+      "titulo": "25º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_25_sunday",
+      "previa": "O Evangelho proclamai, Sinais da nova aliança, Tão perto de mim e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2594475202
+    },
+    {
+      "titulo": "26º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_26_sunday",
+      "previa": "O Evangelho proclamai, Um coração para amar, Senhor, sois a luz e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2833597599
+    },
+    {
+      "titulo": "26º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_26_sunday",
+      "previa": "O Evangelho proclamai, Vamos com jesus, Senhor, sois a luz e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1206968036
+    },
+    {
+      "titulo": "26º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_26_sunday",
+      "previa": "O Evangelho proclamai, Sinais da nova aliança, Tão perto de mim e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2802521578
+    },
+    {
+      "titulo": "27º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_27_sunday",
+      "previa": "O Evangelho proclamai, Este pranto em minhas mãos, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3883607984
+    },
+    {
+      "titulo": "27º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_27_sunday",
+      "previa": "O Evangelho proclamai, Vamos com jesus, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2139734749
+    },
+    {
+      "titulo": "27º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_27_sunday",
+      "previa": "O Evangelho proclamai, Ó Pai, que pelo Espírito, Tão perto de mim e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2728285313
+    },
+    {
+      "titulo": "28º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_28_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Este pranto em minhas mãos, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2335241356
+    },
+    {
+      "titulo": "28º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_28_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Oferta do sim, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3896042595
+    },
+    {
+      "titulo": "28º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_28_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), As sementes que me deste, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1814537601
+    },
+    {
+      "titulo": "29º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_29_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Este pranto em minhas mãos, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 695894443
+    },
+    {
+      "titulo": "29º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_29_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Oferta do sim, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1249022276
+    },
+    {
+      "titulo": "29º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_29_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Grande é o Senhor, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1214930917
+    },
+    {
+      "titulo": "30º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_30_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Este pranto em minhas mãos, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1016901997
+    },
+    {
+      "titulo": "30º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_30_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Oferta do sim, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1603576194
+    },
+    {
+      "titulo": "30º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_30_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Nem a vida, nem a morte, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3444839145
+    },
+    {
+      "titulo": "31º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_31_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Este pranto em minhas mãos, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3010104406
+    },
+    {
+      "titulo": "31º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_31_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Oferta do sim, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3878213783
+    },
+    {
+      "titulo": "31º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_31_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Grande é o Senhor, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3531231768
+    },
+    {
+      "titulo": "32º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_32_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Recebe, Senhor, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3447373536
+    },
+    {
+      "titulo": "32º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_32_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Oferta do sim, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3666297279
+    },
+    {
+      "titulo": "32º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_32_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Grande é o Senhor, Santo do axé e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3974123865
+    },
+    {
+      "titulo": "33º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_33_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Recebe, Senhor, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1865468871
+    },
+    {
+      "titulo": "33º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_33_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Oferta do sim, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2026714264
+    },
+    {
+      "titulo": "33º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_33_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Nem a vida, nem a morte, Santo do axé e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3732036020
+    },
+    {
+      "titulo": "34º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_34_sunday",
+      "previa": "Ide pelo mundo, Proclamação do Natal, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1506970424
+    },
+    {
+      "titulo": "34º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_34_sunday",
+      "previa": "Ide pelo mundo, Proclamação do Natal, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 632532707
+    },
+    {
+      "titulo": "34º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_34_sunday",
+      "previa": "Maria, estrela da evangelização, Santo do axé, Cantiga Mariana",
+      "total_musicas": 3,
+      "crc_32": 2131474977
+    },
+    {
+      "titulo": "Santa Maria, Mãe de Deus",
+      "slug": "mary_mother_of_god",
+      "previa": "Dai-nos Senhor Vossa luz e Vossos dons, Eu desejei este momento, Santo e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2236707692
+    },
+    {
+      "titulo": "Apresentação do Senhor",
+      "slug": "presentation_of_the_lord",
+      "previa": "Nesta mesa sou mais livre, Vem caminhar comigo, Ó Trindade (CF 1989)",
+      "total_musicas": 3,
+      "crc_32": 3130094776
+    },
+    {
+      "titulo": "Santíssima Trindade",
+      "slug": "most_holy_trinity",
+      "previa": "Já existe a partilha, Horizonte maior, Este pão que nos dá vida (CF 1986)",
+      "total_musicas": 3,
+      "crc_32": 2925159920
+    },
+    {
+      "titulo": "Corpus Christi",
+      "slug": "most_holy_body_and_blood_of_christ",
+      "previa": "À Vossa mesa nos sentamos (CF 1991), Grande mesa, A Eucaristia faz a Igreja e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3626370530
+    },
+    {
+      "titulo": "Natividade de São João Batista",
+      "slug": "nativity_of_john_the_baptist",
+      "previa": "A nossa vida a um sopro é semelhante, Onde houver dois ou três, Jesus está aqui",
+      "total_musicas": 3,
+      "crc_32": 1478812980
+    },
+    {
+      "titulo": "São Pedro e São Paulo",
+      "slug": "peter_and_paul_apostles",
+      "previa": "Tua Palavra é assim, Seu nome é Jesus, Cordeiro de Deus (CF 1998)",
+      "total_musicas": 3,
+      "crc_32": 4190642155
+    },
+    {
+      "titulo": "Transfiguração do Senhor",
+      "slug": "transfiguration_of_the_lord",
+      "previa": "No silêncio da noite, Salmo 147, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3279176772
+    },
+    {
+      "titulo": "Assunção de Nossa Senhora",
+      "slug": "assumption_of_the_blessed_virgin_mary",
+      "previa": "Boa nova em nossa vida, Ilumina, ilumina",
+      "total_musicas": 2,
+      "crc_32": 924203478
+    },
+    {
+      "titulo": "Exaltação da Santa Cruz",
+      "slug": "exaltation_of_the_holy_cross",
+      "previa": "Louvado seja o meu Senhor, Utopia, Famílias do Brasil",
+      "total_musicas": 3,
+      "crc_32": 2338743668
+    },
+    {
+      "titulo": "Nossa Senhora da Conceição Aparecida",
+      "slug": "our_lady_of_aparecida",
+      "previa": "Graças Senhor, Vivemos para servir, Se Tu nos amas",
+      "total_musicas": 3,
+      "crc_32": 858648618
+    },
+    {
+      "titulo": "Todos os Santos e Santas",
+      "slug": "all_saints",
+      "previa": "Carnavalito de andar, Deus nos abençoe, Vem, Senhor, faze entre nós (CF 1993) e mais 1",
+      "total_musicas": 4,
+      "crc_32": 4132260406
+    },
+    {
+      "titulo": "Finados",
+      "slug": "commemoration_of_all_the_faithful_departed",
+      "previa": "Vou levar, A semente lançada, Vem, Senhor, faze entre nós (CF 1993)",
+      "total_musicas": 3,
+      "crc_32": 1285485635
+    },
+    {
+      "titulo": "Dedicação da Basílica de Latrão",
+      "slug": "dedication_of_the_lateran_basilica",
+      "previa": "Fortes na fé, A semente lançada, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2959359587
+    },
+    {
+      "titulo": "Imaculada Conceição de Nossa Senhora",
+      "slug": "immaculate_conception_of_the_blessed_virgin_mary",
+      "previa": "Graças Senhor, Maria, mãe companheira, Senhora e Rainha e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2023856573
+    }
+  ]
+}

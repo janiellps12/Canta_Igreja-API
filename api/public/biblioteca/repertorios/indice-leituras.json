@@ -1,0 +1,922 @@
+{
+  "nome": "Leituras",
+  "itens": [
+    {
+      "titulo": "10º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_10_sunday",
+      "previa": "Salmo Responsorial - 10º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 3235571539
+    },
+    {
+      "titulo": "10º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_10_sunday",
+      "previa": "Salmo Responsorial - 10º Domingo do Tempo Comum - Ano B - 5º Domingo da Quaresma - Ano A - 5º Domingo da Quaresma - Ano C (opção 2)",
+      "total_musicas": 1,
+      "crc_32": 3809701229
+    },
+    {
+      "titulo": "10º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_10_sunday",
+      "previa": "Salmo Responsorial - 13º Domingo do Tempo Comum - Ano B - 10º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 2594133570
+    },
+    {
+      "titulo": "11º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_11_sunday",
+      "previa": "Salmo Responsorial - 11º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 2784511401
+    },
+    {
+      "titulo": "11º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_11_sunday",
+      "previa": "Salmo Responsorial - 11º Domingo do Tempo Comum - Ano B - 8º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 3330482417
+    },
+    {
+      "titulo": "11º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_11_sunday",
+      "previa": "Salmo Responsorial - 11º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 4290639032
+    },
+    {
+      "titulo": "12º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_12_sunday",
+      "previa": "Salmo Responsorial - 12º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 1885595313
+    },
+    {
+      "titulo": "12º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_12_sunday",
+      "previa": "Salmo Responsorial - 12º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 1841688438
+    },
+    {
+      "titulo": "12º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_12_sunday",
+      "previa": "Salmo Responsorial - 12º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 707155872
+    },
+    {
+      "titulo": "13º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_13_sunday",
+      "previa": "Salmo Responsorial - 13º Domingo do Tempo Comum - Ano B - 10º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 2133653781
+    },
+    {
+      "titulo": "13º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_13_sunday",
+      "previa": "Salmo Responsorial - 13º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 598682422
+    },
+    {
+      "titulo": "14º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_14_sunday",
+      "previa": "Salmo Responsorial - 14º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 371801669
+    },
+    {
+      "titulo": "14º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_14_sunday",
+      "previa": "Salmo Responsorial - 14º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 2084864795
+    },
+    {
+      "titulo": "14º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_14_sunday",
+      "previa": "Salmo Responsorial - 14º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 1516246993
+    },
+    {
+      "titulo": "15º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_15_sunday",
+      "previa": "Salmo Responsorial - 15º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 1804276173
+    },
+    {
+      "titulo": "15º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_15_sunday",
+      "previa": "Salmo Responsorial - 15º Domingo do Tempo Comum - Ano B - 19º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 2898346410
+    },
+    {
+      "titulo": "15º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_15_sunday",
+      "previa": "Salmo Responsorial - 15º Domingo do Tempo Comum - Ano C - Opção 1, Salmo Responsorial - 15º Domingo do Tempo Comum - Ano C - Opção 2",
+      "total_musicas": 2,
+      "crc_32": 2544840144
+    },
+    {
+      "titulo": "16º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_16_sunday",
+      "previa": "Salmo Responsorial - 16º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 2775636000
+    },
+    {
+      "titulo": "16º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_16_sunday",
+      "previa": "Salmo Responsorial - 16º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 1648003143
+    },
+    {
+      "titulo": "16º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_16_sunday",
+      "previa": "Salmo Responsorial - 16º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 1745300871
+    },
+    {
+      "titulo": "17º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_17_sunday",
+      "previa": "Salmo Responsorial - 17º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 2902041782
+    },
+    {
+      "titulo": "17º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_17_sunday",
+      "previa": "Salmo Responsorial - 17º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 3331594728
+    },
+    {
+      "titulo": "17º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_17_sunday",
+      "previa": "Salmo Responsorial - 17º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 3769666850
+    },
+    {
+      "titulo": "18º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_18_sunday",
+      "previa": "Salmo Responsorial - 18º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 249349114
+    },
+    {
+      "titulo": "18º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_18_sunday",
+      "previa": "Salmo Responsorial - 18º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 3382088605
+    },
+    {
+      "titulo": "18º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_18_sunday",
+      "previa": "Salmo Responsorial - 18º Domingo do Tempo Comum - Ano C - 23º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 2876949063
+    },
+    {
+      "titulo": "19º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_19_sunday",
+      "previa": "Salmo Responsorial - 15º Domingo do Tempo Comum - Ano B - 19º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 3911211700
+    },
+    {
+      "titulo": "19º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_19_sunday",
+      "previa": "Salmo Responsorial - 19º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 333803181
+    },
+    {
+      "titulo": "19º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_19_sunday",
+      "previa": "Salmo Responsorial - 19º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 2565216094
+    },
+    {
+      "titulo": "1º Domingo da Quaresma",
+      "slug": "ano_a_lent_1_sunday",
+      "previa": "Salmo Responsorial - 1º Domingo da Quaresma - Ano A",
+      "total_musicas": 1,
+      "crc_32": 1137952258
+    },
+    {
+      "titulo": "1º Domingo da Quaresma",
+      "slug": "ano_b_lent_1_sunday",
+      "previa": "Salmo Responsorial - 1º Domingo da Quaresma - Ano B",
+      "total_musicas": 1,
+      "crc_32": 703419247
+    },
+    {
+      "titulo": "1º Domingo da Quaresma",
+      "slug": "ano_c_lent_1_sunday",
+      "previa": "Salmo Responsorial - 1º Domingo da Quaresma - Ano C",
+      "total_musicas": 1,
+      "crc_32": 832400572
+    },
+    {
+      "titulo": "1º Domingo do Advento",
+      "slug": "ano_a_advent_1_sunday",
+      "previa": "Salmo Responsorial - 1º Domingo do Advento - Ano A",
+      "total_musicas": 1,
+      "crc_32": 2902183480
+    },
+    {
+      "titulo": "1º Domingo do Advento",
+      "slug": "ano_b_advent_1_sunday",
+      "previa": "Salmo Responsorial - 1º Domingo do Advento - Ano B - 4º Domingo do Advento - Ano C",
+      "total_musicas": 1,
+      "crc_32": 3813811124
+    },
+    {
+      "titulo": "1º Domingo do Advento",
+      "slug": "ano_c_advent_1_sunday",
+      "previa": "Salmo Responsorial - 1º Domingo do Advento - Ano C",
+      "total_musicas": 1,
+      "crc_32": 704944699
+    },
+    {
+      "titulo": "20º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_20_sunday",
+      "previa": "Salmo Responsorial - 20º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 1588002407
+    },
+    {
+      "titulo": "21º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_21_sunday",
+      "previa": "Salmo Responsorial - 21º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 1867380859
+    },
+    {
+      "titulo": "21º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_21_sunday",
+      "previa": "Salmo Responsorial - 21º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 2819074076
+    },
+    {
+      "titulo": "21º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_21_sunday",
+      "previa": "Salmo Responsorial - 21º Domingo do Tempo Comum - Ano C - 9º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 2504218147
+    },
+    {
+      "titulo": "22º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_22_sunday",
+      "previa": "Salmo Responsorial - 22º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 3082463507
+    },
+    {
+      "titulo": "22º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_22_sunday",
+      "previa": "Salmo Responsorial - 22º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 3721860173
+    },
+    {
+      "titulo": "22º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_22_sunday",
+      "previa": "Salmo Responsorial - 22º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 4227039367
+    },
+    {
+      "titulo": "23º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_23_sunday",
+      "previa": "Salmo Responsorial - 23º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 320092348
+    },
+    {
+      "titulo": "23º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_23_sunday",
+      "previa": "Salmo Responsorial - 23º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 3562957019
+    },
+    {
+      "titulo": "23º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_23_sunday",
+      "previa": "Salmo Responsorial - 18º Domingo do Tempo Comum - Ano C - 23º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 2972251376
+    },
+    {
+      "titulo": "24º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_24_sunday",
+      "previa": "Salmo Responsorial - 24º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 3522195943
+    },
+    {
+      "titulo": "24º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_24_sunday",
+      "previa": "Salmo Responsorial - 24º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 381297024
+    },
+    {
+      "titulo": "24º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_24_sunday",
+      "previa": "Salmo Responsorial - 24º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 3314236007
+    },
+    {
+      "titulo": "25º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_25_sunday",
+      "previa": "Salmo Responsorial - 25º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 24490838
+    },
+    {
+      "titulo": "25º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_25_sunday",
+      "previa": "Salmo Responsorial - 25º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 2557853758
+    },
+    {
+      "titulo": "25º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_25_sunday",
+      "previa": "Salmo Responsorial - 25º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 3193001204
+    },
+    {
+      "titulo": "26º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_26_sunday",
+      "previa": "Salmo Responsorial - 26º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 831473405
+    },
+    {
+      "titulo": "26º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_26_sunday",
+      "previa": "Salmo Responsorial - 26º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 4140111514
+    },
+    {
+      "titulo": "26º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_26_sunday",
+      "previa": "Salmo Responsorial - 26º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 4244157274
+    },
+    {
+      "titulo": "27º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_27_sunday",
+      "previa": "Salmo Responsorial - 27º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 939932267
+    },
+    {
+      "titulo": "27º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_27_sunday",
+      "previa": "Salmo Responsorial - 27º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 1382778677
+    },
+    {
+      "titulo": "27º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_27_sunday",
+      "previa": "Salmo Responsorial - 27º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 1951339519
+    },
+    {
+      "titulo": "28º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_28_sunday",
+      "previa": "Salmo Responsorial - 28º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 2586008871
+    },
+    {
+      "titulo": "28º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_28_sunday",
+      "previa": "Salmo Responsorial - 28º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 1567165760
+    },
+    {
+      "titulo": "28º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_28_sunday",
+      "previa": "Salmo Responsorial - 28º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 1613624191
+    },
+    {
+      "titulo": "29º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_29_sunday",
+      "previa": "Salmo Responsorial - 29º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 2765322830
+    },
+    {
+      "titulo": "29º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_29_sunday",
+      "previa": "Salmo Responsorial - 29º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 3468609296
+    },
+    {
+      "titulo": "29º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_29_sunday",
+      "previa": "Salmo Responsorial - 29º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 3902428122
+    },
+    {
+      "titulo": "2º Domingo da Quaresma",
+      "slug": "ano_a_lent_2_sunday",
+      "previa": "Salmo Responsorial - 2º Domingo da Quaresma - Ano A",
+      "total_musicas": 1,
+      "crc_32": 1075781580
+    },
+    {
+      "titulo": "2º Domingo da Quaresma",
+      "slug": "ano_b_lent_2_sunday",
+      "previa": "Salmo Responsorial - 2º Domingo da Quaresma - Ano B",
+      "total_musicas": 1,
+      "crc_32": 513435239
+    },
+    {
+      "titulo": "2º Domingo da Quaresma",
+      "slug": "ano_c_lent_2_sunday",
+      "previa": "Salmo Responsorial - 2º Domingo da Quaresma - Ano C",
+      "total_musicas": 1,
+      "crc_32": 2036768924
+    },
+    {
+      "titulo": "2º Domingo do Advento",
+      "slug": "ano_a_advent_2_sunday",
+      "previa": "Salmo Responsorial - 2º Domingo do Advento - Ano A",
+      "total_musicas": 1,
+      "crc_32": 1752039360
+    },
+    {
+      "titulo": "2º Domingo do Advento",
+      "slug": "ano_b_advent_2_sunday",
+      "previa": "Salmo Responsorial - 2º Domingo do Advento - Ano B",
+      "total_musicas": 1,
+      "crc_32": 1079345890
+    },
+    {
+      "titulo": "2º Domingo do Advento",
+      "slug": "ano_c_advent_2_sunday",
+      "previa": "Salmo Responsorial - 2º Domingo do Advento - Ano C - 30º Domingo do Tempo Comum - Ano B - 5º Domingo da Quaresma - Ano C (opção 1)",
+      "total_musicas": 1,
+      "crc_32": 3445620841
+    },
+    {
+      "titulo": "2º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_2_sunday",
+      "previa": "Salmo Responsorial - 2º Domingo do Tempo Comum - Ano A - 2º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 1051448536
+    },
+    {
+      "titulo": "2º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_2_sunday",
+      "previa": "Salmo Responsorial - 2º Domingo do Tempo Comum - Ano A - 2º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 1120596227
+    },
+    {
+      "titulo": "2º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_2_sunday",
+      "previa": "Salmo Responsorial - 2º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 3854357911
+    },
+    {
+      "titulo": "30º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_30_sunday",
+      "previa": "Salmo Responsorial - 30º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 4134253375
+    },
+    {
+      "titulo": "30º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_30_sunday",
+      "previa": "Salmo Responsorial - 2º Domingo do Advento - Ano C - 30º Domingo do Tempo Comum - Ano B - 5º Domingo da Quaresma - Ano C (opção 1)",
+      "total_musicas": 1,
+      "crc_32": 3741681887
+    },
+    {
+      "titulo": "30º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_30_sunday",
+      "previa": "Salmo Responsorial - 30º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 2055343650
+    },
+    {
+      "titulo": "31º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_31_sunday",
+      "previa": "Salmo Responsorial - 31º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 3256722120
+    },
+    {
+      "titulo": "31º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_31_sunday",
+      "previa": "Salmo Responsorial - 31º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 1226758971
+    },
+    {
+      "titulo": "32º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_32_sunday",
+      "previa": "Salmo Responsorial - 32º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 1810310155
+    },
+    {
+      "titulo": "32º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_32_sunday",
+      "previa": "Salmo Responsorial - 32º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 2159297894
+    },
+    {
+      "titulo": "32º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_32_sunday",
+      "previa": "Salmo Responsorial - 32º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 2794508716
+    },
+    {
+      "titulo": "33º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_33_sunday",
+      "previa": "Salmo Responsorial - 33º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 3477714340
+    },
+    {
+      "titulo": "33º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_33_sunday",
+      "previa": "Salmo Responsorial - 33º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 134473155
+    },
+    {
+      "titulo": "33º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_33_sunday",
+      "previa": "Salmo Responsorial - 33º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 3677552164
+    },
+    {
+      "titulo": "3º Domingo da Páscoa",
+      "slug": "ano_a_easter_time_3_sunday",
+      "previa": "Salmo Responsorial - 3º Domingo da Páscoa - Ano A",
+      "total_musicas": 1,
+      "crc_32": 3897970160
+    },
+    {
+      "titulo": "3º Domingo da Páscoa",
+      "slug": "ano_b_easter_time_3_sunday",
+      "previa": "Salmo Responsorial - 3º Domingo da Páscoa - Ano B",
+      "total_musicas": 1,
+      "crc_32": 1718135991
+    },
+    {
+      "titulo": "3º Domingo da Páscoa",
+      "slug": "ano_c_easter_time_3_sunday",
+      "previa": "Salmo Responsorial - 3º Domingo da Páscoa - Ano C",
+      "total_musicas": 1,
+      "crc_32": 2843359803
+    },
+    {
+      "titulo": "3º Domingo da Quaresma",
+      "slug": "ano_a_lent_3_sunday",
+      "previa": "Salmo Responsorial - 3º Domingo da Quaresma - Ano A - 3º Domingo da Quaresma - Ano C (Opção 2)",
+      "total_musicas": 1,
+      "crc_32": 427706564
+    },
+    {
+      "titulo": "3º Domingo da Quaresma",
+      "slug": "ano_b_lent_3_sunday",
+      "previa": "Salmo Responsorial - 3º Domingo da Quaresma - Ano B",
+      "total_musicas": 1,
+      "crc_32": 566229270
+    },
+    {
+      "titulo": "3º Domingo da Quaresma",
+      "slug": "ano_c_lent_3_sunday",
+      "previa": "Salmo Responsorial - 3º Domingo da Quaresma - Ano C (Opção 1), Salmo Responsorial - 3º Domingo da Quaresma - Ano A - 3º Domingo da Quaresma - Ano C (Opção 2)",
+      "total_musicas": 2,
+      "crc_32": 3015513536
+    },
+    {
+      "titulo": "3º Domingo do Advento",
+      "slug": "ano_a_advent_3_sunday",
+      "previa": "Salmo Responsorial - 3º Domingo do Advento - Ano A",
+      "total_musicas": 1,
+      "crc_32": 2707088403
+    },
+    {
+      "titulo": "3º Domingo do Advento",
+      "slug": "ano_b_advent_3_sunday",
+      "previa": "Salmo Responsorial - 3º Domingo do Advento - Ano B",
+      "total_musicas": 1,
+      "crc_32": 1178712173
+    },
+    {
+      "titulo": "3º Domingo do Advento",
+      "slug": "ano_c_advent_3_sunday",
+      "previa": "Salmo Responsorial - 3º Domingo do Advento - Ano C",
+      "total_musicas": 1,
+      "crc_32": 3901133132
+    },
+    {
+      "titulo": "3º Domingo do Tempo Comum",
+      "slug": "ano_a_sunday_of_the_word_of_god",
+      "previa": "Salmo Responsorial - 3º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 2515346985
+    },
+    {
+      "titulo": "3º Domingo do Tempo Comum",
+      "slug": "ano_b_sunday_of_the_word_of_god",
+      "previa": "Salmo Responsorial - 3º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 2173951198
+    },
+    {
+      "titulo": "3º Domingo do Tempo Comum",
+      "slug": "ano_c_sunday_of_the_word_of_god",
+      "previa": "Salmo Responsorial - 3º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 699323343
+    },
+    {
+      "titulo": "4º Domingo da Páscoa",
+      "slug": "ano_a_easter_time_4_sunday",
+      "previa": "Salmo Responsorial - 4º Domingo da Páscoa - Ano A",
+      "total_musicas": 1,
+      "crc_32": 3116082040
+    },
+    {
+      "titulo": "4º Domingo da Páscoa",
+      "slug": "ano_b_easter_time_4_sunday",
+      "previa": "Salmo Responsorial - 4º Domingo da Páscoa - Ano B",
+      "total_musicas": 1,
+      "crc_32": 2381401813
+    },
+    {
+      "titulo": "4º Domingo da Páscoa",
+      "slug": "ano_c_easter_time_4_sunday",
+      "previa": "Salmo Responsorial - 4º Domingo da Páscoa - Ano C",
+      "total_musicas": 1,
+      "crc_32": 1122228313
+    },
+    {
+      "titulo": "4º Domingo da Quaresma",
+      "slug": "ano_a_lent_4_sunday",
+      "previa": "Salmo Responsorial - 4º Domingo da Quaresma - Ano A - 4º Domingo da Quaresma - Ano B (opção 2) - 4º Domingo da Quaresma - Ano C (opção 2)",
+      "total_musicas": 1,
+      "crc_32": 2369196800
+    },
+    {
+      "titulo": "4º Domingo da Quaresma",
+      "slug": "ano_b_lent_4_sunday",
+      "previa": "Salmo Responsorial - 4º Domingo da Quaresma - Ano B (opção 1), Salmo Responsorial - 4º Domingo da Quaresma - Ano A - 4º Domingo da Quaresma - Ano B (opção 2) - 4º Domingo da Quaresma - Ano C (opção 2)",
+      "total_musicas": 2,
+      "crc_32": 3682584329
+    },
+    {
+      "titulo": "4º Domingo da Quaresma",
+      "slug": "ano_c_lent_4_sunday",
+      "previa": "Salmo Responsorial - 4º Domingo da Quaresma - Ano C (opção 1), Salmo Responsorial - 4º Domingo da Quaresma - Ano A - 4º Domingo da Quaresma - Ano B (opção 2) - 4º Domingo da Quaresma - Ano C (opção 2)",
+      "total_musicas": 2,
+      "crc_32": 1949662987
+    },
+    {
+      "titulo": "4º Domingo do Advento",
+      "slug": "ano_a_advent_4_sunday",
+      "previa": "Salmo Responsorial - 4º Domingo do Advento - Ano A",
+      "total_musicas": 1,
+      "crc_32": 1363265068
+    },
+    {
+      "titulo": "4º Domingo do Advento",
+      "slug": "ano_b_advent_4_sunday",
+      "previa": "Salmo Responsorial - 4º Domingo do Advento - Ano B",
+      "total_musicas": 1,
+      "crc_32": 3059391058
+    },
+    {
+      "titulo": "4º Domingo do Advento",
+      "slug": "ano_c_advent_4_sunday",
+      "previa": "Salmo Responsorial - 1º Domingo do Advento - Ano B - 4º Domingo do Advento - Ano C",
+      "total_musicas": 1,
+      "crc_32": 449462100
+    },
+    {
+      "titulo": "4º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_4_sunday",
+      "previa": "Salmo Responsorial - 4º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 1585123744
+    },
+    {
+      "titulo": "4º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_4_sunday",
+      "previa": "Salmo Responsorial - 4º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 1112405156
+    },
+    {
+      "titulo": "4º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_4_sunday",
+      "previa": "Salmo Responsorial - 4º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 4285573735
+    },
+    {
+      "titulo": "5º Domingo da Páscoa",
+      "slug": "ano_a_easter_time_5_sunday",
+      "previa": "Salmo Responsorial - 5º Domingo da Páscoa - Ano A",
+      "total_musicas": 1,
+      "crc_32": 2218337492
+    },
+    {
+      "titulo": "5º Domingo da Páscoa",
+      "slug": "ano_b_easter_time_5_sunday",
+      "previa": "Salmo Responsorial - 5º Domingo da Páscoa - Ano B",
+      "total_musicas": 1,
+      "crc_32": 2856679157
+    },
+    {
+      "titulo": "5º Domingo da Páscoa",
+      "slug": "ano_c_easter_time_5_sunday",
+      "previa": "Salmo Responsorial - 5º Domingo da Páscoa - Ano C",
+      "total_musicas": 1,
+      "crc_32": 3306509087
+    },
+    {
+      "titulo": "5º Domingo da Quaresma",
+      "slug": "ano_a_lent_5_sunday",
+      "previa": "Salmo Responsorial - 10º Domingo do Tempo Comum - Ano B - 5º Domingo da Quaresma - Ano A - 5º Domingo da Quaresma - Ano C (opção 2)",
+      "total_musicas": 1,
+      "crc_32": 2794293911
+    },
+    {
+      "titulo": "5º Domingo da Quaresma",
+      "slug": "ano_b_lent_5_sunday",
+      "previa": "Salmo Responsorial - 5º Domingo da Quaresma - Ano B",
+      "total_musicas": 1,
+      "crc_32": 812400580
+    },
+    {
+      "titulo": "5º Domingo da Quaresma",
+      "slug": "ano_c_lent_5_sunday",
+      "previa": "Salmo Responsorial - 2º Domingo do Advento - Ano C - 30º Domingo do Tempo Comum - Ano B - 5º Domingo da Quaresma - Ano C (opção 1), Salmo Responsorial - 10º Domingo do Tempo Comum - Ano B - 5º Domingo da Quaresma - Ano A - 5º Domingo da Quaresma - Ano C (opção 2)",
+      "total_musicas": 2,
+      "crc_32": 864904424
+    },
+    {
+      "titulo": "5º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_5_sunday",
+      "previa": "Salmo Responsorial - 5º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 1748957479
+    },
+    {
+      "titulo": "5º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_5_sunday",
+      "previa": "Salmo Responsorial - 5º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 1946688547
+    },
+    {
+      "titulo": "5º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_5_sunday",
+      "previa": "Salmo Responsorial - 5º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 3375710944
+    },
+    {
+      "titulo": "6º Domingo da Páscoa",
+      "slug": "ano_a_easter_time_6_sunday",
+      "previa": "Salmo Responsorial - 6º Domingo da Páscoa - Ano A",
+      "total_musicas": 1,
+      "crc_32": 4118562561
+    },
+    {
+      "titulo": "6º Domingo da Páscoa",
+      "slug": "ano_b_easter_time_6_sunday",
+      "previa": "Salmo Responsorial - 6º Domingo da Páscoa - Ano B",
+      "total_musicas": 1,
+      "crc_32": 3674215712
+    },
+    {
+      "titulo": "6º Domingo da Páscoa",
+      "slug": "ano_c_easter_time_6_sunday",
+      "previa": "Salmo Responsorial - 6º Domingo da Páscoa - Ano C",
+      "total_musicas": 1,
+      "crc_32": 2955439192
+    },
+    {
+      "titulo": "6º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_6_sunday",
+      "previa": "Salmo Responsorial - 6º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 3195919528
+    },
+    {
+      "titulo": "6º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_6_sunday",
+      "previa": "Salmo Responsorial - 6º Domingo do Tempo Comum - Ano B",
+      "total_musicas": 1,
+      "crc_32": 4167384209
+    },
+    {
+      "titulo": "6º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_6_sunday",
+      "previa": "Salmo Responsorial - 6º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 1163420242
+    },
+    {
+      "titulo": "7º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_7_sunday",
+      "previa": "Salmo Responsorial - 7º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 3296118266
+    },
+    {
+      "titulo": "7º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_7_sunday",
+      "previa": "Salmo Responsorial - 7º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 86687458
+    },
+    {
+      "titulo": "8º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_8_sunday",
+      "previa": "Salmo Responsorial - 8º Domingo do Tempo Comum - Ano A",
+      "total_musicas": 1,
+      "crc_32": 3377303141
+    },
+    {
+      "titulo": "8º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_8_sunday",
+      "previa": "Salmo Responsorial - 11º Domingo do Tempo Comum - Ano B - 8º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 1793658019
+    },
+    {
+      "titulo": "9º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_9_sunday",
+      "previa": "Salmo Responsorial - 9º Domingo do Tempo Comum - Ano",
+      "total_musicas": 1,
+      "crc_32": 3758748781
+    },
+    {
+      "titulo": "9º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_9_sunday",
+      "previa": "Salmo Responsorial - 21º Domingo do Tempo Comum - Ano C - 9º Domingo do Tempo Comum - Ano C",
+      "total_musicas": 1,
+      "crc_32": 2978093594
+    },
+    {
+      "titulo": "Domingo na oitava da Páscoa - Domingo da Divina Misericórdia",
+      "slug": "ano_a_divine_mercy_sunday",
+      "previa": "Salmo Responsorial - Domingo na oitava da Páscoa - Domingo da Divina Misericórdia - Ano A",
+      "total_musicas": 1,
+      "crc_32": 3472693147
+    },
+    {
+      "titulo": "Domingo na oitava da Páscoa - Domingo da Divina Misericórdia",
+      "slug": "ano_b_divine_mercy_sunday",
+      "previa": "Salmo Responsorial - Domingo na oitava da Páscoa - Domingo da Divina Misericórdia - Ano B",
+      "total_musicas": 1,
+      "crc_32": 553931544
+    },
+    {
+      "titulo": "Domingo na oitava da Páscoa - Domingo da Divina Misericórdia",
+      "slug": "ano_c_divine_mercy_sunday",
+      "previa": "Salmo Responsorial - Domingo na oitava da Páscoa - Domingo da Divina Misericórdia - Ano C",
+      "total_musicas": 1,
+      "crc_32": 3382607581
+    }
+  ]
+}

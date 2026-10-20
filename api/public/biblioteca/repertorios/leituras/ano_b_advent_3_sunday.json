@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "3º Domingo do Advento",
+    "itens": [
+      {
+        "id_musica": 3914,
+        "momento": "Salmo Responsorial",
+        "metadata": {
+          "indice": "2",
+          "ignorar": false
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "advent_3_sunday",
+      "referencia": "Conferência Nacional dos Bispos do Brasil",
+      "ano": "B"
+    }
+  }
+]

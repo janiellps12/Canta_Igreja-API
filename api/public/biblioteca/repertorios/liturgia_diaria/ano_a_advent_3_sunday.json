@@ -1,0 +1,44 @@
+[
+  {
+    "titulo": "3º Domingo do Advento",
+    "itens": [
+      {
+        "id_musica": 3835,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": "6",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3742,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": "7",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3836,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": "8",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3834,
+        "momento": "Final",
+        "metadata": {
+          "indice": "9",
+          "ignorar": false
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "advent_3_sunday",
+      "referencia": "Liturgia Diária Dezembro 2025 - Ano 34 Nº 408",
+      "ano": "A"
+    }
+  }
+]

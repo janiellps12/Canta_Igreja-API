@@ -1,0 +1,237 @@
+[
+  {
+    "titulo": "3º Domingo do Tempo Comum",
+    "itens": [
+      {
+        "id_musica": 213,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3015,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": "22",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Janeiro 2025 - Ano 34 Nº 397"
+          ]
+        }
+      },
+      {
+        "id_musica": 3918,
+        "momento": "Salmo Responsorial",
+        "metadata": {
+          "indice": "2",
+          "ignorar": false,
+          "referencias": [
+            "Conferência Nacional dos Bispos do Brasil"
+          ]
+        }
+      },
+      {
+        "id_musica": 266,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3045,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": "23",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Janeiro 2025 - Ano 34 Nº 397"
+          ]
+        }
+      },
+      {
+        "id_musica": 287,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3366,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": "24",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Janeiro 2025 - Ano 34 Nº 397"
+          ]
+        }
+      },
+      {
+        "id_musica": 327,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3771,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": "25",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Janeiro 2025 - Ano 34 Nº 397"
+          ]
+        }
+      },
+      {
+        "id_musica": 3772,
+        "momento": "Final",
+        "metadata": {
+          "indice": "26",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Janeiro 2025 - Ano 34 Nº 397"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "sunday_of_the_word_of_god",
+      "referencias": [
+        "Alegre Cantemos - 3º edição",
+        "Conferência Nacional dos Bispos do Brasil",
+        "Liturgia Diária Janeiro 2025 - Ano 34 Nº 397"
+      ],
+      "ano": "C"
+    }
+  },
+  {
+    "titulo": "25 de Janeiro de 2026",
+    "itens": [
+      {
+        "id_musica": 3004,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 25 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 3015,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 25 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 3918,
+        "momento": "Salmo Responsorial",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 25 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 3045,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 25 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 261,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 25 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 3366,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 25 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 3085,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 25 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 3489,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": true,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 25 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 3772,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 25 de Janeiro de 2026"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "sunday_of_the_word_of_god",
+      "referencias": [
+        "O Domingo - Semanário litúrgico catequético - 25 de Janeiro de 2026"
+      ],
+      "ano": "C"
+    }
+  }
+]

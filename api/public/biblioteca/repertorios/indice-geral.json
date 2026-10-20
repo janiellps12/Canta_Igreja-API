@@ -1,0 +1,1300 @@
+{
+  "nome": "Geral",
+  "itens": [
+    {
+      "titulo": "Todos os Santos e Santas",
+      "slug": "all_saints",
+      "previa": "Carnavalito de andar, Amém, aleluia! Vi cantar no Céu!, Deus nos abençoe e mais 13",
+      "total_musicas": 16,
+      "crc_32": 315519903
+    },
+    {
+      "titulo": "1º Domingo do Advento",
+      "slug": "ano_a_advent_1_sunday",
+      "previa": "Hosana, A justiça de Deus!, Salmo Responsorial - 1º Domingo do Advento - Ano A e mais 5",
+      "total_musicas": 8,
+      "crc_32": 828081437
+    },
+    {
+      "titulo": "2º Domingo do Advento",
+      "slug": "ano_a_advent_2_sunday",
+      "previa": "Hosana, Eis que de longe vem o Senhor, Salmo Responsorial - 2º Domingo do Advento - Ano A e mais 7",
+      "total_musicas": 10,
+      "crc_32": 508204882
+    },
+    {
+      "titulo": "3º Domingo do Advento",
+      "slug": "ano_a_advent_3_sunday",
+      "previa": "Alegrai-vos sempre no Senhor!, Salmo Responsorial - 3º Domingo do Advento - Ano A, Com amor eterno e mais 5",
+      "total_musicas": 8,
+      "crc_32": 261646893
+    },
+    {
+      "titulo": "4º Domingo do Advento",
+      "slug": "ano_a_advent_4_sunday",
+      "previa": "Ceia de despedida, Como o sol nasce da aurora, Salmo Responsorial - 4º Domingo do Advento - Ano A e mais 6",
+      "total_musicas": 9,
+      "crc_32": 4079121368
+    },
+    {
+      "titulo": "Ascenção do Senhor",
+      "slug": "ano_a_ascension_of_the_lord",
+      "previa": "Quem irá, Senhor morar? (Sl 15), É bom ter família, Salmo 145 e mais 4",
+      "total_musicas": 7,
+      "crc_32": 4264726617
+    },
+    {
+      "titulo": "Quarta-Feira de Cinzas",
+      "slug": "ano_a_ash_wednesday",
+      "previa": "Cristo, nossa Páscoa, Oi Jesus, Salmo 92 e mais 7",
+      "total_musicas": 10,
+      "crc_32": 834581791
+    },
+    {
+      "titulo": "2º Domingo da Páscoa",
+      "slug": "ano_a_divine_mercy_sunday",
+      "previa": "A palavra de Deus vai chegando, Na verdade, o Cristo ressuscitou, É bom ter família e mais 6",
+      "total_musicas": 9,
+      "crc_32": 2483632406
+    },
+    {
+      "titulo": "Domingo de Páscoa",
+      "slug": "ano_a_easter_sunday",
+      "previa": "A palavra de Deus vai chegando, É bom ter família, O Senhor é meu pastor e mais 8",
+      "total_musicas": 11,
+      "crc_32": 1589778143
+    },
+    {
+      "titulo": "3º Domingo da Páscoa",
+      "slug": "ano_a_easter_time_3_sunday",
+      "previa": "A palavra de Deus vai chegando, Anunciai com gritos de alegria!, Salmo Responsorial - 3º Domingo da Páscoa - Ano A e mais 6",
+      "total_musicas": 9,
+      "crc_32": 2242467741
+    },
+    {
+      "titulo": "4º Domingo da Páscoa",
+      "slug": "ano_a_easter_time_4_sunday",
+      "previa": "A Bíblia, Ressuscitastes, ó Bom Pastor, Salmo Responsorial - 4º Domingo da Páscoa - Ano A e mais 6",
+      "total_musicas": 9,
+      "crc_32": 1059852378
+    },
+    {
+      "titulo": "5º Domingo da Páscoa",
+      "slug": "ano_a_easter_time_5_sunday",
+      "previa": "A Bíblia, O Senhor ressurgiu, Salmo Responsorial - 5º Domingo da Páscoa - Ano A e mais 5",
+      "total_musicas": 8,
+      "crc_32": 3482407681
+    },
+    {
+      "titulo": "6º Domingo da Páscoa",
+      "slug": "ano_a_easter_time_6_sunday",
+      "previa": "A Bíblia, O Senhor ressurgiu, Salmo Responsorial - 6º Domingo da Páscoa - Ano A e mais 5",
+      "total_musicas": 8,
+      "crc_32": 3402621853
+    },
+    {
+      "titulo": "1º Domingo da Quaresma",
+      "slug": "ano_a_lent_1_sunday",
+      "previa": "Cristo, nossa Páscoa, Senhor, eis aqui o teu povo (CF 2006), Salmo Responsorial - 1º Domingo da Quaresma - Ano A e mais 5",
+      "total_musicas": 8,
+      "crc_32": 1169008767
+    },
+    {
+      "titulo": "2º Domingo da Quaresma",
+      "slug": "ano_a_lent_2_sunday",
+      "previa": "Cristo, nossa Páscoa, Ó Cristo Luz, Salmo Responsorial - 2º Domingo da Quaresma - Ano A e mais 6",
+      "total_musicas": 9,
+      "crc_32": 961298785
+    },
+    {
+      "titulo": "3º Domingo da Quaresma",
+      "slug": "ano_a_lent_3_sunday",
+      "previa": "Cristo, nossa Páscoa, Ó Cristo Luz, Salmo Responsorial - 3º Domingo da Quaresma - Ano A - 3º Domingo da Quaresma - Ano C (Opção 2) e mais 6",
+      "total_musicas": 9,
+      "crc_32": 3207487558
+    },
+    {
+      "titulo": "4º Domingo da Quaresma",
+      "slug": "ano_a_lent_4_sunday",
+      "previa": "Somos povo de Deus que caminha (CF 1999), Alegres Vamos a casa do Pai, Salmo Responsorial - 4º Domingo da Quaresma - Ano A - 4º Domingo da Quaresma - Ano B (opção 2) - 4º Domingo da Quaresma - Ano C (opção 2) e mais 6",
+      "total_musicas": 9,
+      "crc_32": 879491848
+    },
+    {
+      "titulo": "5º Domingo da Quaresma",
+      "slug": "ano_a_lent_5_sunday",
+      "previa": "Cristo, nossa Páscoa, Alegres Vamos a casa do Pai, Salmo Responsorial - 10º Domingo do Tempo Comum - Ano B - 5º Domingo da Quaresma - Ano A - 5º Domingo da Quaresma - Ano C (opção 2) e mais 6",
+      "total_musicas": 9,
+      "crc_32": 213010864
+    },
+    {
+      "titulo": "Sagrado Coração de Jesus",
+      "slug": "ano_a_most_sacred_heart_of_jesus",
+      "previa": "Eu vim ao mundo dar testemunho, Aleluia, o Verbo eterno, Ó tu, que estás em tua casa e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2320405867
+    },
+    {
+      "titulo": "10º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_10_sunday",
+      "previa": "A certeza que vive em mim, Salmo Responsorial - 10º Domingo do Tempo Comum - Ano A, A mesa Santa que preparamos (CF 1994) e mais 2",
+      "total_musicas": 5,
+      "crc_32": 495052004
+    },
+    {
+      "titulo": "11º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_11_sunday",
+      "previa": "A certeza que vive em mim, Salmo Responsorial - 11º Domingo do Tempo Comum - Ano A, A mesa Santa que preparamos (CF 1994) e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2078262041
+    },
+    {
+      "titulo": "12º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_12_sunday",
+      "previa": "A certeza que vive em mim, Salmo Responsorial - 12º Domingo do Tempo Comum - Ano A, A mesa Santa que preparamos (CF 1994) e mais 2",
+      "total_musicas": 5,
+      "crc_32": 287943205
+    },
+    {
+      "titulo": "13º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_13_sunday",
+      "previa": "A certeza que vive em mim, A mesa Santa que preparamos (CF 1994), Jesus, Jesus e mais 1",
+      "total_musicas": 4,
+      "crc_32": 197704819
+    },
+    {
+      "titulo": "14º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_14_sunday",
+      "previa": "Vem, Santo Espírito, No meio da tua casa, Salmo Responsorial - 14º Domingo do Tempo Comum - Ano A e mais 7",
+      "total_musicas": 10,
+      "crc_32": 1091208198
+    },
+    {
+      "titulo": "15º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_15_sunday",
+      "previa": "Vem, Santo Espírito, No meio da tua casa, Salmo Responsorial - 15º Domingo do Tempo Comum - Ano A e mais 8",
+      "total_musicas": 11,
+      "crc_32": 3451506264
+    },
+    {
+      "titulo": "16º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_16_sunday",
+      "previa": "Vem, Santo Espírito, No meio da tua casa, Salmo Responsorial - 16º Domingo do Tempo Comum - Ano A e mais 7",
+      "total_musicas": 10,
+      "crc_32": 2450069505
+    },
+    {
+      "titulo": "17º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_17_sunday",
+      "previa": "Glória e louvor a Cristo, Acolhe os oprimidos, Salmo Responsorial - 17º Domingo do Tempo Comum - Ano A e mais 7",
+      "total_musicas": 10,
+      "crc_32": 2305045479
+    },
+    {
+      "titulo": "18º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_18_sunday",
+      "previa": "Glória e louvor a Cristo, Salmo Responsorial - 18º Domingo do Tempo Comum - Ano A, Minha vida tem sentido e mais 2",
+      "total_musicas": 5,
+      "crc_32": 436452575
+    },
+    {
+      "titulo": "19º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_19_sunday",
+      "previa": "Glória e louvor a Cristo, Salmo Responsorial - 15º Domingo do Tempo Comum - Ano B - 19º Domingo do Tempo Comum - Ano A, Minha vida tem sentido e mais 2",
+      "total_musicas": 5,
+      "crc_32": 155580587
+    },
+    {
+      "titulo": "20º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_20_sunday",
+      "previa": "Benditos os pés que evangelizam, Cores da vida, Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3219829466
+    },
+    {
+      "titulo": "21º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_21_sunday",
+      "previa": "Benditos os pés que evangelizam, Salmo Responsorial - 21º Domingo do Tempo Comum - Ano A, Cores da vida e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2867490395
+    },
+    {
+      "titulo": "22º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_22_sunday",
+      "previa": "Benditos os pés que evangelizam, Salmo Responsorial - 22º Domingo do Tempo Comum - Ano A, Cores da vida e mais 2",
+      "total_musicas": 5,
+      "crc_32": 529663421
+    },
+    {
+      "titulo": "23º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_23_sunday",
+      "previa": "Benditos os pés que evangelizam, Salmo Responsorial - 23º Domingo do Tempo Comum - Ano A, Um coração para amar e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2994037185
+    },
+    {
+      "titulo": "24º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_24_sunday",
+      "previa": "O Evangelho proclamai, Salmo Responsorial - 24º Domingo do Tempo Comum - Ano A, Minha vida tem sentido e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3958772880
+    },
+    {
+      "titulo": "25º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_25_sunday",
+      "previa": "O Evangelho proclamai, Salmo Responsorial - 25º Domingo do Tempo Comum - Ano A, Um coração para amar e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2638738068
+    },
+    {
+      "titulo": "26º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_26_sunday",
+      "previa": "O Evangelho proclamai, Salmo Responsorial - 26º Domingo do Tempo Comum - Ano A, Um coração para amar e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3011573497
+    },
+    {
+      "titulo": "27º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_27_sunday",
+      "previa": "O Evangelho proclamai, Salmo Responsorial - 27º Domingo do Tempo Comum - Ano A, Este pranto em minhas mãos e mais 2",
+      "total_musicas": 5,
+      "crc_32": 46773462
+    },
+    {
+      "titulo": "28º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_28_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Salmo Responsorial - 28º Domingo do Tempo Comum - Ano A, Este pranto em minhas mãos e mais 2",
+      "total_musicas": 5,
+      "crc_32": 244981277
+    },
+    {
+      "titulo": "29º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_29_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Salmo Responsorial - 29º Domingo do Tempo Comum - Ano A, Este pranto em minhas mãos e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2651377243
+    },
+    {
+      "titulo": "2º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_2_sunday",
+      "previa": "Em cada homem novo, Confiantes na bondade de Deus, Salmo Responsorial - 2º Domingo do Tempo Comum - Ano A - 2º Domingo do Tempo Comum - Ano B e mais 5",
+      "total_musicas": 8,
+      "crc_32": 748263593
+    },
+    {
+      "titulo": "30º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_30_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Salmo Responsorial - 30º Domingo do Tempo Comum - Ano A, Este pranto em minhas mãos e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3099352885
+    },
+    {
+      "titulo": "31º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_31_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Este pranto em minhas mãos, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 782201428
+    },
+    {
+      "titulo": "32º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_32_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Não me abandones, Senhor, Salmo Responsorial - 32º Domingo do Tempo Comum - Ano A e mais 7",
+      "total_musicas": 10,
+      "crc_32": 2088794393
+    },
+    {
+      "titulo": "33º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_33_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Não me abandones, Senhor, Salmo Responsorial - 33º Domingo do Tempo Comum - Ano A e mais 7",
+      "total_musicas": 10,
+      "crc_32": 3290124836
+    },
+    {
+      "titulo": "34º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_34_sunday",
+      "previa": "Ide pelo mundo, Proclamação do Natal, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 3709705115
+    },
+    {
+      "titulo": "4º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_4_sunday",
+      "previa": "Em cada homem novo, Povo em marcha, Salmo Responsorial - 4º Domingo do Tempo Comum - Ano A e mais 6",
+      "total_musicas": 9,
+      "crc_32": 2236783877
+    },
+    {
+      "titulo": "5º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_5_sunday",
+      "previa": "Em cada homem novo, Eis-me aqui, Senhor, Salmo Responsorial - 5º Domingo do Tempo Comum - Ano A e mais 6",
+      "total_musicas": 9,
+      "crc_32": 2144965996
+    },
+    {
+      "titulo": "6º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_6_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, O evangelho vai brilhar / Jesus, Filho do Deus vivo, Salmo Responsorial - 6º Domingo do Tempo Comum - Ano A e mais 6",
+      "total_musicas": 9,
+      "crc_32": 2928050916
+    },
+    {
+      "titulo": "7º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_7_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Salmo Responsorial - 7º Domingo do Tempo Comum - Ano A, Recebe, Senhor (CF 1999) e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3658505716
+    },
+    {
+      "titulo": "8º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_8_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Salmo Responsorial - 8º Domingo do Tempo Comum - Ano A, Recebe, Senhor (CF 1999) e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2824215657
+    },
+    {
+      "titulo": "9º Domingo do Tempo Comum",
+      "slug": "ano_a_ordinary_time_9_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Recebe, Senhor (CF 1999), Ofertar é dar a vida e mais 1",
+      "total_musicas": 4,
+      "crc_32": 62246318
+    },
+    {
+      "titulo": "Nosso Senhor Jesus Cristo, Rei do Universo",
+      "slug": "ano_a_our_lord_jesus_christ_king_of_the_universe",
+      "previa": "O amor é Tua lei, Aleluia, o princípio e o fim sou eu, Senhor, aceita os dons e mais 2",
+      "total_musicas": 5,
+      "crc_32": 1454379513
+    },
+    {
+      "titulo": "Domingo de Pentecostes",
+      "slug": "ano_a_pentecost_sunday",
+      "previa": "Preces ao Espírito Santo, Divino Espírito que sois amigo, Salmo 47 (Is.. 52,7) e mais 6",
+      "total_musicas": 9,
+      "crc_32": 1834837488
+    },
+    {
+      "titulo": "3º Domingo do Tempo Comum",
+      "slug": "ano_a_sunday_of_the_word_of_god",
+      "previa": "Em cada homem novo, Ó Galileia das nações, Salmo Responsorial - 3º Domingo do Tempo Comum - Ano A e mais 5",
+      "total_musicas": 8,
+      "crc_32": 2405948302
+    },
+    {
+      "titulo": "1º Domingo do Advento",
+      "slug": "ano_b_advent_1_sunday",
+      "previa": "O amor é Tua lei, Salmo Responsorial - 1º Domingo do Advento - Ano B - 4º Domingo do Advento - Ano C, Com amor eterno e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2013193722
+    },
+    {
+      "titulo": "2º Domingo do Advento",
+      "slug": "ano_b_advent_2_sunday",
+      "previa": "Hosana ao Filho de Davi, Salmo Responsorial - 2º Domingo do Advento - Ano B, Com amor eterno e mais 3",
+      "total_musicas": 6,
+      "crc_32": 988516097
+    },
+    {
+      "titulo": "3º Domingo do Advento",
+      "slug": "ano_b_advent_3_sunday",
+      "previa": "Salmo Responsorial - 3º Domingo do Advento - Ano B, Com amor eterno, É sangue o que era vinho e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1118213060
+    },
+    {
+      "titulo": "4º Domingo do Advento",
+      "slug": "ano_b_advent_4_sunday",
+      "previa": "Vitória, Salmo Responsorial - 4º Domingo do Advento - Ano B, Jesus erguendo-se da Ceia e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3691290722
+    },
+    {
+      "titulo": "Anunciação do Senhor",
+      "slug": "ano_b_annunciation_of_the_lord",
+      "previa": "Alegra-te, mãe de Deus, A terra amiga, Quando teu Pai revelou o segredo a Maria e mais 1",
+      "total_musicas": 4,
+      "crc_32": 12217544
+    },
+    {
+      "titulo": "Ascenção do Senhor",
+      "slug": "ano_b_ascension_of_the_lord",
+      "previa": "Quem irá, Senhor morar? (Sl 15), Ser família, Maravilhas (Sl 125) e mais 15",
+      "total_musicas": 18,
+      "crc_32": 1795690027
+    },
+    {
+      "titulo": "Quarta-Feira de Cinzas",
+      "slug": "ano_b_ash_wednesday",
+      "previa": "Cristo, nossa Páscoa, Oi Jesus, Água viva e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3333356921
+    },
+    {
+      "titulo": "2º Domingo da Páscoa",
+      "slug": "ano_b_divine_mercy_sunday",
+      "previa": "Glória, glória nas alturas, Anunciai com gritos de alegria!, Banhados em Cristo (CF 2004) e mais 8",
+      "total_musicas": 11,
+      "crc_32": 2989350686
+    },
+    {
+      "titulo": "Domingo de Páscoa",
+      "slug": "ano_b_easter_sunday",
+      "previa": "Glória, glória nas alturas, Ser família, Súplicas ao Coração de Jesus Cristo e mais 6",
+      "total_musicas": 9,
+      "crc_32": 1846039939
+    },
+    {
+      "titulo": "3º Domingo da Páscoa",
+      "slug": "ano_b_easter_time_3_sunday",
+      "previa": "Glória, glória nas alturas, O Senhor ressurgiu, Salmo Responsorial - 3º Domingo da Páscoa - Ano B e mais 6",
+      "total_musicas": 10,
+      "crc_32": 2199823507
+    },
+    {
+      "titulo": "4º Domingo da Páscoa",
+      "slug": "ano_b_easter_time_4_sunday",
+      "previa": "Glória, glória nas alturas, Ressuscitastes, ó Bom Pastor, Salmo Responsorial - 4º Domingo da Páscoa - Ano B e mais 5",
+      "total_musicas": 10,
+      "crc_32": 1230024269
+    },
+    {
+      "titulo": "5º Domingo da Páscoa",
+      "slug": "ano_b_easter_time_5_sunday",
+      "previa": "Glória, glória nas alturas, O Senhor ressurgiu, Banhados em Cristo (CF 2004) e mais 8",
+      "total_musicas": 11,
+      "crc_32": 3918176417
+    },
+    {
+      "titulo": "6º Domingo da Páscoa",
+      "slug": "ano_b_easter_time_6_sunday",
+      "previa": "Glória, glória nas alturas, Salmo Responsorial - 6º Domingo da Páscoa - Ano B, Ser família e mais 2",
+      "total_musicas": 5,
+      "crc_32": 818043243
+    },
+    {
+      "titulo": "1º Domingo da Quaresma",
+      "slug": "ano_b_lent_1_sunday",
+      "previa": "É tempo de libertação, Salmo Responsorial - 1º Domingo da Quaresma - Ano B, Água viva e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2666569886
+    },
+    {
+      "titulo": "2º Domingo da Quaresma",
+      "slug": "ano_b_lent_2_sunday",
+      "previa": "É tempo de libertação, Salmo Responsorial - 2º Domingo da Quaresma - Ano B, Água viva e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2815058930
+    },
+    {
+      "titulo": "3º Domingo da Quaresma",
+      "slug": "ano_b_lent_3_sunday",
+      "previa": "É tempo de libertação, Pregão Quaresmal, Salmo Responsorial - 3º Domingo da Quaresma - Ano B e mais 6",
+      "total_musicas": 9,
+      "crc_32": 2993867081
+    },
+    {
+      "titulo": "4º Domingo da Quaresma",
+      "slug": "ano_b_lent_4_sunday",
+      "previa": "A família, como vai? (CF 1994), Fiquei foi contente, Salmo Responsorial - 4º Domingo da Quaresma - Ano B (opção 1) e mais 7",
+      "total_musicas": 10,
+      "crc_32": 4054263497
+    },
+    {
+      "titulo": "5º Domingo da Quaresma",
+      "slug": "ano_b_lent_5_sunday",
+      "previa": "É tempo de libertação, Pregão Quaresmal, Salmo Responsorial - 5º Domingo da Quaresma - Ano B e mais 6",
+      "total_musicas": 9,
+      "crc_32": 3165384370
+    },
+    {
+      "titulo": "07 de Junho de 2024",
+      "slug": "ano_b_most_sacred_heart_of_jesus",
+      "previa": "Quando a plenitude dos tempos, Aleluia, o Verbo eterno, Vendo a grande multidão e mais 3",
+      "total_musicas": 6,
+      "crc_32": 1469159915
+    },
+    {
+      "titulo": "10º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_10_sunday",
+      "previa": "A certeza que vive em mim, Salmo Responsorial - 10º Domingo do Tempo Comum - Ano B - 5º Domingo da Quaresma - Ano A - 5º Domingo da Quaresma - Ano C (opção 2), De mãos estendidas e mais 6",
+      "total_musicas": 9,
+      "crc_32": 3616270525
+    },
+    {
+      "titulo": "11º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_11_sunday",
+      "previa": "A certeza que vive em mim, Salmo Responsorial - 11º Domingo do Tempo Comum - Ano B - 8º Domingo do Tempo Comum - Ano C, Daqui do meu lugar e mais 6",
+      "total_musicas": 9,
+      "crc_32": 1268055664
+    },
+    {
+      "titulo": "12º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_12_sunday",
+      "previa": "A certeza que vive em mim, Salmo Responsorial - 12º Domingo do Tempo Comum - Ano B, Daqui do meu lugar e mais 2",
+      "total_musicas": 5,
+      "crc_32": 343711327
+    },
+    {
+      "titulo": "13º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_13_sunday",
+      "previa": "A certeza que vive em mim, Salmo Responsorial - 13º Domingo do Tempo Comum - Ano B - 10º Domingo do Tempo Comum - Ano C, Vamos com jesus e mais 2",
+      "total_musicas": 5,
+      "crc_32": 556042958
+    },
+    {
+      "titulo": "14º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_14_sunday",
+      "previa": "Vem, Santo Espírito, Salmo Responsorial - 14º Domingo do Tempo Comum - Ano B, Daqui do meu lugar e mais 10",
+      "total_musicas": 13,
+      "crc_32": 3236842201
+    },
+    {
+      "titulo": "15º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_15_sunday",
+      "previa": "Vem, Santo Espírito, Salmo Responsorial - 15º Domingo do Tempo Comum - Ano B - 19º Domingo do Tempo Comum - Ano A, Daqui do meu lugar e mais 12",
+      "total_musicas": 15,
+      "crc_32": 3654738927
+    },
+    {
+      "titulo": "16º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_16_sunday",
+      "previa": "Vem, Santo Espírito, Salmo Responsorial - 16º Domingo do Tempo Comum - Ano B, Daqui do meu lugar e mais 9",
+      "total_musicas": 12,
+      "crc_32": 4147119313
+    },
+    {
+      "titulo": "17º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_17_sunday",
+      "previa": "Glória e louvor a Cristo, Salmo Responsorial - 17º Domingo do Tempo Comum - Ano B, A nossa vida é como um barco e mais 7",
+      "total_musicas": 10,
+      "crc_32": 1358413498
+    },
+    {
+      "titulo": "18º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_18_sunday",
+      "previa": "Glória e louvor a Cristo, Salmo Responsorial - 18º Domingo do Tempo Comum - Ano B, A nossa vida é como um barco e mais 8",
+      "total_musicas": 11,
+      "crc_32": 3908925723
+    },
+    {
+      "titulo": "19º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_19_sunday",
+      "previa": "Glória e louvor a Cristo, Salmo Responsorial - 19º Domingo do Tempo Comum - Ano B, A nossa vida é como um barco e mais 9",
+      "total_musicas": 12,
+      "crc_32": 464530204
+    },
+    {
+      "titulo": "20º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_20_sunday",
+      "previa": "Benditos os pés que evangelizam, A nossa vida é como um barco, Eu te louvarei, Senhor e mais 1",
+      "total_musicas": 4,
+      "crc_32": 410416904
+    },
+    {
+      "titulo": "21º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_21_sunday",
+      "previa": "Benditos os pés que evangelizam, Salmo Responsorial - 21º Domingo do Tempo Comum - Ano B, Vamos com jesus e mais 7",
+      "total_musicas": 10,
+      "crc_32": 991793841
+    },
+    {
+      "titulo": "22º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_22_sunday",
+      "previa": "Benditos os pés que evangelizam, Deus, nosso Pai protetor, Salmo Responsorial - 22º Domingo do Tempo Comum - Ano B e mais 9",
+      "total_musicas": 12,
+      "crc_32": 108553254
+    },
+    {
+      "titulo": "23º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_23_sunday",
+      "previa": "Benditos os pés que evangelizam, Deus, nosso Pai protetor, Salmo Responsorial - 23º Domingo do Tempo Comum - Ano B e mais 8",
+      "total_musicas": 11,
+      "crc_32": 1077297605
+    },
+    {
+      "titulo": "24º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_24_sunday",
+      "previa": "O Evangelho proclamai, Senhor, escuta as preces, Salmo Responsorial - 24º Domingo do Tempo Comum - Ano B e mais 10",
+      "total_musicas": 13,
+      "crc_32": 3967234342
+    },
+    {
+      "titulo": "25º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_25_sunday",
+      "previa": "O Evangelho proclamai, Senhor, escuta as preces, Salmo Responsorial - 25º Domingo do Tempo Comum - Ano B e mais 10",
+      "total_musicas": 13,
+      "crc_32": 3309863679
+    },
+    {
+      "titulo": "26º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_26_sunday",
+      "previa": "O Evangelho proclamai, Senhor, escuta as preces, Salmo Responsorial - 26º Domingo do Tempo Comum - Ano B e mais 12",
+      "total_musicas": 15,
+      "crc_32": 2879043778
+    },
+    {
+      "titulo": "27º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_27_sunday",
+      "previa": "O Evangelho proclamai, Senhor, escuta as preces, Salmo Responsorial - 27º Domingo do Tempo Comum - Ano B e mais 11",
+      "total_musicas": 14,
+      "crc_32": 846873538
+    },
+    {
+      "titulo": "28º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_28_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Vós sois o caminho, Salmo Responsorial - 28º Domingo do Tempo Comum - Ano B e mais 6",
+      "total_musicas": 9,
+      "crc_32": 3146649751
+    },
+    {
+      "titulo": "29º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_29_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Ó Senhor, nós estamos aqui, Salmo Responsorial - 29º Domingo do Tempo Comum - Ano B e mais 11",
+      "total_musicas": 14,
+      "crc_32": 1478458301
+    },
+    {
+      "titulo": "2º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_2_sunday",
+      "previa": "Em cada homem novo, Salmo Responsorial - 2º Domingo do Tempo Comum - Ano A - 2º Domingo do Tempo Comum - Ano B, Trazemos à mesa santa e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3781105294
+    },
+    {
+      "titulo": "30º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_30_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Exulte de alegria quem busca a Deus, Salmo Responsorial - 2º Domingo do Advento - Ano C - 30º Domingo do Tempo Comum - Ano B - 5º Domingo da Quaresma - Ano C (opção 1) e mais 8",
+      "total_musicas": 11,
+      "crc_32": 3283715574
+    },
+    {
+      "titulo": "31º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_31_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Salmo Responsorial - 31º Domingo do Tempo Comum - Ano B, Oferta do sim e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2887677090
+    },
+    {
+      "titulo": "32º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_32_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Não me abandones, Senhor, Salmo Responsorial - 32º Domingo do Tempo Comum - Ano B e mais 10",
+      "total_musicas": 13,
+      "crc_32": 3493793091
+    },
+    {
+      "titulo": "33º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_33_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Não me abandones, Senhor, Salmo Responsorial - 33º Domingo do Tempo Comum - Ano B e mais 11",
+      "total_musicas": 14,
+      "crc_32": 3166195951
+    },
+    {
+      "titulo": "34º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_34_sunday",
+      "previa": "Ide pelo mundo, Proclamação do Natal, Jesus está aqui e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2709306944
+    },
+    {
+      "titulo": "4º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_4_sunday",
+      "previa": "Em cada homem novo, Salmo Responsorial - 4º Domingo do Tempo Comum - Ano B, Te ofertamos, Senhor e mais 2",
+      "total_musicas": 5,
+      "crc_32": 1540358762
+    },
+    {
+      "titulo": "5º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_5_sunday",
+      "previa": "Em cada homem novo, Salmo Responsorial - 5º Domingo do Tempo Comum - Ano B, Te ofertamos, Senhor e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3010231597
+    },
+    {
+      "titulo": "6º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_6_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Salmo Responsorial - 6º Domingo do Tempo Comum - Ano B, Te ofertamos, Senhor e mais 2",
+      "total_musicas": 5,
+      "crc_32": 1866600937
+    },
+    {
+      "titulo": "7º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_7_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Te ofertamos, Senhor, Ofertar é dar a vida e mais 1",
+      "total_musicas": 4,
+      "crc_32": 4173512465
+    },
+    {
+      "titulo": "8º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_8_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, De mãos estendidas, Ofertar é dar a vida e mais 1",
+      "total_musicas": 4,
+      "crc_32": 1215792845
+    },
+    {
+      "titulo": "9º Domingo do Tempo Comum",
+      "slug": "ano_b_ordinary_time_9_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Salmo Responsorial - 9º Domingo do Tempo Comum - Ano, De mãos estendidas e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2275770468
+    },
+    {
+      "titulo": "Nosso Senhor Jesus Cristo, Rei do Universo",
+      "slug": "ano_b_our_lord_jesus_christ_king_of_the_universe",
+      "previa": "O amor é Tua lei, Aleluia, é bendito aquele que vem vindo, O teu nome bendizemos e mais 7",
+      "total_musicas": 10,
+      "crc_32": 3712844546
+    },
+    {
+      "titulo": "Domingo de Pentecostes",
+      "slug": "ano_b_pentecost_sunday",
+      "previa": "Pra te louvar, Senhor, Ser família, Entoai novo canto e mais 17",
+      "total_musicas": 20,
+      "crc_32": 1372681461
+    },
+    {
+      "titulo": "3º Domingo do Tempo Comum",
+      "slug": "ano_b_sunday_of_the_word_of_god",
+      "previa": "Em cada homem novo, Salmo Responsorial - 3º Domingo do Tempo Comum - Ano B, Te ofertamos, Senhor e mais 2",
+      "total_musicas": 5,
+      "crc_32": 4166555641
+    },
+    {
+      "titulo": "1º Domingo do Advento",
+      "slug": "ano_c_advent_1_sunday",
+      "previa": "Jesus é o Rei, A justiça de Deus!, Salmo Responsorial - 1º Domingo do Advento - Ano C e mais 14",
+      "total_musicas": 17,
+      "crc_32": 4093536170
+    },
+    {
+      "titulo": "2º Domingo do Advento",
+      "slug": "ano_c_advent_2_sunday",
+      "previa": "O amor é Tua lei, Salmo Responsorial - 2º Domingo do Advento - Ano C - 30º Domingo do Tempo Comum - Ano B - 5º Domingo da Quaresma - Ano C (opção 1), Com amor eterno e mais 3",
+      "total_musicas": 6,
+      "crc_32": 1577647425
+    },
+    {
+      "titulo": "3º Domingo do Advento",
+      "slug": "ano_c_advent_3_sunday",
+      "previa": "Alegrai-vos, Salmo Responsorial - 3º Domingo do Advento - Ano C, Com amor eterno e mais 12",
+      "total_musicas": 15,
+      "crc_32": 1388223934
+    },
+    {
+      "titulo": "4º Domingo do Advento",
+      "slug": "ano_c_advent_4_sunday",
+      "previa": "Canto de procissão, Céus, deixai cair o orvalho, Salmo Responsorial - 1º Domingo do Advento - Ano B - 4º Domingo do Advento - Ano C e mais 16",
+      "total_musicas": 19,
+      "crc_32": 1243823941
+    },
+    {
+      "titulo": "Ascenção do Senhor",
+      "slug": "ano_c_ascension_of_the_lord",
+      "previa": "Quem irá, Senhor morar? (Sl 15), Senhor, me conheces como sou (Sl 138), Bendito seja Deus (nós vos bendizemos) e mais 1",
+      "total_musicas": 4,
+      "crc_32": 2928214299
+    },
+    {
+      "titulo": "Quarta-Feira de Cinzas",
+      "slug": "ano_c_ash_wednesday",
+      "previa": "Cristo, nossa Páscoa, Oi Jesus, Vou lhes preparar e mais 6",
+      "total_musicas": 9,
+      "crc_32": 2694048286
+    },
+    {
+      "titulo": "2º Domingo da Páscoa",
+      "slug": "ano_c_divine_mercy_sunday",
+      "previa": "Glória a Deus no céu, Anunciai com gritos de alegria!, Senhor, me conheces como sou (Sl 138) e mais 5",
+      "total_musicas": 8,
+      "crc_32": 804635970
+    },
+    {
+      "titulo": "Domingo de Páscoa",
+      "slug": "ano_c_easter_sunday",
+      "previa": "Glória a Deus no céu, Exulta filha de Sião (Sl 121), Teu nome, Senhor, é tão bonito (Sl 8) e mais 9",
+      "total_musicas": 12,
+      "crc_32": 1264071260
+    },
+    {
+      "titulo": "3º Domingo da Páscoa",
+      "slug": "ano_c_easter_time_3_sunday",
+      "previa": "Fazei ressoar a palavra de Deus, Cristo ressuscitou, Salmo Responsorial - 3º Domingo da Páscoa - Ano C e mais 6",
+      "total_musicas": 10,
+      "crc_32": 477538343
+    },
+    {
+      "titulo": "4º Domingo da Páscoa",
+      "slug": "ano_c_easter_time_4_sunday",
+      "previa": "Fazei ressoar a palavra de Deus, Ressuscitastes, ó Bom Pastor, Salmo Responsorial - 4º Domingo da Páscoa - Ano C e mais 7",
+      "total_musicas": 10,
+      "crc_32": 1997805801
+    },
+    {
+      "titulo": "5º Domingo da Páscoa",
+      "slug": "ano_c_easter_time_5_sunday",
+      "previa": "Vida e Bíblia, Cristo venceu, Salmo Responsorial - 5º Domingo da Páscoa - Ano C e mais 7",
+      "total_musicas": 10,
+      "crc_32": 2025263872
+    },
+    {
+      "titulo": "6º Domingo da Páscoa",
+      "slug": "ano_c_easter_time_6_sunday",
+      "previa": "Vida e Bíblia, Cristo venceu, Salmo Responsorial - 6º Domingo da Páscoa - Ano C e mais 7",
+      "total_musicas": 10,
+      "crc_32": 3370892672
+    },
+    {
+      "titulo": "1º Domingo da Quaresma",
+      "slug": "ano_c_lent_1_sunday",
+      "previa": "Ressuscitou, Ah, se o povo de Deus no Senhor cresse!, Salmo Responsorial - 1º Domingo da Quaresma - Ano C e mais 5",
+      "total_musicas": 8,
+      "crc_32": 3218919011
+    },
+    {
+      "titulo": "2º Domingo da Quaresma",
+      "slug": "ano_c_lent_2_sunday",
+      "previa": "Ressuscitou, Ah, se o povo de Deus no Senhor cresse!, Salmo Responsorial - 2º Domingo da Quaresma - Ano C e mais 5",
+      "total_musicas": 8,
+      "crc_32": 1769104152
+    },
+    {
+      "titulo": "3º Domingo da Quaresma",
+      "slug": "ano_c_lent_3_sunday",
+      "previa": "Ressuscitou, Ah, se o povo de Deus no Senhor cresse!, Salmo Responsorial - 3º Domingo da Quaresma - Ano C (Opção 1) e mais 6",
+      "total_musicas": 9,
+      "crc_32": 222046563
+    },
+    {
+      "titulo": "4º Domingo da Quaresma",
+      "slug": "ano_c_lent_4_sunday",
+      "previa": "Somos povo de Deus que caminha (CF 1999), Alegres Vamos a casa do Pai, Salmo Responsorial - 4º Domingo da Quaresma - Ano C (opção 1) e mais 6",
+      "total_musicas": 9,
+      "crc_32": 1512548916
+    },
+    {
+      "titulo": "5º Domingo da Quaresma",
+      "slug": "ano_c_lent_5_sunday",
+      "previa": "Ressuscitou, Senhor, eis aqui o teu povo (CF 2006), Salmo Responsorial - 2º Domingo do Advento - Ano C - 30º Domingo do Tempo Comum - Ano B - 5º Domingo da Quaresma - Ano C (opção 1) e mais 6",
+      "total_musicas": 9,
+      "crc_32": 2162776687
+    },
+    {
+      "titulo": "Sagrado Coração de Jesus",
+      "slug": "ano_c_most_sacred_heart_of_jesus",
+      "previa": "Eu vim ao mundo dar testemunho, Aleluia, o Verbo eterno, Ó tu, que estás em tua casa e mais 3",
+      "total_musicas": 6,
+      "crc_32": 954487276
+    },
+    {
+      "titulo": "10º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_10_sunday",
+      "previa": "A certeza que vive em mim, Salmo Responsorial - 13º Domingo do Tempo Comum - Ano B - 10º Domingo do Tempo Comum - Ano C, A maior amizade e mais 2",
+      "total_musicas": 5,
+      "crc_32": 4056555351
+    },
+    {
+      "titulo": "11º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_11_sunday",
+      "previa": "A certeza que vive em mim, Salmo Responsorial - 11º Domingo do Tempo Comum - Ano C, A maior amizade e mais 2",
+      "total_musicas": 5,
+      "crc_32": 899682275
+    },
+    {
+      "titulo": "12º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_12_sunday",
+      "previa": "A certeza que vive em mim, Salmo Responsorial - 12º Domingo do Tempo Comum - Ano C, A maior amizade e mais 2",
+      "total_musicas": 5,
+      "crc_32": 1599497951
+    },
+    {
+      "titulo": "13º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_13_sunday",
+      "previa": "A certeza que vive em mim, Salmo Responsorial - 13º Domingo do Tempo Comum - Ano C, Nem a vida, nem a morte e mais 2",
+      "total_musicas": 5,
+      "crc_32": 1216739986
+    },
+    {
+      "titulo": "14º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_14_sunday",
+      "previa": "Vem, Santo Espírito, Ó Pai, somos nós o povo eleito / Povo da promessa, Salmo Responsorial - 14º Domingo do Tempo Comum - Ano C e mais 6",
+      "total_musicas": 9,
+      "crc_32": 4288511190
+    },
+    {
+      "titulo": "15º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_15_sunday",
+      "previa": "Vem, Santo Espírito, Ó Senhor, nós estamos aqui, Salmo Responsorial - 15º Domingo do Tempo Comum - Ano C - Opção 1 e mais 7",
+      "total_musicas": 10,
+      "crc_32": 1023500718
+    },
+    {
+      "titulo": "16º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_16_sunday",
+      "previa": "Vem, Santo Espírito, Salmo Responsorial - 16º Domingo do Tempo Comum - Ano C, Os cristãos tinham tudo em comum (CF 1975) e mais 5",
+      "total_musicas": 8,
+      "crc_32": 115324497
+    },
+    {
+      "titulo": "17º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_17_sunday",
+      "previa": "Glória e louvor a Cristo, Em tua casa nos reunimos!, Salmo Responsorial - 17º Domingo do Tempo Comum - Ano C e mais 7",
+      "total_musicas": 10,
+      "crc_32": 1800942131
+    },
+    {
+      "titulo": "18º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_18_sunday",
+      "previa": "Glória e louvor a Cristo, Vós sois o caminho, Salmo Responsorial - 18º Domingo do Tempo Comum - Ano C - 23º Domingo do Tempo Comum - Ano C e mais 5",
+      "total_musicas": 8,
+      "crc_32": 2782447408
+    },
+    {
+      "titulo": "19º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_19_sunday",
+      "previa": "Glória e louvor a Cristo, Vimos te louvar, ó Senhor!, Salmo Responsorial - 19º Domingo do Tempo Comum - Ano C e mais 5",
+      "total_musicas": 8,
+      "crc_32": 3203456685
+    },
+    {
+      "titulo": "20º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_20_sunday",
+      "previa": "Benditos os pés que evangelizam, Salmo Responsorial - 20º Domingo do Tempo Comum - Ano C, Nas tuas mãos, ó Pai do céu e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2514404698
+    },
+    {
+      "titulo": "21º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_21_sunday",
+      "previa": "Benditos os pés que evangelizam, Vinde, entremos na casa de Deus, Salmo Responsorial - 21º Domingo do Tempo Comum - Ano C - 9º Domingo do Tempo Comum - Ano C e mais 6",
+      "total_musicas": 9,
+      "crc_32": 4174717354
+    },
+    {
+      "titulo": "22º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_22_sunday",
+      "previa": "Benditos os pés que evangelizam, Vem, meu povo!, Salmo Responsorial - 22º Domingo do Tempo Comum - Ano C e mais 5",
+      "total_musicas": 8,
+      "crc_32": 2336521207
+    },
+    {
+      "titulo": "23º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_23_sunday",
+      "previa": "Benditos os pés que evangelizam, O Senhor necessitou de braços, Salmo Responsorial - 18º Domingo do Tempo Comum - Ano C - 23º Domingo do Tempo Comum - Ano C e mais 3",
+      "total_musicas": 6,
+      "crc_32": 296826146
+    },
+    {
+      "titulo": "24º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_24_sunday",
+      "previa": "O Evangelho proclamai, Salmo Responsorial - 24º Domingo do Tempo Comum - Ano C, Nas tuas mãos, ó Pai do céu e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3886044185
+    },
+    {
+      "titulo": "25º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_25_sunday",
+      "previa": "Entoai novo canto, O Evangelho proclamai, Salmo Responsorial - 25º Domingo do Tempo Comum - Ano C e mais 6",
+      "total_musicas": 9,
+      "crc_32": 2809233115
+    },
+    {
+      "titulo": "26º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_26_sunday",
+      "previa": "O Evangelho proclamai, Vem, meu povo!, Salmo Responsorial - 26º Domingo do Tempo Comum - Ano C e mais 6",
+      "total_musicas": 9,
+      "crc_32": 3320465179
+    },
+    {
+      "titulo": "27º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_27_sunday",
+      "previa": "Escuta essa prece, O Evangelho proclamai, Salmo Responsorial - 27º Domingo do Tempo Comum - Ano C e mais 6",
+      "total_musicas": 9,
+      "crc_32": 4064831616
+    },
+    {
+      "titulo": "28º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_28_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Salmo Responsorial - 28º Domingo do Tempo Comum - Ano C, As sementes que me deste e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2250649081
+    },
+    {
+      "titulo": "29º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_29_sunday",
+      "previa": "Escuta essa prece, Salve, Cristo, Palavra da vida (CF 1986), Salmo Responsorial - 29º Domingo do Tempo Comum - Ano C e mais 6",
+      "total_musicas": 9,
+      "crc_32": 3776517451
+    },
+    {
+      "titulo": "2º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_2_sunday",
+      "previa": "Em cada homem novo, A ti, ó Deus, Salmo Responsorial - 2º Domingo do Tempo Comum - Ano C e mais 10",
+      "total_musicas": 13,
+      "crc_32": 220686974
+    },
+    {
+      "titulo": "30º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_30_sunday",
+      "previa": "Salve, Cristo, Palavra da vida (CF 1986), Vimos te louvar, ó Senhor!, Salmo Responsorial - 30º Domingo do Tempo Comum - Ano C e mais 6",
+      "total_musicas": 9,
+      "crc_32": 480371080
+    },
+    {
+      "titulo": "31º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_31_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Salmo Responsorial - 31º Domingo do Tempo Comum - Ano C, Grande é o Senhor e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3894367391
+    },
+    {
+      "titulo": "32º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_32_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), Salmo Responsorial - 32º Domingo do Tempo Comum - Ano C, Grande é o Senhor e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3064218961
+    },
+    {
+      "titulo": "33º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_33_sunday",
+      "previa": "Tua Palavra me anima (Quando meu barco), A luz do novo dia despontou, Salmo Responsorial - 33º Domingo do Tempo Comum - Ano C e mais 5",
+      "total_musicas": 8,
+      "crc_32": 2590102082
+    },
+    {
+      "titulo": "34º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_34_sunday",
+      "previa": "Maria, estrela da evangelização, Santo do axé, Cantiga Mariana",
+      "total_musicas": 3,
+      "crc_32": 2504298027
+    },
+    {
+      "titulo": "4º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_4_sunday",
+      "previa": "Em cada homem novo, Salmo Responsorial - 4º Domingo do Tempo Comum - Ano C, Nem a vida, nem a morte e mais 2",
+      "total_musicas": 5,
+      "crc_32": 654542057
+    },
+    {
+      "titulo": "5º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_5_sunday",
+      "previa": "Em cada homem novo, Eis-me aqui, Senhor, Salmo Responsorial - 5º Domingo do Tempo Comum - Ano C e mais 6",
+      "total_musicas": 9,
+      "crc_32": 4136716582
+    },
+    {
+      "titulo": "6º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_6_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Povo em marcha, Salmo Responsorial - 6º Domingo do Tempo Comum - Ano C e mais 6",
+      "total_musicas": 9,
+      "crc_32": 2478187945
+    },
+    {
+      "titulo": "7º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_7_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Canta, meu povo, Salmo Responsorial - 7º Domingo do Tempo Comum - Ano C e mais 6",
+      "total_musicas": 9,
+      "crc_32": 2451519568
+    },
+    {
+      "titulo": "8º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_8_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Vimos aqui, ó Senhor, Salmo Responsorial - 11º Domingo do Tempo Comum - Ano B - 8º Domingo do Tempo Comum - Ano C e mais 5",
+      "total_musicas": 8,
+      "crc_32": 4240230690
+    },
+    {
+      "titulo": "9º Domingo do Tempo Comum",
+      "slug": "ano_c_ordinary_time_9_sunday",
+      "previa": "Aleluia, Jesus Cristo vai falar, Salmo Responsorial - 21º Domingo do Tempo Comum - Ano C - 9º Domingo do Tempo Comum - Ano C, A maior amizade e mais 2",
+      "total_musicas": 5,
+      "crc_32": 862306119
+    },
+    {
+      "titulo": "Nosso Senhor Jesus Cristo, Rei do Universo",
+      "slug": "ano_c_our_lord_jesus_christ_king_of_the_universe",
+      "previa": "O amor é Tua lei, O teu nome bendizemos, Ó Jesus, não te esqueças de mim",
+      "total_musicas": 3,
+      "crc_32": 509002727
+    },
+    {
+      "titulo": "Domingo de Pentecostes",
+      "slug": "ano_c_pentecost_sunday",
+      "previa": "Preces ao Espírito Santo, Bem alegres cantai salmos, Senhor, me conheces como sou (Sl 138) e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2262818096
+    },
+    {
+      "titulo": "3º Domingo do Tempo Comum",
+      "slug": "ano_c_sunday_of_the_word_of_god",
+      "previa": "Em cada homem novo, Nós somos muitos, Salmo Responsorial - 3º Domingo do Tempo Comum - Ano C e mais 10",
+      "total_musicas": 13,
+      "crc_32": 133521319
+    },
+    {
+      "titulo": "Assunção de Nossa Senhora",
+      "slug": "assumption_of_the_blessed_virgin_mary",
+      "previa": "No céu surgiu um sinal!, Boa nova em nossa vida, Ilumina, ilumina e mais 10",
+      "total_musicas": 13,
+      "crc_32": 415170388
+    },
+    {
+      "titulo": "Batismo do Senhor",
+      "slug": "baptism_of_the_lord",
+      "previa": "Que alegria, Jesus se dirigiu para as águas do Jordão, Venham todos, adoremos! e mais 14",
+      "total_musicas": 17,
+      "crc_32": 4001268442
+    },
+    {
+      "titulo": "Finados",
+      "slug": "commemoration_of_all_the_faithful_departed",
+      "previa": "Vou levar, Aos que morreram com Cristo, A semente lançada e mais 13",
+      "total_musicas": 16,
+      "crc_32": 477202715
+    },
+    {
+      "titulo": "Dedicação da Basílica de Latrão",
+      "slug": "dedication_of_the_lateran_basilica",
+      "previa": "Fortes na fé, Eu vi novo céu, nova terra, eu vi, A semente lançada e mais 9",
+      "total_musicas": 12,
+      "crc_32": 3337526122
+    },
+    {
+      "titulo": "Epifania do Senhor",
+      "slug": "epiphany_of_the_lord",
+      "previa": "Que alegria, Levanta-te, Jerusalém!, Vinde adorar o Mistério! e mais 13",
+      "total_musicas": 16,
+      "crc_32": 2064991841
+    },
+    {
+      "titulo": "Exaltação da Santa Cruz",
+      "slug": "exaltation_of_the_holy_cross",
+      "previa": "Louvado seja o meu Senhor, Salve, ó Cruz libertadora, Utopia e mais 9",
+      "total_musicas": 12,
+      "crc_32": 1724289659
+    },
+    {
+      "titulo": "Sexta-feira da Paixão do Senhor",
+      "slug": "friday_of_the_passion_of_the_lord",
+      "previa": "Porque fui omisso, Salve, ó Cristo obediente, Bem-vindo meu irmão e mais 6",
+      "total_musicas": 9,
+      "crc_32": 2723592592
+    },
+    {
+      "titulo": "Sagrada Família",
+      "slug": "holy_family_of_jesus_mary_and_joseph",
+      "previa": "Apresentação da Cruz, De Cristo o novo mandamento (CF 1971), Afasta de nós este cálice e mais 11",
+      "total_musicas": 14,
+      "crc_32": 2106910505
+    },
+    {
+      "titulo": "Segunda-Feira Santa",
+      "slug": "holy_monday",
+      "previa": "Senhor, eis aqui o teu povo (CF 2006), Honra, glória, poder e louvor (CF 1975), Eis o Tempo de Conversão (CF 1976) e mais 2",
+      "total_musicas": 5,
+      "crc_32": 2093463537
+    },
+    {
+      "titulo": "Vigília Pascal",
+      "slug": "holy_saturday",
+      "previa": "Banhados em Cristo (CF 2004), Ofertar nossa vida (CF 1992), Aleluia, rendei graças ao Senhor e mais 12",
+      "total_musicas": 15,
+      "crc_32": 3640638812
+    },
+    {
+      "titulo": "Quinta-feira da Ceia do Senhor",
+      "slug": "holy_thursday",
+      "previa": "Quanto a nós, devemos gloriar-nos na cruz (Gl 6, 14 / Sl 66), Venham comigo, Alegrai-vos, povos todos! e mais 9",
+      "total_musicas": 12,
+      "crc_32": 450401511
+    },
+    {
+      "titulo": "Terça-Feira Santa",
+      "slug": "holy_tuesday",
+      "previa": "Senhor, eis aqui o teu povo (CF 2006), Honra, glória, poder e louvor (CF 1975), Eis o Tempo de Conversão (CF 1976) e mais 2",
+      "total_musicas": 5,
+      "crc_32": 1018907335
+    },
+    {
+      "titulo": "Quarta-Feira Santa",
+      "slug": "holy_wednesday",
+      "previa": "Senhor, eis aqui o teu povo (CF 2006), Honra, glória, poder e louvor (CF 1975), Eis o Tempo de Conversão (CF 1976) e mais 2",
+      "total_musicas": 5,
+      "crc_32": 1342578077
+    },
+    {
+      "titulo": "Imaculada Conceição de Nossa Senhora",
+      "slug": "immaculate_conception_of_the_blessed_virgin_mary",
+      "previa": "Graças Senhor, De alegria vibrei no Senhor, Maria, mãe companheira e mais 11",
+      "total_musicas": 14,
+      "crc_32": 3970328648
+    },
+    {
+      "titulo": "Santa Maria, Mãe de Deus",
+      "slug": "mary_mother_of_god",
+      "previa": "Dai-nos Senhor Vossa luz e Vossos dons, Tu és Bendita, Eu desejei este momento e mais 16",
+      "total_musicas": 19,
+      "crc_32": 995495286
+    },
+    {
+      "titulo": "Corpus Christi",
+      "slug": "most_holy_body_and_blood_of_christ",
+      "previa": "À Vossa mesa nos sentamos (CF 1991), Grande mesa, A Eucaristia faz a Igreja e mais 10",
+      "total_musicas": 13,
+      "crc_32": 480141341
+    },
+    {
+      "titulo": "Santíssima Trindade",
+      "slug": "most_holy_trinity",
+      "previa": "Já existe a partilha, Bendito sejas tu, Horizonte maior e mais 7",
+      "total_musicas": 10,
+      "crc_32": 1835860902
+    },
+    {
+      "titulo": "Natividade de São João Batista",
+      "slug": "nativity_of_john_the_baptist",
+      "previa": "A nossa vida a um sopro é semelhante, Onde houver dois ou três, Jesus está aqui e mais 6",
+      "total_musicas": 9,
+      "crc_32": 3292551547
+    },
+    {
+      "titulo": "Natal - Missa da Noite",
+      "slug": "nativity_of_the_lord",
+      "previa": "Salve, ó Cristo obediente, Nasceu-nos hoje um menino, Nosso Deus Viu e mais 18",
+      "total_musicas": 21,
+      "crc_32": 3037098170
+    },
+    {
+      "titulo": "Nossa Senhora da Conceição Aparecida",
+      "slug": "our_lady_of_aparecida",
+      "previa": "Graças Senhor, Ó Senhor e nosso Deus, Graças demos à Senhora e mais 14",
+      "total_musicas": 17,
+      "crc_32": 301928562
+    },
+    {
+      "titulo": "Domingo de Ramos",
+      "slug": "palm_sunday_of_the_passion_of_the_lord",
+      "previa": "Os filhos dos Hebreus, Glória, louvor e honra, Hosana ao vencedor! e mais 12",
+      "total_musicas": 15,
+      "crc_32": 2203509319
+    },
+    {
+      "titulo": "São Pedro e São Paulo",
+      "slug": "peter_and_paul_apostles",
+      "previa": "Tua Palavra é assim, Canta, meu povo, Seu nome é Jesus e mais 9",
+      "total_musicas": 12,
+      "crc_32": 2735928180
+    },
+    {
+      "titulo": "Apresentação do Senhor",
+      "slug": "presentation_of_the_lord",
+      "previa": "Nesta mesa sou mais livre, Cristo-Luz / O que o coro dos profetas, Vem caminhar comigo e mais 5",
+      "total_musicas": 8,
+      "crc_32": 1351517707
+    },
+    {
+      "titulo": "Transfiguração do Senhor",
+      "slug": "transfiguration_of_the_lord",
+      "previa": "No silêncio da noite, Salmo 147, Jesus está aqui e mais 12",
+      "total_musicas": 15,
+      "crc_32": 3402427079
+    }
+  ]
+}

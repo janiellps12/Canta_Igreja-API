@@ -1,0 +1,10 @@
+image: python:3.12
+
+build:
+  script:
+    - pip3 install -r gerador_banco/requirements.txt
+    - python3 build_api.py
+    - python3 script.py cantaIgreja.db
+  artifacts:
+    paths:
+      - cantaIgreja.db

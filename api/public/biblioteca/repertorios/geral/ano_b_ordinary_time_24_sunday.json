@@ -1,0 +1,248 @@
+[
+  {
+    "titulo": "24º Domingo do Tempo Comum",
+    "itens": [
+      {
+        "id_musica": 219,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3010,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": "16",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Setembro 2024 - Ano 33 Nº 393"
+          ]
+        }
+      },
+      {
+        "id_musica": 3877,
+        "momento": "Salmo Responsorial",
+        "metadata": {
+          "indice": "2",
+          "ignorar": false,
+          "referencias": [
+            "Conferência Nacional dos Bispos do Brasil"
+          ]
+        }
+      },
+      {
+        "id_musica": 263,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3042,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": "17",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Setembro 2024 - Ano 33 Nº 393"
+          ]
+        }
+      },
+      {
+        "id_musica": 291,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 628,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": "18",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Setembro 2024 - Ano 33 Nº 393"
+          ]
+        }
+      },
+      {
+        "id_musica": 324,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3725,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": "19",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Setembro 2024 - Ano 33 Nº 393"
+          ]
+        }
+      },
+      {
+        "id_musica": 3726,
+        "momento": "Final",
+        "metadata": {
+          "indice": "20",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Setembro 2024 - Ano 33 Nº 393"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "ordinary_time_24_sunday",
+      "referencias": [
+        "Alegre Cantemos - 3º edição",
+        "Conferência Nacional dos Bispos do Brasil",
+        "Liturgia Diária Setembro 2024 - Ano 33 Nº 393"
+      ],
+      "ano": "B"
+    }
+  },
+  {
+    "titulo": "15 de Setembro de 2024",
+    "itens": [
+      {
+        "id_musica": 702,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 15 de Setembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3010,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 15 de Setembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3877,
+        "momento": "Salmo Responsorial",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 15 de Setembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3042,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": true,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 15 de Setembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 628,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 15 de Setembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3082,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": true,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 15 de Setembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3725,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 15 de Setembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 977,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 15 de Setembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3160,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 15 de Setembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3726,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 15 de Setembro de 2024"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "ordinary_time_24_sunday",
+      "referencias": [
+        "O Domingo - Semanário litúrgico catequético - 15 de Setembro de 2024"
+      ],
+      "ano": "B"
+    }
+  }
+]

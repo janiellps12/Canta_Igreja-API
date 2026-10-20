@@ -1,0 +1,100 @@
+[
+  {
+    "titulo": "24 e 25 de Dezembro de 2024",
+    "itens": [
+      {
+        "id_musica": 2912,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 2204,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 2909,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 2915,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 714,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 2910,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3488,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 706,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 2920,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 396,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 2923,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "nativity_of_the_lord",
+      "referencia": "O Domingo - Semanário litúrgico catequético - 24 e 25 de Dezembro de 2024",
+      "ano": null
+    }
+  }
+]

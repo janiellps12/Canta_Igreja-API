@@ -1,0 +1,14 @@
+google-auth==2.48.0
+Flask==3.1.2
+Flask-SQLAlchemy==3.1.1
+nanoid==2.0.0
+psycopg2-binary==2.9.11
+pydantic==2.12.5
+requests==2.32.5
+sentry-sdk[flask]==2.8.0
+flask-cors==4.0.1
+
+# Gerador banco
+tqdm==4.67.3
+#pandas
+pyyaml==6.0.3

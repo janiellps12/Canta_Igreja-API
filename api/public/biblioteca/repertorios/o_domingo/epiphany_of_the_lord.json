@@ -1,0 +1,108 @@
+[
+  {
+    "titulo": "4 de Janeiro de 2026",
+    "itens": [
+      {
+        "id_musica": 3766,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": true
+        }
+      },
+      {
+        "id_musica": 2926,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 2925,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 2927,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3767,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 2916,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 2918,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 2928,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 4002,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 2929,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3118,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3489,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": true
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "epiphany_of_the_lord",
+      "referencia": "O Domingo - Semanário litúrgico catequético - 4 de Janeiro de 2026",
+      "ano": null
+    }
+  }
+]

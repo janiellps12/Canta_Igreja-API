@@ -1,0 +1,36 @@
+[
+  {
+    "titulo": "3º Domingo do Advento",
+    "itens": [
+      {
+        "id_musica": 2897,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": "7",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3742,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": "8",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3743,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": "9",
+          "ignorar": false
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "advent_3_sunday",
+      "referencia": "Liturgia Diária Dezembro 2024 - Ano 33 Nº 396",
+      "ano": "C"
+    }
+  }
+]

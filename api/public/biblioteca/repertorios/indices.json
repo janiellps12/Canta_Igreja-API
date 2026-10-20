@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Alegre Cantemos",
+    "slug": "alegre_cantemos",
+    "crc32": 599925069
+  },
+  {
+    "nome": "Geral",
+    "slug": "geral",
+    "crc32": 542429487182
+  },
+  {
+    "nome": "Leituras",
+    "slug": "leituras",
+    "crc32": 439441916
+  },
+  {
+    "nome": "Liturgia Diária",
+    "slug": "liturgia_diaria",
+    "crc32": 3594023421
+  },
+  {
+    "nome": "O Domingo",
+    "slug": "o_domingo",
+    "crc32": 2579861799
+  }
+]

@@ -1,0 +1,259 @@
+[
+  {
+    "titulo": "1º Domingo do Advento",
+    "itens": [
+      {
+        "id_musica": 6,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3740,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": "1",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Dezembro 2024 - Ano 33 Nº 396"
+          ]
+        }
+      },
+      {
+        "id_musica": 3866,
+        "momento": "Salmo Responsorial",
+        "metadata": {
+          "indice": "2",
+          "ignorar": false,
+          "referencias": [
+            "Conferência Nacional dos Bispos do Brasil"
+          ]
+        }
+      },
+      {
+        "id_musica": 12,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 15,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 638,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": "2",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Dezembro 2024 - Ano 33 Nº 396"
+          ]
+        }
+      },
+      {
+        "id_musica": 18,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3741,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": "3",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Dezembro 2024 - Ano 33 Nº 396"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "advent_1_sunday",
+      "referencias": [
+        "Alegre Cantemos - 3º edição",
+        "Conferência Nacional dos Bispos do Brasil",
+        "Liturgia Diária Dezembro 2024 - Ano 33 Nº 396"
+      ],
+      "ano": "C"
+    }
+  },
+  {
+    "titulo": "1 de Dezembro de 2024",
+    "itens": [
+      {
+        "id_musica": 2901,
+        "momento": "Acendimento da Vela de Coroa do Advento",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 1 de Dezembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 2902,
+        "momento": "Acendimento da Vela de Coroa do Advento",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 1 de Dezembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 2245,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 1 de Dezembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 2899,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 1 de Dezembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3740,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 1 de Dezembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3866,
+        "momento": "Salmo Responsorial",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 1 de Dezembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 2905,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 1 de Dezembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 638,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 1 de Dezembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3742,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 1 de Dezembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 1885,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 1 de Dezembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 2907,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 1 de Dezembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3741,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 1 de Dezembro de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3834,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 1 de Dezembro de 2024"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "advent_1_sunday",
+      "referencias": [
+        "O Domingo - Semanário litúrgico catequético - 1 de Dezembro de 2024"
+      ],
+      "ano": "C"
+    }
+  }
+]

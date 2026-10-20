@@ -1,0 +1,202 @@
+[
+  {
+    "titulo": "Transfiguração do Senhor",
+    "itens": [
+      {
+        "id_musica": 229,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 417,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 292,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 418,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "transfiguration_of_the_lord",
+      "referencias": [
+        "Alegre Cantemos - 3º edição"
+      ],
+      "ano": null
+    }
+  },
+  {
+    "titulo": "06 de Agosto de 2024",
+    "itens": [
+      {
+        "id_musica": 3143,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 06 de Agosto de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3968,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 06 de Agosto de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3969,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 06 de Agosto de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3060,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 06 de Agosto de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3116,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 06 de Agosto de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3731,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 06 de Agosto de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3145,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 06 de Agosto de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3146,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 06 de Agosto de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3782,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 06 de Agosto de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3118,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": true,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 06 de Agosto de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3799,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 06 de Agosto de 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3970,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 06 de Agosto de 2024"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "transfiguration_of_the_lord",
+      "referencias": [
+        "O Domingo - Semanário litúrgico catequético - 06 de Agosto de 2024"
+      ],
+      "ano": null
+    }
+  }
+]

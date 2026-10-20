@@ -1,0 +1,237 @@
+[
+  {
+    "titulo": "33º Domingo do Tempo Comum",
+    "itens": [
+      {
+        "id_musica": 221,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3012,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": "16",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Novembro 2024 - Ano 33 Nº 395"
+          ]
+        }
+      },
+      {
+        "id_musica": 3907,
+        "momento": "Salmo Responsorial",
+        "metadata": {
+          "indice": "2",
+          "ignorar": false,
+          "referencias": [
+            "Conferência Nacional dos Bispos do Brasil"
+          ]
+        }
+      },
+      {
+        "id_musica": 265,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3037,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": "17",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Novembro 2024 - Ano 33 Nº 395"
+          ]
+        }
+      },
+      {
+        "id_musica": 292,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3731,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": "18",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Novembro 2024 - Ano 33 Nº 395"
+          ]
+        }
+      },
+      {
+        "id_musica": 326,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3084,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": "19",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Novembro 2024 - Ano 33 Nº 395"
+          ]
+        }
+      },
+      {
+        "id_musica": 770,
+        "momento": "Final",
+        "metadata": {
+          "indice": "20",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Novembro 2024 - Ano 33 Nº 395"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "ordinary_time_33_sunday",
+      "referencias": [
+        "Alegre Cantemos - 3º edição",
+        "Conferência Nacional dos Bispos do Brasil",
+        "Liturgia Diária Novembro 2024 - Ano 33 Nº 395"
+      ],
+      "ano": "B"
+    }
+  },
+  {
+    "titulo": "17 de Novembro 2024",
+    "itens": [
+      {
+        "id_musica": 3012,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 17 de Novembro 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3907,
+        "momento": "Salmo Responsorial",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 17 de Novembro 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3042,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": true,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 17 de Novembro 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3060,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 17 de Novembro 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3731,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 17 de Novembro 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 648,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 17 de Novembro 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3077,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 17 de Novembro 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 3997,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 17 de Novembro 2024"
+          ]
+        }
+      },
+      {
+        "id_musica": 770,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 17 de Novembro 2024"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "ordinary_time_33_sunday",
+      "referencias": [
+        "O Domingo - Semanário litúrgico catequético - 17 de Novembro 2024"
+      ],
+      "ano": "B"
+    }
+  }
+]

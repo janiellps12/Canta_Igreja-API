@@ -1,0 +1,70 @@
+[
+  {
+    "titulo": "25º Domingo do Tempo Comum",
+    "itens": [
+      {
+        "id_musica": 219,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3879,
+        "momento": "Salmo Responsorial",
+        "metadata": {
+          "indice": "2",
+          "ignorar": false,
+          "referencias": [
+            "Conferência Nacional dos Bispos do Brasil"
+          ]
+        }
+      },
+      {
+        "id_musica": 256,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 291,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 317,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "ordinary_time_25_sunday",
+      "referencias": [
+        "Alegre Cantemos - 3º edição",
+        "Conferência Nacional dos Bispos do Brasil"
+      ],
+      "ano": "A"
+    }
+  }
+]

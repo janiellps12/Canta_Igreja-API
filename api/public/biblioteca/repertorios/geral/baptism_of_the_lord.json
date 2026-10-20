@@ -1,0 +1,272 @@
+[
+  {
+    "titulo": "Batismo do Senhor",
+    "itens": [
+      {
+        "id_musica": 44,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 2930,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": "8",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Janeiro 2026 - Ano 35 Nº 409"
+          ]
+        }
+      },
+      {
+        "id_musica": 3768,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": "12",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Janeiro 2025 - Ano 34 Nº 397"
+          ]
+        }
+      },
+      {
+        "id_musica": 45,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 2927,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": "13",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Janeiro 2025 - Ano 34 Nº 397",
+            "Liturgia Diária Janeiro 2026 - Ano 35 Nº 409"
+          ]
+        }
+      },
+      {
+        "id_musica": 49,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 2931,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": "14",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Janeiro 2025 - Ano 34 Nº 397"
+          ]
+        }
+      },
+      {
+        "id_musica": 35,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 2932,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": "15",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Janeiro 2025 - Ano 34 Nº 397",
+            "Liturgia Diária Janeiro 2026 - Ano 35 Nº 409"
+          ]
+        }
+      },
+      {
+        "id_musica": 3769,
+        "momento": "Final",
+        "metadata": {
+          "indice": "16",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Janeiro 2025 - Ano 34 Nº 397"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "baptism_of_the_lord",
+      "referencias": [
+        "Alegre Cantemos - 3º edição",
+        "Liturgia Diária Janeiro 2025 - Ano 34 Nº 397",
+        "Liturgia Diária Janeiro 2026 - Ano 35 Nº 409"
+      ],
+      "ano": null
+    }
+  },
+  {
+    "titulo": "11 de Janeiro de 2026",
+    "itens": [
+      {
+        "id_musica": 2930,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 11 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 3768,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 11 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 3351,
+        "momento": "Aspersão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 11 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 3529,
+        "momento": "Aspersão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 11 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 4003,
+        "momento": "Aspersão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 11 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 4004,
+        "momento": "Salmo Responsorial",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 11 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 2927,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": true,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 11 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 706,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 11 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 2932,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 11 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 3489,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 11 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 3769,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 11 de Janeiro de 2026"
+          ]
+        }
+      },
+      {
+        "id_musica": 4005,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "O Domingo - Semanário litúrgico catequético - 11 de Janeiro de 2026"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "baptism_of_the_lord",
+      "referencias": [
+        "O Domingo - Semanário litúrgico catequético - 11 de Janeiro de 2026"
+      ],
+      "ano": null
+    }
+  }
+]

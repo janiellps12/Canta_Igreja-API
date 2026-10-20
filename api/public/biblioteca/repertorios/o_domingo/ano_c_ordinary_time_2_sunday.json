@@ -1,0 +1,92 @@
+[
+  {
+    "titulo": "18 de Janeiro de 2026",
+    "itens": [
+      {
+        "id_musica": 3018,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3004,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3898,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3045,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3065,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 261,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3085,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3994,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3770,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3489,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": true
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "ordinary_time_2_sunday",
+      "referencia": "O Domingo - Semanário litúrgico catequético - 18 de Janeiro de 2026",
+      "ano": "C"
+    }
+  }
+]

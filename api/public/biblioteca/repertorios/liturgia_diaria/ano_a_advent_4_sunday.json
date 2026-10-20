@@ -1,0 +1,44 @@
+[
+  {
+    "titulo": "4º Domingo do Advento",
+    "itens": [
+      {
+        "id_musica": 1891,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": "10",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3742,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": "11",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3837,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": "12",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3834,
+        "momento": "Final",
+        "metadata": {
+          "indice": "13",
+          "ignorar": false
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "advent_4_sunday",
+      "referencia": "Liturgia Diária Dezembro 2025 - Ano 34 Nº 408",
+      "ano": "A"
+    }
+  }
+]

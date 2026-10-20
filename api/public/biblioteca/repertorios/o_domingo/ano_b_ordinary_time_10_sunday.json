@@ -1,0 +1,84 @@
+[
+  {
+    "titulo": "09 de Junho de 2024",
+    "itens": [
+      {
+        "id_musica": 3089,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": true
+        }
+      },
+      {
+        "id_musica": 595,
+        "momento": "Ato Penitencial",
+        "metadata": {
+          "indice": null,
+          "ignorar": true
+        }
+      },
+      {
+        "id_musica": 3031,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3040,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": true
+        }
+      },
+      {
+        "id_musica": 2833,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3816,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3072,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": true
+        }
+      },
+      {
+        "id_musica": 3087,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": true
+        }
+      },
+      {
+        "id_musica": 3163,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "ordinary_time_10_sunday",
+      "referencia": "O Domingo - Semanário litúrgico catequético - 09 de Junho de 2024",
+      "ano": "B"
+    }
+  }
+]

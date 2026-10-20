@@ -1,0 +1,44 @@
+[
+  {
+    "titulo": "30º Domingo do Tempo Comum",
+    "itens": [
+      {
+        "id_musica": 3801,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": "17",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 256,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": "19",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3831,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": "20",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3776,
+        "momento": "Final",
+        "metadata": {
+          "indice": "21",
+          "ignorar": false
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "ordinary_time_30_sunday",
+      "referencia": "Liturgia Diária Outubro 2025 - Ano 34 Nº 406",
+      "ano": "C"
+    }
+  }
+]

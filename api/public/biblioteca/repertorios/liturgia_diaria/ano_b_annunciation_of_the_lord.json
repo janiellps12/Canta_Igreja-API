@@ -1,0 +1,44 @@
+[
+  {
+    "titulo": "Anunciação do Senhor",
+    "itens": [
+      {
+        "id_musica": 3764,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": "7",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3180,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": "9",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 674,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": "10",
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3190,
+        "momento": "Final",
+        "metadata": {
+          "indice": "11",
+          "ignorar": false
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "annunciation_of_the_lord",
+      "referencia": "Liturgia Diária Abril 2024 - Ano 33 Nº 388",
+      "ano": "B"
+    }
+  }
+]

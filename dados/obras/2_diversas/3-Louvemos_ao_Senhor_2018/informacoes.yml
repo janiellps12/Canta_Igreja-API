@@ -1,0 +1,19 @@
+id_edicao_livro: 3
+id_livro: 3
+edicao: '2018'
+id_editora: 2
+ano: 2018
+site: 'https://www.shoppingcatolico.com.br/livro-de-canticos-louvemos-o-senhor-2018.html'
+descricao: |
+  Com mais de 2 mil músicas, o livro mantém sua tradição de mais de 42 anos como o melhor e mais completo livro de cânticos da Igreja Católica.
+
+  Com o livro, músicos católicos poderão animar as Santas Missas, grupos de oração, retiros, encontros... 
+
+  Adaptado do portal Shopping Católico.
+detalhes:
+  sigla: 'LS'
+  isbn10: '8599440403'
+  isbn13: '978-8599440407'
+  issn: null
+Outras informações:
+secoes: {}

@@ -1,0 +1,84 @@
+[
+  {
+    "titulo": "25 de Janeiro de 2026",
+    "itens": [
+      {
+        "id_musica": 3015,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3004,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3918,
+        "momento": "Salmo Responsorial",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3045,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3366,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 261,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3085,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3772,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3489,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": true
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "sunday_of_the_word_of_god",
+      "referencia": "O Domingo - Semanário litúrgico catequético - 25 de Janeiro de 2026",
+      "ano": "C"
+    }
+  }
+]

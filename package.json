@@ -1,0 +1,10 @@
+{
+  "name": "canta-igreja-api",
+  "version": "1.0.0",
+  "description": "Repositório contendo as músicas presentes no [aplicativo Canta Igreja](https://play.google.com/store/apps/details?id=com.cantaigreja&hl=pt_BR) e no site [https://canta.app](https://canta.app).",
+  "dependencies": {
+    "@romcal/calendar.brazil": "^3.0.0-dev.125",
+    "romcal": "^3.0.0-dev.125"
+  },
+  "type": "module"
+}

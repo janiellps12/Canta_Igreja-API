@@ -1,0 +1,108 @@
+[
+  {
+    "titulo": "11 de Janeiro de 2026",
+    "itens": [
+      {
+        "id_musica": 3768,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 2930,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3351,
+        "momento": "Aspersão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3529,
+        "momento": "Aspersão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 4003,
+        "momento": "Aspersão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 4004,
+        "momento": "Salmo Responsorial",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 2927,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": true
+        }
+      },
+      {
+        "id_musica": 2932,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 706,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 4005,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3489,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      },
+      {
+        "id_musica": 3769,
+        "momento": "Final",
+        "metadata": {
+          "indice": null,
+          "ignorar": false
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "baptism_of_the_lord",
+      "referencia": "O Domingo - Semanário litúrgico catequético - 11 de Janeiro de 2026",
+      "ano": null
+    }
+  }
+]

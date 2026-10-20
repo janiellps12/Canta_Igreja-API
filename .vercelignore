@@ -1,0 +1,10 @@
+.idea/
+.policy/
+.vercel/
+.vscode/
+
+canta_igreja_api.egg-info/
+
+.keep
+.git
+!*.json

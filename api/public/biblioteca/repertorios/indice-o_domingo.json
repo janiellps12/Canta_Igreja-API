@@ -1,0 +1,320 @@
+{
+  "nome": "O Domingo",
+  "itens": [
+    {
+      "titulo": "12 de maio de 2024",
+      "slug": "ano_b_ascension_of_the_lord",
+      "previa": "Batei palmas, povos todos (Sl 46), O Senhor foi preparar, O Cristo refulgente e mais 12",
+      "total_musicas": 15,
+      "crc_32": 3823397011
+    },
+    {
+      "titulo": "19 de maio de 2024",
+      "slug": "ano_b_pentecost_sunday",
+      "previa": "O Amor de Deus foi derramado em nossos corações, O Espírito do Senhor, O amor de Deus foi derramado e mais 13",
+      "total_musicas": 16,
+      "crc_32": 3196750103
+    },
+    {
+      "titulo": "26 de maio de 2024",
+      "slug": "most_holy_trinity",
+      "previa": "Luz que vem do alto, Bendito sejas tu, Salmo Responsorial - Santíssima Trindade - Ano B e mais 5",
+      "total_musicas": 8,
+      "crc_32": 2013365963
+    },
+    {
+      "titulo": "30 de Maio de 2024",
+      "slug": "most_holy_body_and_blood_of_christ",
+      "previa": "Cristo, pão dos pobres, Terra, exulta de alegria, Daí-lhes de comer e mais 6",
+      "total_musicas": 9,
+      "crc_32": 175902521
+    },
+    {
+      "titulo": "07 de Junho de 2024",
+      "slug": "ano_b_most_sacred_heart_of_jesus",
+      "previa": "Quando a plenitude dos tempos, Aleluia, o Verbo eterno, Vendo a grande multidão e mais 3",
+      "total_musicas": 6,
+      "crc_32": 317217717
+    },
+    {
+      "titulo": "09 de Junho de 2024",
+      "slug": "ano_b_ordinary_time_10_sunday",
+      "previa": "Ó Senhor, quem te pede, recebe, Senhor, tende piedade, Aleluia, pois foi o Senhor quem mandou e mais 6",
+      "total_musicas": 9,
+      "crc_32": 3934335180
+    },
+    {
+      "titulo": "16 de Junho de 2024",
+      "slug": "ano_b_ordinary_time_11_sunday",
+      "previa": "O Senhor é minha luz, Um pouco além do presente / Jesus Cristo, esperança do mundo (CFE 2000), Senhor, tende piedade e mais 7",
+      "total_musicas": 10,
+      "crc_32": 4160918144
+    },
+    {
+      "titulo": "24 de Junho de 2024",
+      "slug": "nativity_of_john_the_baptist",
+      "previa": "Confesso a Deus Pai Todo-Poderoso, Aleluia, serás chamado, Bendito seja Deus Pai e mais 3",
+      "total_musicas": 7,
+      "crc_32": 861730390
+    },
+    {
+      "titulo": "30 de Junho de 2024",
+      "slug": "peter_and_paul_apostles",
+      "previa": "Canta, meu povo, Aleluia, tu és Pedro, Quem nos separará e mais 5",
+      "total_musicas": 8,
+      "crc_32": 1195847149
+    },
+    {
+      "titulo": "7 de Julho de 2024",
+      "slug": "ano_b_ordinary_time_14_sunday",
+      "previa": "No meio da tua casa, A ti, ó Deus, Salmo Responsorial - 14º Domingo do Tempo Comum - Ano B e mais 6",
+      "total_musicas": 9,
+      "crc_32": 1610746113
+    },
+    {
+      "titulo": "14 de Julho de 2024",
+      "slug": "ano_b_ordinary_time_15_sunday",
+      "previa": "No meio da tua casa, Missão da Igreja, Salmo Responsorial - 15º Domingo do Tempo Comum - Ano B - 19º Domingo do Tempo Comum - Ano A e mais 10",
+      "total_musicas": 13,
+      "crc_32": 2543557208
+    },
+    {
+      "titulo": "21 de Julho de 2024",
+      "slug": "ano_b_ordinary_time_16_sunday",
+      "previa": "No meio da tua casa, Missão da Igreja, Salmo Responsorial - 16º Domingo do Tempo Comum - Ano B e mais 8",
+      "total_musicas": 11,
+      "crc_32": 3235419076
+    },
+    {
+      "titulo": "28 de Julho de 2024",
+      "slug": "ano_b_ordinary_time_17_sunday",
+      "previa": "Acolhe os oprimidos, Salmo Responsorial - 17º Domingo do Tempo Comum - Ano B, Aleluia, um grande profeta surgiu e mais 4",
+      "total_musicas": 7,
+      "crc_32": 1771954755
+    },
+    {
+      "titulo": "04 de Agosto de 2024",
+      "slug": "ano_b_ordinary_time_18_sunday",
+      "previa": "Acolhe os oprimidos, Vós sois o caminho, Salmo Responsorial - 18º Domingo do Tempo Comum - Ano B e mais 6",
+      "total_musicas": 9,
+      "crc_32": 1116786642
+    },
+    {
+      "titulo": "06 de Agosto de 2024",
+      "slug": "transfiguration_of_the_lord",
+      "previa": "Deus fez brilhar em nós a sua luz, Vimos aqui, Senhor, Ó luz e mais 9",
+      "total_musicas": 12,
+      "crc_32": 2169384712
+    },
+    {
+      "titulo": "11 de Agosto de 2024",
+      "slug": "ano_b_ordinary_time_19_sunday",
+      "previa": "Acolhe os oprimidos, Nós somos muitos, Vós sois o caminho e mais 9",
+      "total_musicas": 12,
+      "crc_32": 2193861918
+    },
+    {
+      "titulo": "18 de Agosto de 2024",
+      "slug": "assumption_of_the_blessed_virgin_mary",
+      "previa": "No céu surgiu um sinal!, Uma mulher no céu foi vista, Desperta, tu que dormes e mais 8",
+      "total_musicas": 11,
+      "crc_32": 2797222153
+    },
+    {
+      "titulo": "25 de Agosto de 2024",
+      "slug": "ano_b_ordinary_time_21_sunday",
+      "previa": "Deus, nosso Pai protetor, Nós somos muitos, Salmo Responsorial - 21º Domingo do Tempo Comum - Ano B e mais 6",
+      "total_musicas": 9,
+      "crc_32": 1193605131
+    },
+    {
+      "titulo": "1 de Setembro de 2024",
+      "slug": "ano_b_ordinary_time_22_sunday",
+      "previa": "Deus, nosso Pai protetor, Salmo Responsorial - 22º Domingo do Tempo Comum - Ano B, Aleluia, Deus, nosso Pai e mais 7",
+      "total_musicas": 10,
+      "crc_32": 2195877054
+    },
+    {
+      "titulo": "8 de Setembro de 2024",
+      "slug": "ano_b_ordinary_time_23_sunday",
+      "previa": "Deus, nosso Pai protetor, Salmo Responsorial - 23º Domingo do Tempo Comum - Ano B, Aleluia, Jesus Cristo pregava o Evangelho e mais 6",
+      "total_musicas": 9,
+      "crc_32": 702853731
+    },
+    {
+      "titulo": "14 de Setembro de 2024",
+      "slug": "exaltation_of_the_holy_cross",
+      "previa": "Salve, ó Cruz libertadora, Aleluia, eis meu Filho muito amado, Nossa glória é a Cruz e mais 2",
+      "total_musicas": 5,
+      "crc_32": 3201904215
+    },
+    {
+      "titulo": "15 de Setembro de 2024",
+      "slug": "ano_b_ordinary_time_24_sunday",
+      "previa": "Senhor, escuta as preces, Vós sois o caminho, Salmo Responsorial - 24º Domingo do Tempo Comum - Ano B e mais 7",
+      "total_musicas": 10,
+      "crc_32": 4050196085
+    },
+    {
+      "titulo": "22 de Setembro de 2024",
+      "slug": "ano_b_ordinary_time_25_sunday",
+      "previa": "Senhor, escuta as preces, Salmo Responsorial - 25º Domingo do Tempo Comum - Ano B, Aleluia, pois foi o Senhor quem mandou e mais 7",
+      "total_musicas": 10,
+      "crc_32": 1712661011
+    },
+    {
+      "titulo": "29 de Setembro de 2024",
+      "slug": "ano_b_ordinary_time_26_sunday",
+      "previa": "Senhor, escuta as preces, Salmo Responsorial - 26º Domingo do Tempo Comum - Ano B, Aleluia, ó Senhor, tuas palavras e mais 8",
+      "total_musicas": 11,
+      "crc_32": 4143695828
+    },
+    {
+      "titulo": "6 de Outubro de 2024",
+      "slug": "ano_b_ordinary_time_27_sunday",
+      "previa": "Senhor, escuta as preces, Salmo Responsorial - 27º Domingo do Tempo Comum - Ano B, Aleluia, ó Senhor, tuas palavras e mais 6",
+      "total_musicas": 9,
+      "crc_32": 1829894169
+    },
+    {
+      "titulo": "12 de Outubro de 2024",
+      "slug": "our_lady_of_aparecida",
+      "previa": "Ó Senhor e nosso Deus, Vinde todos desta terra, Aleluia, disse a Mãe de Jesus - 1 e mais 8",
+      "total_musicas": 12,
+      "crc_32": 573849917
+    },
+    {
+      "titulo": "20 de Outubro de 2024",
+      "slug": "ano_b_ordinary_time_29_sunday",
+      "previa": "Ó Senhor, nós estamos aqui, Exulte de alegria quem busca a Deus, Salmo Responsorial - 29º Domingo do Tempo Comum - Ano B e mais 7",
+      "total_musicas": 10,
+      "crc_32": 3100416190
+    },
+    {
+      "titulo": "27 de Outubro de 2024",
+      "slug": "ano_b_ordinary_time_30_sunday",
+      "previa": "Exulte de alegria quem busca a Deus, Salmo Responsorial - 2º Domingo do Advento - Ano C - 30º Domingo do Tempo Comum - Ano B - 5º Domingo da Quaresma - Ano C (opção 1), Aleluia, eu te louvo, ó Pai santo e mais 5",
+      "total_musicas": 8,
+      "crc_32": 3069555261
+    },
+    {
+      "titulo": "2 de Novembro de 2024",
+      "slug": "commemoration_of_all_the_faithful_departed",
+      "previa": "Aos que morreram com Cristo, A morte já não mata mais, Aleluia, eis meu Filho muito amado e mais 8",
+      "total_musicas": 11,
+      "crc_32": 1597239014
+    },
+    {
+      "titulo": "3 de Novembro de 2024",
+      "slug": "all_saints",
+      "previa": "Amém, aleluia! Vi cantar no Céu!, No Senhor, alegremo-nos, Aleluia, eis meu Filho muito amado e mais 8",
+      "total_musicas": 11,
+      "crc_32": 1782601028
+    },
+    {
+      "titulo": "9 de Novembro de 2024",
+      "slug": "dedication_of_the_lateran_basilica",
+      "previa": "Eu vi novo céu, nova terra, eu vi, Aleluia, eis meu Filho muito amado, Bendito seja Deus Pai e mais 3",
+      "total_musicas": 6,
+      "crc_32": 432088148
+    },
+    {
+      "titulo": "10 de Novembro de 2024",
+      "slug": "ano_b_ordinary_time_32_sunday",
+      "previa": "Não me abandones, Senhor, Salmo Responsorial - 32º Domingo do Tempo Comum - Ano B, Aleluia, é preciso vigiar e ficar de prontidão e mais 5",
+      "total_musicas": 9,
+      "crc_32": 2820776060
+    },
+    {
+      "titulo": "17 de Novembro 2024",
+      "slug": "ano_b_ordinary_time_33_sunday",
+      "previa": "Não me abandones, Senhor, Salmo Responsorial - 33º Domingo do Tempo Comum - Ano B, Aleluia, ó Senhor, tuas palavras e mais 5",
+      "total_musicas": 9,
+      "crc_32": 741964797
+    },
+    {
+      "titulo": "24 de Novembro de 2024",
+      "slug": "ano_b_our_lord_jesus_christ_king_of_the_universe",
+      "previa": "O amor é Tua lei, O Senhor vai falar-nos de paz, Entoai novo canto e mais 6",
+      "total_musicas": 9,
+      "crc_32": 1917949218
+    },
+    {
+      "titulo": "1 de Dezembro de 2024",
+      "slug": "ano_c_advent_1_sunday",
+      "previa": "A justiça de Deus!, O Senhor virá libertar o seu povo, Quando virá, Senhor e mais 10",
+      "total_musicas": 13,
+      "crc_32": 415825311
+    },
+    {
+      "titulo": "8 de Dezembro de 2024",
+      "slug": "immaculate_conception_of_the_blessed_virgin_mary",
+      "previa": "De alegria vibrei no Senhor, Aleluia, Maria é elevada, Aleluia! Deus te salve ó Maria! e mais 3",
+      "total_musicas": 10,
+      "crc_32": 2325009240
+    },
+    {
+      "titulo": "15 de Dezembro de 2024",
+      "slug": "ano_c_advent_3_sunday",
+      "previa": "Alegrai-vos, Das alturas orvalhem os céus, Alegrai-vos sempre no Senhor! e mais 9",
+      "total_musicas": 12,
+      "crc_32": 32597162
+    },
+    {
+      "titulo": "22 de Dezembro de 2024",
+      "slug": "ano_c_advent_4_sunday",
+      "previa": "Céus, deixai cair o orvalho, Como o sol nasce da aurora, Das alturas orvalhem os céus e mais 12",
+      "total_musicas": 16,
+      "crc_32": 1316955954
+    },
+    {
+      "titulo": "24 e 25 de Dezembro de 2024",
+      "slug": "nativity_of_the_lord",
+      "previa": "Hoje a luz visita o mundo, Reis e nações - Sl 2, Nosso Deus Viu e mais 8",
+      "total_musicas": 11,
+      "crc_32": 296027583
+    },
+    {
+      "titulo": "29 de Dezembro de 2024",
+      "slug": "holy_family_of_jesus_mary_and_joseph",
+      "previa": "Eis que os pastores!, Salmo Responsorial - 33º Domingo do Tempo Comum - Ano A, Aleluia, eu vos trago e mais 4",
+      "total_musicas": 7,
+      "crc_32": 1276579288
+    },
+    {
+      "titulo": "1 de Janeiro de 2026",
+      "slug": "mary_mother_of_god",
+      "previa": "Tu és Bendita, Tu és a glória de Jerusalém, Aleluia, de muitos modos e mais 8",
+      "total_musicas": 13,
+      "crc_32": 1894100459
+    },
+    {
+      "titulo": "4 de Janeiro de 2026",
+      "slug": "epiphany_of_the_lord",
+      "previa": "Vinde adorar o Mistério!, Eis que veio o Senhor, Levanta-te, Jerusalém! e mais 8",
+      "total_musicas": 12,
+      "crc_32": 3409436576
+    },
+    {
+      "titulo": "11 de Janeiro de 2026",
+      "slug": "baptism_of_the_lord",
+      "previa": "Venham todos, adoremos!, Jesus se dirigiu para as águas do Jordão, Aspergi-me, Senhor e mais 6",
+      "total_musicas": 12,
+      "crc_32": 635895611
+    },
+    {
+      "titulo": "18 de Janeiro de 2026",
+      "slug": "ano_c_ordinary_time_2_sunday",
+      "previa": "A ti, ó Deus, Toda a terra te adore, Salmo Responsorial - 2º Domingo do Tempo Comum - Ano C e mais 7",
+      "total_musicas": 10,
+      "crc_32": 381427468
+    },
+    {
+      "titulo": "25 de Janeiro de 2026",
+      "slug": "ano_c_sunday_of_the_word_of_god",
+      "previa": "Nós somos muitos, Toda a terra te adore, Salmo Responsorial - 3º Domingo do Tempo Comum - Ano C e mais 6",
+      "total_musicas": 9,
+      "crc_32": 2974798512
+    }
+  ]
+}

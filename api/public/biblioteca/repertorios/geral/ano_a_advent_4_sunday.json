@@ -1,0 +1,115 @@
+[
+  {
+    "titulo": "4º Domingo do Advento",
+    "itens": [
+      {
+        "id_musica": 18,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 1891,
+        "momento": "Entrada",
+        "metadata": {
+          "indice": "10",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Dezembro 2025 - Ano 34 Nº 408"
+          ]
+        }
+      },
+      {
+        "id_musica": 3923,
+        "momento": "Salmo Responsorial",
+        "metadata": {
+          "indice": "2",
+          "ignorar": false,
+          "referencias": [
+            "Conferência Nacional dos Bispos do Brasil"
+          ]
+        }
+      },
+      {
+        "id_musica": 12,
+        "momento": "Aclamação ao Evangelho",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 15,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3742,
+        "momento": "Oferendas",
+        "metadata": {
+          "indice": "11",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Dezembro 2025 - Ano 34 Nº 408"
+          ]
+        }
+      },
+      {
+        "id_musica": 471,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": null,
+          "ignorar": false,
+          "referencias": [
+            "Alegre Cantemos - 3º edição"
+          ]
+        }
+      },
+      {
+        "id_musica": 3837,
+        "momento": "Comunhão",
+        "metadata": {
+          "indice": "12",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Dezembro 2025 - Ano 34 Nº 408"
+          ]
+        }
+      },
+      {
+        "id_musica": 3834,
+        "momento": "Final",
+        "metadata": {
+          "indice": "13",
+          "ignorar": false,
+          "referencias": [
+            "Liturgia Diária Dezembro 2025 - Ano 34 Nº 408"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "id_romcal": "advent_4_sunday",
+      "referencias": [
+        "Alegre Cantemos - 3º edição",
+        "Conferência Nacional dos Bispos do Brasil",
+        "Liturgia Diária Dezembro 2025 - Ano 34 Nº 408"
+      ],
+      "ano": "A"
+    }
+  }
+]
