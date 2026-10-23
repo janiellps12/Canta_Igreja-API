@@ -12,3 +12,5 @@ flask-cors==4.0.1
 tqdm==4.67.3
 #pandas
 pyyaml==6.0.3
+
+psycopg[binary]
