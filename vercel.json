@@ -1,5 +1,5 @@
 {
-  "outputDirectory": "api/public/",
+  "outputDirectory": "public",
   "buildCommand": "sh .build/install.sh",
 
   "functions": {
