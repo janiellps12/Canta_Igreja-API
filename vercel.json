@@ -39,18 +39,7 @@
     {
       "source": "/v1/biblioteca/repertorios/:slug_referencia(\\w+)/:slug(\\w+)",
       "destination": "biblioteca/repertorios/:slug_referencia/:slug.json"
-    },
-    {
-      "source": "/v1/repertorios",
-      "destination": "api/main"
-    },
-    {
-      "source": "/v1/repertorios/:conta/:id",
-      "destination": "api/main"
-    },
-    {
-      "source": "/v1/(.*)",
-      "destination": "api/main"
     }
   ]
 }
+
