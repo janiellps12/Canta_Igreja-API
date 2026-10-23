@@ -1,4 +1,5 @@
 #!/bin/bash
+set -eu
 # Testar em imagem docker local
 #docker run -it --rm amazonlinux:2023 /bin/bash
 #yum groupinstall "Development Tools" -y
@@ -32,6 +33,7 @@ mkdir -p api/public/musicas
 
 echo "🗂️  [install.sh] Criadas pastas públicas (api/public/...)"
 echo "⚙️  [install.sh] Criando arquivos .json a serem disponibilizados pela API"
+python3 -m pip install -r requirements.txt
 python3 build_api.py
 echo "✅ [install.sh] build_api.py finalizado."
 
