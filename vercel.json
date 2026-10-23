@@ -1,28 +1,56 @@
 {
   "outputDirectory": "public",
   "buildCommand": "sh .build/install.sh",
-
   "functions": {
     "api/main.py": {
-      "maxDuration": 25
+      "maxDuration": 25,
+      "includeFiles": "dados/musicas/**"
     }
   },
-
   "rewrites": [
-    { "source": "/v1/musicas/:id(\\d+)", "destination": "musicas/:id.json" },
-
-    { "source": "/v1/biblioteca/obras", "destination": "biblioteca/obras/obras.json" },
-    { "source": "/v1/biblioteca/obras/:id(\\d+)/sqlite", "destination": "biblioteca/obras/:id.sqlite" },
-    { "source": "/v1/biblioteca/obras/all/sqlite", "destination": "biblioteca/obras/all.sqlite" },
-
-    { "source": "/v1/biblioteca/repertorios", "destination": "biblioteca/repertorios/indices.json" },
-    { "source": "/v1/biblioteca/repertorios/sqlite", "destination": "biblioteca/repertorios/repertorios.sqlite" },
-    { "source": "/v1/biblioteca/repertorios/:slug_referencia(\\w+)", "destination": "biblioteca/repertorios/indice-:slug_referencia.json" },
-    { "source": "/v1/biblioteca/repertorios/:slug_referencia(\\w+)/:slug(\\w+)", "destination": "biblioteca/repertorios/:slug_referencia/:slug.json" },
-
-    { "source": "/v1/repertorios", "destination": "api/main" },
-    { "source": "/v1/repertorios/:conta/:id", "destination": "api/main" },
-
-    { "source": "/v1/(.*)", "destination": "api/main" }
+    {
+      "source": "/v1/musicas/:id(\\d+)",
+      "destination": "musicas/:id.json"
+    },
+    {
+      "source": "/v1/biblioteca/obras",
+      "destination": "biblioteca/obras/obras.json"
+    },
+    {
+      "source": "/v1/biblioteca/obras/:id(\\d+)/sqlite",
+      "destination": "biblioteca/obras/:id.sqlite"
+    },
+    {
+      "source": "/v1/biblioteca/obras/all/sqlite",
+      "destination": "biblioteca/obras/all.sqlite"
+    },
+    {
+      "source": "/v1/biblioteca/repertorios",
+      "destination": "biblioteca/repertorios/indices.json"
+    },
+    {
+      "source": "/v1/biblioteca/repertorios/sqlite",
+      "destination": "biblioteca/repertorios/repertorios.sqlite"
+    },
+    {
+      "source": "/v1/biblioteca/repertorios/:slug_referencia(\\w+)",
+      "destination": "biblioteca/repertorios/indice-:slug_referencia.json"
+    },
+    {
+      "source": "/v1/biblioteca/repertorios/:slug_referencia(\\w+)/:slug(\\w+)",
+      "destination": "biblioteca/repertorios/:slug_referencia/:slug.json"
+    },
+    {
+      "source": "/v1/repertorios",
+      "destination": "api/main"
+    },
+    {
+      "source": "/v1/repertorios/:conta/:id",
+      "destination": "api/main"
+    },
+    {
+      "source": "/v1/(.*)",
+      "destination": "api/main"
+    }
   ]
 }
