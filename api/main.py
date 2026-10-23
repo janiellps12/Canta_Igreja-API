@@ -91,7 +91,15 @@ def obter_catalogo():
 
 @app.errorhandler(404)
 def error404(e):
-    return jsonify({"status": 404}), 404
+    return jsonify({
+        "status": 404,
+        "diagnostico": "catalogo-v1",
+        "caminho_recebido": request.path,
+        "catalogo_registrado": any(
+            regra.rule == "/v1/catalogo"
+            for regra in app.url_map.iter_rules()
+        )
+    }), 404
 
 
 @app.errorhandler(ValidationError)
