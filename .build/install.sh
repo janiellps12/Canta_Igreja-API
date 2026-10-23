@@ -37,12 +37,12 @@ python3 -m pip install -r requirements.txt
 python3 build_api.py
 echo "✅ [install.sh] build_api.py finalizado."
 
-if [ -n "${DEPLOY_LANDING_PAGE_URL}" ]; then
+if [ -n "${DEPLOY_LANDING_PAGE_URL:-}" ]; then
   echo "📬 [install.sh] Requisitando um novo deploy do portal de produção"
   curl -X POST $DEPLOY_LANDING_PAGE_URL
 fi
 
-if [ -n "${DEPLOY_LANDING_PAGE_URL_PREVIEW}" ]; then
+if [ -n "${DEPLOY_LANDING_PAGE_URL_PREVIEW:-}" ]; then
   echo "📬 [install.sh] Requisitando um novo deploy do portal de preview"
   curl -X POST $DEPLOY_LANDING_PAGE_URL_PREVIEW
 fi
