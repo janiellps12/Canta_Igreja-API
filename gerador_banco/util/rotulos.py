@@ -128,7 +128,7 @@ class Rotulos:
 
     outros_ritos_e_momentos = {
         'Acendimento da Vela de Coroa do Advento',
-        'Adoração ao Santíssimo Sacramento',
+        'Adoração',
         'Adoração da Santa Cruz',
         'Apresentação da Santa Cruz',
         'Imposição das Cinzas',
@@ -222,7 +222,7 @@ class Rotulos:
 
         # Momentos extra-litúrgicos / temáticos
         'Via-Sacra':                                70,
-        'Adoração ao Santíssimo Sacramento':        71,
+        'Adoração':                                 71,
     }
 
     # Valor padrão para momentos não mapeados explicitamente
