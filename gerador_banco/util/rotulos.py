@@ -26,7 +26,7 @@ class Rotulos:
         'Refrão Meditativo',
         'Entrada',
         'Saudação a Trindade',
-        'Ato Penintencial',
+        'Ato Penitencial',
         'Aspersão',
         'Glória',
         'Salmo Responsorial',
@@ -120,6 +120,8 @@ class Rotulos:
     }
 
     outros = {
+        'Bíblia',
+        'Padroeiros',
         'Campanha da Fraternidade',
         'Dízimo',
         'Mariano',
@@ -128,7 +130,7 @@ class Rotulos:
 
     outros_ritos_e_momentos = {
         'Acendimento da Vela de Coroa do Advento',
-        'Adoração',
+        'Adoração Eucarística',
         'Adoração da Santa Cruz',
         'Apresentação da Santa Cruz',
         'Imposição das Cinzas',
@@ -184,7 +186,7 @@ class Rotulos:
         # Ritos Iniciais
         'Entrada':                                  10,
         'Saudação a Trindade':                      11,
-        'Ato Penintencial':                         12,
+        'Ato Penitencial':                         12,
         'Aspersão':                                 12,
         'Não é ato penintencial':                   13,
         'Glória':                                   14,
@@ -222,7 +224,7 @@ class Rotulos:
 
         # Momentos extra-litúrgicos / temáticos
         'Via-Sacra':                                70,
-        'Adoração':                                 71,
+        'Adoração Eucarística':                     71,
     }
 
     # Valor padrão para momentos não mapeados explicitamente
