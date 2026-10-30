@@ -9,8 +9,7 @@ Partitura:
 CifraClub: 
 Tonalidade: 
 
-**Hosana,
-hosana,
+**Hosana, hosana,
 hosana ao nosso Rei** (2x)
 
 1. Glorificarei teu nome ó Deus,
