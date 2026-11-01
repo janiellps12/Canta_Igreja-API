@@ -11,5 +11,6 @@ Tonalidade: D
 
 **Aleluia!** (11x)
 
- - Vinde a mim, todos vós que estais cansados e penais a carregar pesado fardo,
+ - Vinde a mim, todos vós que estais cansados
+   e penais a carregar pesado fardo,
    e descanso eu vos darei, diz o Senhor.
