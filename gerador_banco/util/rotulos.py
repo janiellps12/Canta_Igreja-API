@@ -129,6 +129,7 @@ class Rotulos:
     }
 
     outros_ritos_e_momentos = {
+        'Exéquias',
         'Acendimento da Vela de Coroa do Advento',
         'Adoração Eucarística',
         'Adoração da Santa Cruz',
