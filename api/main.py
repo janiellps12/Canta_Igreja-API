@@ -11,6 +11,7 @@ from pydantic import ValidationError
 from sentry_sdk.integrations.flask import FlaskIntegration
 from werkzeug.exceptions import HTTPException
 
+from api.catalog_dates import ADDED_AT
 from api.configuration import Configuration
 from api.v1.index import init
 
@@ -51,6 +52,7 @@ def carregar_catalogo():
         letra_leitura = re.sub(r"\*\*(.*?)\*\*", lambda m: "\n\n[Refrão]\n" + m.group(1) + "\n\n", letra.strip(), flags=re.S)
         musicas.append({
             "id": arquivo.stem,
+            "added_at": ADDED_AT.get(arquivo.stem),
             "title": titulo,
             "lyrics": letra_leitura,
             "lyrics_original": letra.strip(),
