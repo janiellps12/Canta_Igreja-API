@@ -37,6 +37,7 @@ class Rotulos:
         'Santo',
         'Louvação',
         'Paz',
+        'Doxologia',
         'Cordeiro de Deus',
         'Comunhão',
         'Pós Comunhão',
@@ -215,6 +216,7 @@ class Rotulos:
 
         # Rito da Comunhão
         'Paz':                                      50,
+        'Doxologia':                                50,
         'Cordeiro de Deus':                         51,
         'Comunhão':                                 52,
         'Pós Comunhão':                             53,
@@ -252,3 +254,4 @@ class Rotulos:
 
         for regra in regras:
             regra.validate(rotulos)
+
