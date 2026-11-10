@@ -9,8 +9,7 @@ Partitura:
 CifraClub: 
 Tonalidade: 
 
-**Santo,
-santo,
+**Santo, santo,
 santo é o Senhor
 Deus do universo** (2x)
 
