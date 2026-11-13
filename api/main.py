@@ -12,6 +12,7 @@ from sentry_sdk.integrations.flask import FlaskIntegration
 from werkzeug.exceptions import HTTPException
 
 from api.catalog_dates import ADDED_AT
+from api.devotions_content import DEVOTIONS
 from api.configuration import Configuration
 from api.v1.index import init
 
@@ -89,6 +90,15 @@ def obter_catalogo():
         "per_page": tamanho,
         "next_page": pagina + 1 if inicio + tamanho < len(musicas) else None,
     })
+
+
+@app.route("/v1/devocoes", methods=["GET"])
+@app.route("/devocoes.json", methods=["GET"])
+@cross_origin(origins="*")
+def obter_devocoes():
+    response = jsonify(DEVOTIONS)
+    response.headers["Cache-Control"] = "public, max-age=0, s-maxage=60"
+    return response
 
 
 @app.errorhandler(404)
