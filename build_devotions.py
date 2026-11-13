@@ -1,0 +1,41 @@
+"""Build the public devotional catalogue from editable UTF-8 TXT files.
+
+First line: title. Remaining text: body, optionally [b], [i], [rubrica].
+Folders become groups; informacoes.json optionally defines title/sort/order.
+"""
+from pathlib import Path
+import json,re,hashlib,unicodedata
+
+def alphabet(value):
+ return unicodedata.normalize('NFKD',value).encode('ascii','ignore').decode().casefold()
+
+def read_group(folder,identifier):
+ metadata=folder/'informacoes.json'
+ info=json.loads(metadata.read_text(encoding='utf-8-sig')) if metadata.exists() else {}
+ children=[]
+ for child in sorted(folder.iterdir()):
+  if child.is_dir():children.append(read_group(child,identifier+'/'+child.name))
+  elif child.suffix.lower()=='.txt':
+   title,sep,body=child.read_text(encoding='utf-8-sig').replace('\r\n','\n').partition('\n')
+   if not title.strip() or not sep or not body.strip():raise ValueError('Oração inválida: '+str(child))
+   children.append({'id':identifier+'/'+child.stem,'title':title.strip(),'text':body.strip()})
+ order=info.get('order',[])
+ def key(item):
+  name=item['id'].split('/')[-1]
+  if name in order:return (0,order.index(name),'')
+  number=re.search(r'-(\d+)$',name)
+  return (1,int(number.group(1)) if info.get('sort')=='number' and number else 0,alphabet(item['title']))
+ children.sort(key=key)
+ return {'id':identifier,'title':info.get('title',folder.name.replace('-',' ').capitalize()),'children':children}
+
+def catalogue(base):
+ sections=[read_group(base/path,identifier) for path,identifier in [('oracoes-eucaristicas','eucharistic'),('tercos','rosaries'),('oracoes','prayers')]]
+ digest=hashlib.sha256(json.dumps(sections,ensure_ascii=False,sort_keys=True).encode()).hexdigest()[:20]
+ return {'format':1,'version':digest,'sections':sections}
+
+if __name__=='__main__':
+ root=Path(__file__).resolve().parent
+ output=root/'api/public/devocoes.json'
+ output.parent.mkdir(parents=True,exist_ok=True)
+ output.write_text(json.dumps(catalogue(root/'dados'),ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+ print('Catálogo de devoções gerado: '+str(output))

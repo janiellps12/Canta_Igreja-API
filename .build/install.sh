@@ -35,6 +35,7 @@ echo "🗂️  [install.sh] Criadas pastas públicas (api/public/...)"
 echo "⚙️  [install.sh] Criando arquivos .json a serem disponibilizados pela API"
 python3 -m pip install -r requirements.txt
 python3 build_api.py
+python3 build_devotions.py
 mkdir -p public
 cp -R api/public/. public/
 echo "✅ [install.sh] build_api.py finalizado."

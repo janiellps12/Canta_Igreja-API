@@ -9,6 +9,10 @@
   },
   "rewrites": [
     {
+      "source": "/v1/devocoes",
+      "destination": "/devocoes.json"
+    },
+    {
       "source": "/v1/musicas/:id(\\d+)",
       "destination": "musicas/:id.json"
     },
@@ -40,6 +44,20 @@
       "source": "/v1/biblioteca/repertorios/:slug_referencia(\\w+)/:slug(\\w+)",
       "destination": "biblioteca/repertorios/:slug_referencia/:slug.json"
     }
+  ],
+  "headers": [
+    {
+      "source": "/v1/devocoes",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=60, stale-while-revalidate=300"
+        }
+      ]
+    }
   ]
 }
-
