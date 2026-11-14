@@ -33,7 +33,7 @@ class Rotulos:
         'Entronização da Palavra',
         'Aclamação ao Evangelho',
         'Oferendas',
-        'Partilha',
+        'Coleta Fraterna',
         'Santo',
         'Louvação',
         'Paz',
@@ -210,7 +210,7 @@ class Rotulos:
 
         # Liturgia Eucarística
         'Oferendas':                                40,
-        'Partilha':                                 41,
+        'Coleta Fraterna':                                 41,
         'Santo':                                    42,
         'Louvação':                                 43,
 
