@@ -130,6 +130,7 @@ class Rotulos:
     }
 
     outros_ritos_e_momentos = {
+        'Ladainhas',
         'Exéquias',
         'Acendimento da Vela de Coroa do Advento',
         'Adoração Eucarística',
