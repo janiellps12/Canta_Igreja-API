@@ -2,7 +2,7 @@
   "format": 1,
   "suggestions": [
     {
-      "name": "32º Domingo do Tempo Comum - Ano A",
+      "name": "32º Domingo do Tempo Comum",
       "date": "2026-11-08",
       "year": "A",
       "season": "Tempo Comum",
@@ -36,9 +36,9 @@
         }
       ],
       "id": "aca2db96-5869-4d5e-b581-7c0a92510a3c",
-      "revision": "53e5bfb4-bf74-4008-97f3-928429b85f65",
+      "revision": "b9b77dd0-a34f-4ec8-815c-00029501a692",
       "createdAt": "2026-11-16T12:17:04.225Z",
-      "updatedAt": "2026-11-16T12:17:04.225Z",
+      "updatedAt": "2026-11-16T12:17:29.142Z",
       "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
     }
   ]
