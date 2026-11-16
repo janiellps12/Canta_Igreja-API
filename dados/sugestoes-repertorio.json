@@ -180,10 +180,14 @@
           "tone": "C"
         }
       ],
+      "sources": [
+        "Igreja em Oração, Edições CNBB",
+        "O Domingo, Paulus"
+      ],
       "id": "f8ebc0ac-1eb6-4168-aa70-fb4cbbde1ef0",
-      "revision": "a18f9eaa-1cf4-44c6-9632-656f86c92f6e",
+      "revision": "9727bec7-5c9d-410e-a8e9-a3e81226b468",
       "createdAt": "2026-11-16T15:01:59.219Z",
-      "updatedAt": "2026-11-16T15:01:59.219Z",
+      "updatedAt": "2026-11-16T18:34:55.029Z",
       "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
     }
   ]
