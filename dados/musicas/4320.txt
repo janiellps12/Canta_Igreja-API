@@ -9,7 +9,8 @@ Partitura:
 CifraClub: 
 Tonalidade: 
 
-**"Ave Maria, cheia de graça", diz Gabriel. " Não tenhas medo, pois encontraste graça no céu!"
+**"Ave Maria, cheia de graça", diz Gabriel.
+" Não tenhas medo, pois encontraste graça no céu!"
 Conceberás e darás a luz o Filho de Deus.
 "O Deus que salva" será seu nome: Emanuel.**
 
