@@ -9,10 +9,12 @@ Partitura:
 CifraClub: 
 Tonalidade: Gm
 
-(Convém haver revezamento entre solista e assembléia)
+**Solo: Aleluia, aleluia!
+Todos: Aleluia, aleluia!**
 
-|:**Aleluia, aleluia!**:|
-
-|:Eis a serva do Senhor!:|
-|:Que em mim venha cumprir-se:|
-|:tudo quanto me disseste!:|
+S: Eis a serva do Senhor!
+**T: Eis a serva do Senhor!**
+S: Que em mim venha cumprir-se!
+**T: Que em mim venha cumprir-se!**
+S: Tudo quanto me disseste!
+**T: Tudo quanto me disseste!**

@@ -9,24 +9,12 @@ Partitura:
 CifraClub: 
 Tonalidade: Gm
 
-**|:Aleluia, aleluia!:|**
+**Solo: Aleluia, aleluia!
+Todos: Aleluia, aleluia!**
 
-- **1° Domingo:**
-  |:Vem mostrar-nos, ó Senhor:|
-  |:tua grande compaixão.:|
-  |:Dá-nos tua salvação!:|
-
-- **2° Domingo:**
-  |:Voz que clama no deserto::|
-  |:"Preparai-lhe um caminho,:|
-  |:uma estrada ao Senhor!":|
-
-- **3° Domingo:**
-  |:O Espírito consagrou-me:|
-  |:e mandou-me anunciar:|
-  |:boa nova para os pobres!:|
-
-**- 4° Domingo:**
-  |:Uma virgem conceberá.:|
-  |:e um Filho nos dará.:|
-  |:Deus conosco, Emanuel!:|
+S: Vem mostrar-nos, ó Senhor!
+**T: Vem mostrar-nos, ó Senhor!**
+S: Tua grande salvação!
+**T: Tua grande salvação!**
+S: Dá-nos tua salvação!
+**T: Dá-nos, tua salvação!**
