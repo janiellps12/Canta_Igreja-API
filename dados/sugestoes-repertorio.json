@@ -2,46 +2,6 @@
   "format": 1,
   "suggestions": [
     {
-      "name": "32º Domingo do Tempo Comum",
-      "date": "2026-11-08",
-      "year": "A",
-      "season": "Tempo Comum",
-      "liturgicalColor": "green",
-      "status": "draft",
-      "items": [
-        {
-          "songId": "3012",
-          "moment": "Entrada",
-          "tone": "Em"
-        },
-        {
-          "songId": "3903",
-          "moment": "Salmo Responsorial",
-          "tone": "G"
-        },
-        {
-          "songId": "3037",
-          "moment": "Aclamação ao Evangelho",
-          "tone": "G"
-        },
-        {
-          "songId": "3060",
-          "moment": "Oferendas",
-          "tone": "E"
-        },
-        {
-          "songId": "4291",
-          "moment": "Comunhão",
-          "tone": ""
-        }
-      ],
-      "id": "aca2db96-5869-4d5e-b581-7c0a92510a3c",
-      "revision": "b9b77dd0-a34f-4ec8-815c-00029501a692",
-      "createdAt": "2026-11-16T12:17:04.225Z",
-      "updatedAt": "2026-11-16T12:17:29.142Z",
-      "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
-    },
-    {
       "name": "1º Domingo do Advento",
       "date": "2026-11-29",
       "year": "B",
@@ -196,6 +156,50 @@
       "revision": "95db810d-e829-42ce-ba1c-e929119ddb7f",
       "createdAt": "2026-11-16T15:00:57.802Z",
       "updatedAt": "2026-11-16T18:36:07.932Z",
+      "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
+    },
+    {
+      "name": "32º Domingo do Tempo Comum",
+      "date": "2026-11-08",
+      "year": "A",
+      "season": "Tempo Comum",
+      "liturgicalColor": "green",
+      "status": "draft",
+      "items": [
+        {
+          "songId": "3012",
+          "moment": "Entrada",
+          "tone": "Em"
+        },
+        {
+          "songId": "3903",
+          "moment": "Salmo Responsorial",
+          "tone": "G"
+        },
+        {
+          "songId": "3037",
+          "moment": "Aclamação ao Evangelho",
+          "tone": "G"
+        },
+        {
+          "songId": "3060",
+          "moment": "Oferendas",
+          "tone": "E"
+        },
+        {
+          "songId": "4291",
+          "moment": "Comunhão",
+          "tone": ""
+        }
+      ],
+      "sources": [
+        "Igreja em Oração, Edições CNBB",
+        "O Domingo, Paulus"
+      ],
+      "id": "aca2db96-5869-4d5e-b581-7c0a92510a3c",
+      "revision": "bff44b0d-5504-45b9-b4c8-101e5f6a48ae",
+      "createdAt": "2026-11-16T12:17:04.225Z",
+      "updatedAt": "2026-11-17T03:11:18.886Z",
       "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
     }
   ]
