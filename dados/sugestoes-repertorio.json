@@ -427,7 +427,7 @@
     {
       "name": "4º Domingo do Advento",
       "date": "2026-12-20",
-      "year": "A",
+      "year": "B",
       "season": "Advento",
       "liturgicalColor": "purple",
       "status": "published",
@@ -483,9 +483,9 @@
         "O Domingo, Paulus"
       ],
       "id": "fc7dda5e-2125-40f3-b562-c61a0c31a04a",
-      "revision": "a2da2a02-9a60-4242-abcc-6406275b5188",
+      "revision": "6b4e8fc9-637e-4f51-9bbf-8e3d096e4f70",
       "createdAt": "2026-11-18T22:27:47.805Z",
-      "updatedAt": "2026-11-18T22:27:47.805Z",
+      "updatedAt": "2026-11-18T22:28:06.690Z",
       "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
     }
   ]
