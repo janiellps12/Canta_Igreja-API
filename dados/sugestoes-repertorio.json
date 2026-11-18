@@ -487,6 +487,95 @@
       "createdAt": "2026-11-18T22:27:47.805Z",
       "updatedAt": "2026-11-18T22:28:06.690Z",
       "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
+    },
+    {
+      "name": "Natal de Nosso Jesus Cristo (noite)",
+      "date": "2026-12-24",
+      "year": "B",
+      "season": "Tempo do Natal",
+      "liturgicalColor": "white",
+      "status": "published",
+      "items": [
+        {
+          "songId": "2912",
+          "moment": "Entrada",
+          "tone": "D"
+        },
+        {
+          "songId": "2204",
+          "moment": "Entrada",
+          "tone": "A"
+        },
+        {
+          "songId": "4327",
+          "moment": "Entrada",
+          "tone": ""
+        },
+        {
+          "songId": "4340",
+          "moment": "Ato Penitencial",
+          "tone": ""
+        },
+        {
+          "songId": "183",
+          "moment": "Salmo Responsorial",
+          "tone": ""
+        },
+        {
+          "songId": "2915",
+          "moment": "Aclamação ao Evangelho",
+          "tone": "C"
+        },
+        {
+          "songId": "3746",
+          "moment": "Oferendas",
+          "tone": ""
+        },
+        {
+          "songId": "717",
+          "moment": "Oferendas",
+          "tone": ""
+        },
+        {
+          "songId": "4333",
+          "moment": "Oferendas",
+          "tone": ""
+        },
+        {
+          "songId": "2920",
+          "moment": "Comunhão",
+          "tone": "C"
+        },
+        {
+          "songId": "706",
+          "moment": "Comunhão",
+          "tone": "Em"
+        },
+        {
+          "songId": "2923",
+          "moment": "Final",
+          "tone": "C"
+        },
+        {
+          "songId": "396",
+          "moment": "Final",
+          "tone": "C"
+        },
+        {
+          "songId": "549",
+          "moment": "Final",
+          "tone": ""
+        }
+      ],
+      "sources": [
+        "Igreja em Oração, Edições CNBB",
+        "O Domingo, Paulus"
+      ],
+      "id": "5c68602b-df0d-4ab3-929a-958ad25e459f",
+      "revision": "66f56752-d9a3-489c-92db-5e81ae0fefba",
+      "createdAt": "2026-11-18T22:28:59.582Z",
+      "updatedAt": "2026-11-18T22:28:59.582Z",
+      "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
     }
   ]
 }
