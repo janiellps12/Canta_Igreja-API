@@ -719,6 +719,94 @@
       "createdAt": "2026-11-18T22:32:04.983Z",
       "updatedAt": "2026-11-18T22:32:04.983Z",
       "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
+    },
+    {
+      "name": "Missa de Exéquias",
+      "date": "",
+      "year": "",
+      "season": "",
+      "liturgicalColor": "",
+      "status": "published",
+      "items": [
+        {
+          "songId": "72",
+          "moment": "Entrada",
+          "tone": "E"
+        },
+        {
+          "songId": "4132",
+          "moment": "Entrada",
+          "tone": ""
+        },
+        {
+          "songId": "4133",
+          "moment": "Entrada",
+          "tone": ""
+        },
+        {
+          "songId": "1290",
+          "moment": "Ato Penitencial",
+          "tone": "C"
+        },
+        {
+          "songId": "4029",
+          "moment": "Ato Penitencial",
+          "tone": ""
+        },
+        {
+          "songId": "4059",
+          "moment": "Oferendas",
+          "tone": "E"
+        },
+        {
+          "songId": "4277",
+          "moment": "Santo",
+          "tone": "Dm"
+        },
+        {
+          "songId": "643",
+          "moment": "Santo",
+          "tone": ""
+        },
+        {
+          "songId": "4081",
+          "moment": "Comunhão",
+          "tone": "C"
+        },
+        {
+          "songId": "4134",
+          "moment": "Comunhão",
+          "tone": ""
+        },
+        {
+          "songId": "4137",
+          "moment": "Pós Comunhão",
+          "tone": "D"
+        },
+        {
+          "songId": "4136",
+          "moment": "Pós Comunhão",
+          "tone": ""
+        },
+        {
+          "songId": "215",
+          "moment": "Final",
+          "tone": "D"
+        },
+        {
+          "songId": "831",
+          "moment": "Final",
+          "tone": "F"
+        }
+      ],
+      "sources": [
+        "Cantos das Comunidades"
+      ],
+      "id": "3c4ebb70-ab25-4267-8a10-5317c40ffeee",
+      "revision": "3c2b0a30-0746-4dd4-92e8-78d7201a2ecb",
+      "createdAt": "2026-11-18T22:45:38.812Z",
+      "updatedAt": "2026-11-18T22:45:38.812Z",
+      "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
     }
   ]
 }
