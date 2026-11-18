@@ -576,6 +576,80 @@
       "createdAt": "2026-11-18T22:28:59.582Z",
       "updatedAt": "2026-11-18T22:28:59.582Z",
       "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
+    },
+    {
+      "name": "Natal de Nosso Senhor Jesus Cristo (dia)",
+      "date": "2026-12-25",
+      "year": "B",
+      "season": "Tempo do Natal",
+      "liturgicalColor": "white",
+      "status": "published",
+      "items": [
+        {
+          "songId": "2018",
+          "moment": "Entrada",
+          "tone": "Bm"
+        },
+        {
+          "songId": "718",
+          "moment": "Entrada",
+          "tone": ""
+        },
+        {
+          "songId": "4336",
+          "moment": "Salmo Responsorial",
+          "tone": ""
+        },
+        {
+          "songId": "2915",
+          "moment": "Aclamação ao Evangelho",
+          "tone": "C"
+        },
+        {
+          "songId": "714",
+          "moment": "Oferendas",
+          "tone": "F"
+        },
+        {
+          "songId": "4333",
+          "moment": "Oferendas",
+          "tone": ""
+        },
+        {
+          "songId": "2919",
+          "moment": "Comunhão",
+          "tone": "Em"
+        },
+        {
+          "songId": "2910",
+          "moment": "Comunhão",
+          "tone": "A"
+        },
+        {
+          "songId": "3487",
+          "moment": "Comunhão",
+          "tone": ""
+        },
+        {
+          "songId": "2922",
+          "moment": "Final",
+          "tone": "C"
+        },
+        {
+          "songId": "4229",
+          "moment": "Final",
+          "tone": ""
+        }
+      ],
+      "sources": [
+        "Igreja em Oração, Edições CNBB",
+        "O Domingo, Paulus"
+      ],
+      "id": "c9c17880-9a9d-4996-8ec5-80c28fc38018",
+      "revision": "2b452437-7533-478d-b13d-266247f90288",
+      "createdAt": "2026-11-18T22:29:26.157Z",
+      "updatedAt": "2026-11-18T22:29:26.157Z",
+      "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
     }
   ]
 }
