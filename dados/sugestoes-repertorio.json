@@ -285,6 +285,80 @@
       "createdAt": "2026-11-18T22:23:15.308Z",
       "updatedAt": "2026-11-18T22:23:15.308Z",
       "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
+    },
+    {
+      "name": "Solenidade da Imaculada Conceição da Bem-aventurada Virgem Maria",
+      "date": "2026-12-08",
+      "year": "B",
+      "season": "",
+      "liturgicalColor": "white",
+      "status": "published",
+      "items": [
+        {
+          "songId": "3177",
+          "moment": "Entrada",
+          "tone": "G"
+        },
+        {
+          "songId": "2178",
+          "moment": "Entrada",
+          "tone": "A"
+        },
+        {
+          "songId": "4334",
+          "moment": "Salmo Responsorial",
+          "tone": ""
+        },
+        {
+          "songId": "3178",
+          "moment": "Aclamação ao Evangelho",
+          "tone": "A"
+        },
+        {
+          "songId": "3180",
+          "moment": "Oferendas",
+          "tone": "C"
+        },
+        {
+          "songId": "3181",
+          "moment": "Oferendas",
+          "tone": "Am"
+        },
+        {
+          "songId": "3205",
+          "moment": "Oferendas",
+          "tone": "Dm"
+        },
+        {
+          "songId": "3182",
+          "moment": "Comunhão",
+          "tone": "C"
+        },
+        {
+          "songId": "3999",
+          "moment": "Comunhão",
+          "tone": "C"
+        },
+        {
+          "songId": "3183",
+          "moment": "Comunhão",
+          "tone": "Cm"
+        },
+        {
+          "songId": "3184",
+          "moment": "Final",
+          "tone": "G"
+        }
+      ],
+      "sources": [
+        "Igreja em Oração, Edições CNBB",
+        "O Domingo, Paulus"
+      ],
+      "id": "bc97e10e-3677-4f3a-ac03-8d9ac5589e58",
+      "revision": "745921bf-979b-41e7-b46c-6dc5670773d2",
+      "createdAt": "2026-11-18T22:24:17.097Z",
+      "updatedAt": "2026-11-18T22:24:17.097Z",
+      "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
     }
   ]
 }
