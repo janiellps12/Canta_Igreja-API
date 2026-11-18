@@ -650,6 +650,75 @@
       "createdAt": "2026-11-18T22:29:26.157Z",
       "updatedAt": "2026-11-18T22:29:26.157Z",
       "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
+    },
+    {
+      "name": "Festa da Sagrada Família",
+      "date": "2026-12-27",
+      "year": "B",
+      "season": "Tempo do Natal",
+      "liturgicalColor": "white",
+      "status": "published",
+      "items": [
+        {
+          "songId": "2018",
+          "moment": "Entrada",
+          "tone": "Bm"
+        },
+        {
+          "songId": "3747",
+          "moment": "Entrada",
+          "tone": "Bb"
+        },
+        {
+          "songId": "3344",
+          "moment": "Ato Penitencial",
+          "tone": "D"
+        },
+        {
+          "songId": "3906",
+          "moment": "Salmo Responsorial",
+          "tone": ""
+        },
+        {
+          "songId": "4332",
+          "moment": "Aclamação ao Evangelho",
+          "tone": ""
+        },
+        {
+          "songId": "2916",
+          "moment": "Oferendas",
+          "tone": "E"
+        },
+        {
+          "songId": "4333",
+          "moment": "Oferendas",
+          "tone": ""
+        },
+        {
+          "songId": "3117",
+          "moment": "Comunhão",
+          "tone": "A"
+        },
+        {
+          "songId": "2920",
+          "moment": "Comunhão",
+          "tone": "C"
+        },
+        {
+          "songId": "2924",
+          "moment": "Final",
+          "tone": "C"
+        }
+      ],
+      "sources": [
+        "Igreja em Oração, Edições CNBB",
+        "O Domingo, Paulus"
+      ],
+      "id": "8a36fe3b-e035-4976-b4ac-8acd2a3c04b2",
+      "revision": "d580680e-b4f4-4f9d-9981-4c54045ebe11",
+      "createdAt": "2026-11-18T22:32:04.983Z",
+      "updatedAt": "2026-11-18T22:32:04.983Z",
+      "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
     }
   ]
 }
