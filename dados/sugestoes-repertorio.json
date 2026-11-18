@@ -71,60 +71,6 @@
       "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
     },
     {
-      "name": "Jesus Cristo, Rei do Universo",
-      "date": "2026-11-22",
-      "year": "A",
-      "season": "Tempo Comum",
-      "liturgicalColor": "white",
-      "status": "draft",
-      "items": [
-        {
-          "songId": "2",
-          "moment": "Entrada",
-          "tone": "F"
-        },
-        {
-          "songId": "4311",
-          "moment": "Entrada",
-          "tone": ""
-        },
-        {
-          "songId": "4313",
-          "moment": "Salmo Responsorial",
-          "tone": ""
-        },
-        {
-          "songId": "3174",
-          "moment": "Aclamação ao Evangelho",
-          "tone": "Am"
-        },
-        {
-          "songId": "2979",
-          "moment": "Oferendas",
-          "tone": "Fm-F"
-        },
-        {
-          "songId": "3175",
-          "moment": "Comunhão",
-          "tone": "F"
-        },
-        {
-          "songId": "4312",
-          "moment": "Comunhão",
-          "tone": ""
-        }
-      ],
-      "sources": [
-        "Igreja em Oração, Edições CNBB",
-        "O Domingo, Paulus"
-      ],
-      "id": "2e7868f4-6e08-4d95-821c-80ab7c7c274e",
-      "revision": "95db810d-e829-42ce-ba1c-e929119ddb7f",
-      "createdAt": "2026-11-16T15:00:57.802Z",
-      "updatedAt": "2026-11-16T18:36:07.932Z",
-      "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
-    },
-    {
       "name": "32º Domingo do Tempo Comum",
       "date": "2026-11-08",
       "year": "A",
@@ -215,6 +161,60 @@
       "revision": "d40ed4e3-c38d-47c6-8652-13fa9dc464e5",
       "createdAt": "2026-11-16T12:40:43.035Z",
       "updatedAt": "2026-11-18T22:15:00.772Z",
+      "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
+    },
+    {
+      "name": "Jesus Cristo, Rei do Universo",
+      "date": "2026-11-22",
+      "year": "A",
+      "season": "Tempo Comum",
+      "liturgicalColor": "white",
+      "status": "published",
+      "items": [
+        {
+          "songId": "2",
+          "moment": "Entrada",
+          "tone": "F"
+        },
+        {
+          "songId": "4311",
+          "moment": "Entrada",
+          "tone": ""
+        },
+        {
+          "songId": "4313",
+          "moment": "Salmo Responsorial",
+          "tone": ""
+        },
+        {
+          "songId": "3174",
+          "moment": "Aclamação ao Evangelho",
+          "tone": "Am"
+        },
+        {
+          "songId": "2979",
+          "moment": "Oferendas",
+          "tone": "Fm-F"
+        },
+        {
+          "songId": "3175",
+          "moment": "Comunhão",
+          "tone": "F"
+        },
+        {
+          "songId": "4312",
+          "moment": "Comunhão",
+          "tone": ""
+        }
+      ],
+      "sources": [
+        "Igreja em Oração, Edições CNBB",
+        "O Domingo, Paulus"
+      ],
+      "id": "2e7868f4-6e08-4d95-821c-80ab7c7c274e",
+      "revision": "4e81d15f-d7db-47fe-9fe6-b46bb1fa9a21",
+      "createdAt": "2026-11-16T15:00:57.802Z",
+      "updatedAt": "2026-11-18T22:16:18.076Z",
       "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
     }
   ]
