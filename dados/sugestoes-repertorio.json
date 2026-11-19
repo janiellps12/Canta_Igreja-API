@@ -765,7 +765,7 @@
       "year": "A",
       "season": "Tempo Comum",
       "liturgicalColor": "green",
-      "status": "draft",
+      "status": "published",
       "items": [
         {
           "songId": "3364",
@@ -803,9 +803,9 @@
         "O Domingo, Paulus"
       ],
       "id": "ff9cb7c1-d70d-4f79-9a19-10ae4dfbd723",
-      "revision": "dd0bc85c-988c-4c38-8dc2-f59936d9305c",
+      "revision": "c63c5981-17e0-440d-9e42-401c5c74d1bd",
       "createdAt": "2026-11-16T12:40:43.035Z",
-      "updatedAt": "2026-11-18T23:43:36.672Z",
+      "updatedAt": "2026-11-19T00:56:31.123Z",
       "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
     }
   ]
