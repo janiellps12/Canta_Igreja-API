@@ -612,134 +612,6 @@
       "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
     },
     {
-      "name": "4º Domingo do Advento",
-      "date": "2026-12-20",
-      "year": "B",
-      "season": "Advento",
-      "liturgicalColor": "purple",
-      "status": "published",
-      "items": [
-        {
-          "songId": "709",
-          "moment": "Entrada",
-          "tone": "Em"
-        },
-        {
-          "songId": "2898",
-          "moment": "Entrada",
-          "tone": "Cm"
-        },
-        {
-          "songId": "4324",
-          "moment": "Entrada",
-          "tone": ""
-        },
-        {
-          "songId": "4339",
-          "moment": "Ato Penitencial",
-          "tone": ""
-        },
-        {
-          "songId": "3924",
-          "moment": "Salmo Responsorial",
-          "tone": ""
-        },
-        {
-          "songId": "2905",
-          "moment": "Aclamação ao Evangelho",
-          "tone": "Gm"
-        },
-        {
-          "songId": "2906",
-          "moment": "Oferendas",
-          "tone": "F#"
-        },
-        {
-          "songId": "3190",
-          "moment": "Comunhão",
-          "tone": "Bm"
-        },
-        {
-          "songId": "4222",
-          "moment": "Final",
-          "tone": ""
-        }
-      ],
-      "sources": [
-        "Igreja em Oração, Edições CNBB",
-        "O Domingo, Paulus"
-      ],
-      "id": "fc7dda5e-2125-40f3-b562-c61a0c31a04a",
-      "revision": "f230e837-ab02-477c-bfd5-38bcfb0d9384",
-      "createdAt": "2026-11-18T22:27:47.805Z",
-      "updatedAt": "2026-11-19T11:29:58.293Z",
-      "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd",
-      "pendingDraft": {
-        "name": "4º Domingo do Advento",
-        "date": "2026-12-20",
-        "year": "B",
-        "season": "Advento",
-        "liturgicalColor": "purple",
-        "status": "draft",
-        "items": [
-          {
-            "songId": "709",
-            "moment": "Entrada",
-            "tone": "Em"
-          },
-          {
-            "songId": "2898",
-            "moment": "Entrada",
-            "tone": "Cm"
-          },
-          {
-            "songId": "4324",
-            "moment": "Entrada",
-            "tone": ""
-          },
-          {
-            "songId": "4315",
-            "moment": "Acender vela do advento",
-            "tone": ""
-          },
-          {
-            "songId": "4339",
-            "moment": "Ato Penitencial",
-            "tone": ""
-          },
-          {
-            "songId": "3924",
-            "moment": "Salmo Responsorial",
-            "tone": ""
-          },
-          {
-            "songId": "2905",
-            "moment": "Aclamação ao Evangelho",
-            "tone": "Gm"
-          },
-          {
-            "songId": "2906",
-            "moment": "Oferendas",
-            "tone": "F#"
-          },
-          {
-            "songId": "3190",
-            "moment": "Comunhão",
-            "tone": "Bm"
-          },
-          {
-            "songId": "4222",
-            "moment": "Final",
-            "tone": ""
-          }
-        ],
-        "sources": [
-          "Igreja em Oração, Edições CNBB",
-          "O Domingo, Paulus"
-        ]
-      }
-    },
-    {
       "name": "2º Domingo do Advento",
       "date": "2026-12-06",
       "year": "B",
@@ -880,6 +752,75 @@
       "revision": "fecb0c9d-aa4f-495f-8771-674b288033ca",
       "createdAt": "2026-11-18T22:26:29.897Z",
       "updatedAt": "2026-11-19T11:35:41.834Z",
+      "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
+    },
+    {
+      "name": "4º Domingo do Advento",
+      "date": "2026-12-20",
+      "year": "B",
+      "season": "Advento",
+      "liturgicalColor": "purple",
+      "status": "published",
+      "items": [
+        {
+          "songId": "709",
+          "moment": "Entrada",
+          "tone": "Em"
+        },
+        {
+          "songId": "2898",
+          "moment": "Entrada",
+          "tone": "Cm"
+        },
+        {
+          "songId": "4324",
+          "moment": "Entrada",
+          "tone": ""
+        },
+        {
+          "songId": "4315",
+          "moment": "Acender vela do advento",
+          "tone": ""
+        },
+        {
+          "songId": "4339",
+          "moment": "Ato Penitencial",
+          "tone": ""
+        },
+        {
+          "songId": "3924",
+          "moment": "Salmo Responsorial",
+          "tone": ""
+        },
+        {
+          "songId": "2905",
+          "moment": "Aclamação ao Evangelho",
+          "tone": "Gm"
+        },
+        {
+          "songId": "2906",
+          "moment": "Oferendas",
+          "tone": "F#"
+        },
+        {
+          "songId": "3190",
+          "moment": "Comunhão",
+          "tone": "Bm"
+        },
+        {
+          "songId": "4222",
+          "moment": "Final",
+          "tone": ""
+        }
+      ],
+      "sources": [
+        "Igreja em Oração, Edições CNBB",
+        "O Domingo, Paulus"
+      ],
+      "id": "fc7dda5e-2125-40f3-b562-c61a0c31a04a",
+      "revision": "772c1744-fac8-447c-89d9-c6330a9b7cd1",
+      "createdAt": "2026-11-18T22:27:47.805Z",
+      "updatedAt": "2026-11-19T11:35:49.070Z",
       "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
     }
   ]
