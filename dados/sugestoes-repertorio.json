@@ -740,134 +740,6 @@
       }
     },
     {
-      "name": "3º Domingo do Advento",
-      "date": "2026-12-13",
-      "year": "B",
-      "season": "Advento",
-      "liturgicalColor": "pink",
-      "status": "published",
-      "items": [
-        {
-          "songId": "2897",
-          "moment": "Entrada",
-          "tone": "D"
-        },
-        {
-          "songId": "4330",
-          "moment": "Entrada",
-          "tone": ""
-        },
-        {
-          "songId": "3914",
-          "moment": "Salmo Responsorial",
-          "tone": ""
-        },
-        {
-          "songId": "4331",
-          "moment": "Aclamação ao Evangelho",
-          "tone": ""
-        },
-        {
-          "songId": "2906",
-          "moment": "Oferendas",
-          "tone": "F#"
-        },
-        {
-          "songId": "4316",
-          "moment": "Comunhão",
-          "tone": ""
-        },
-        {
-          "songId": "3743",
-          "moment": "Comunhão",
-          "tone": ""
-        },
-        {
-          "songId": "4317",
-          "moment": "Comunhão",
-          "tone": ""
-        },
-        {
-          "songId": "3965",
-          "moment": "Final",
-          "tone": "C"
-        }
-      ],
-      "sources": [
-        "Igreja em Oração, Edições CNBB",
-        "O Domingo, Paulus"
-      ],
-      "id": "0f9fe0d5-1b44-4743-88b6-0ca965f63f15",
-      "revision": "490b3345-df92-4c15-a3d5-ed5844932621",
-      "createdAt": "2026-11-18T22:26:29.897Z",
-      "updatedAt": "2026-11-19T11:33:13.070Z",
-      "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd",
-      "pendingDraft": {
-        "name": "3º Domingo do Advento",
-        "date": "2026-12-13",
-        "year": "B",
-        "season": "Advento",
-        "liturgicalColor": "pink",
-        "status": "draft",
-        "items": [
-          {
-            "songId": "2897",
-            "moment": "Entrada",
-            "tone": "D"
-          },
-          {
-            "songId": "4330",
-            "moment": "Entrada",
-            "tone": ""
-          },
-          {
-            "songId": "4315",
-            "moment": "Acender vela do advento",
-            "tone": ""
-          },
-          {
-            "songId": "3914",
-            "moment": "Salmo Responsorial",
-            "tone": ""
-          },
-          {
-            "songId": "4331",
-            "moment": "Aclamação ao Evangelho",
-            "tone": ""
-          },
-          {
-            "songId": "2906",
-            "moment": "Oferendas",
-            "tone": "F#"
-          },
-          {
-            "songId": "4316",
-            "moment": "Comunhão",
-            "tone": ""
-          },
-          {
-            "songId": "3743",
-            "moment": "Comunhão",
-            "tone": ""
-          },
-          {
-            "songId": "4317",
-            "moment": "Comunhão",
-            "tone": ""
-          },
-          {
-            "songId": "3965",
-            "moment": "Final",
-            "tone": "C"
-          }
-        ],
-        "sources": [
-          "Igreja em Oração, Edições CNBB",
-          "O Domingo, Paulus"
-        ]
-      }
-    },
-    {
       "name": "2º Domingo do Advento",
       "date": "2026-12-06",
       "year": "B",
@@ -939,6 +811,75 @@
       "revision": "8fe7ce8e-4a21-43dd-9a9b-3fcc94ba1376",
       "createdAt": "2026-11-19T11:31:36.319Z",
       "updatedAt": "2026-11-19T11:34:00.894Z",
+      "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
+    },
+    {
+      "name": "3º Domingo do Advento",
+      "date": "2026-12-13",
+      "year": "B",
+      "season": "Advento",
+      "liturgicalColor": "pink",
+      "status": "published",
+      "items": [
+        {
+          "songId": "2897",
+          "moment": "Entrada",
+          "tone": "D"
+        },
+        {
+          "songId": "4330",
+          "moment": "Entrada",
+          "tone": ""
+        },
+        {
+          "songId": "4315",
+          "moment": "Acender vela do advento",
+          "tone": ""
+        },
+        {
+          "songId": "3914",
+          "moment": "Salmo Responsorial",
+          "tone": ""
+        },
+        {
+          "songId": "4331",
+          "moment": "Aclamação ao Evangelho",
+          "tone": ""
+        },
+        {
+          "songId": "2906",
+          "moment": "Oferendas",
+          "tone": "F#"
+        },
+        {
+          "songId": "4316",
+          "moment": "Comunhão",
+          "tone": ""
+        },
+        {
+          "songId": "3743",
+          "moment": "Comunhão",
+          "tone": ""
+        },
+        {
+          "songId": "4317",
+          "moment": "Comunhão",
+          "tone": ""
+        },
+        {
+          "songId": "3965",
+          "moment": "Final",
+          "tone": "C"
+        }
+      ],
+      "sources": [
+        "Igreja em Oração, Edições CNBB",
+        "O Domingo, Paulus"
+      ],
+      "id": "0f9fe0d5-1b44-4743-88b6-0ca965f63f15",
+      "revision": "fecb0c9d-aa4f-495f-8771-674b288033ca",
+      "createdAt": "2026-11-18T22:26:29.897Z",
+      "updatedAt": "2026-11-19T11:35:41.834Z",
       "updatedBy": "bc028468-84dd-4d22-8df5-a5bbdfb883fd"
     }
   ]
