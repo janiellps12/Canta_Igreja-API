@@ -1,6 +1,6 @@
 Índice: 794
 Título: A barca
-Rótulos: 
+Rótulos: Tempo Comum
 Compositores: Cesáreo Gabarin
 Letristas: 
 Musicistas: 
@@ -21,9 +21,11 @@ junto a Ti buscarei outro mar.**
 2. Tu sabes bem que em meu barco
    Eu não tenho espadas nem ouro,
    somente redes e o meu trabalho.
+
 3. Tu minhas mãos solicitas,
    Meu cansaço que a outros descanse,
    amor que almejas, seguir amando.
+
 4. Tu pescador de outros lagos,
    Ânsia eterna de almas que esperam,
    bondoso amigo que assim me chamas
