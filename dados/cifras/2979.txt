@@ -1,45 +1,45 @@
 Formato: cantos-cifra-v1
 Índice: 2979
-Tom original: Em
+Tom original: Am
 
- Em   B7
-Bendito sejas
-Em Am   B7
+   Am      E7
+1. Bendito sejas
+Am  Dm     E7
 Ó   Rei da glória
-G    Am
+C       Dm
 Ressuscitado
-D         G
+G           C
 Senhor da Igreja
-Em    Am     A#º Em/B B7 Em
-Aqui trazemos as nossas ofer__er_tas
+Am      Dm       D#º    Am/E E7  Am
+Aqui trazemos as nossas ofer_er_tas
 
-E          A A/C#
-Vê com bons olhos
-E      F#7   B7
-Nossas humildes ofertas
-E         A   A/C#
-Tudo o que te___mos
-E/B   B7     Em
-Seja pra Ti, ó Senhor
+A           D D/F#
+[b]Vê com bons olhos[/b]
+[b]A        B7     E7[/b]
+[b]Nossas humildes ofertas[/b]
+[b]A          D   D/F#[/b]
+[b]Tudo o que te___mos[/b]
+[b]A/E      E7     Am[/b]
+[b]Seja pra Ti, ó Senhor[/b]
 
- Em     B7
-Vidas se encontram
-Em  Am    B7
+   Am          E7
+2. Vidas se encontram
+Am   Dm     E7
 No altar de Deus
-G       Am7
+C        Dm7
 Gente se doa
-D7        G
+G7          C
 Dom que se imola
-Em    Am     A#º Em/B B7 Em
+Am      Dm       D#º     Am/E E7 Am
 Aqui trazemos as nossas ofer__er_tas
 
-Em      B7
-Irmãos da terra
-Em C    B7
+   Am        E7
+3. Irmãos da terra
+Am F       E7
 Ir_mãos do céu
-G       Am7
+C          Dm7
 Juntos cantemos
-D7         G
+G7          C
 Glória ao Senhor
-Em    Am     A#º Em/B B7 Em
+Am      Dm       D#º     Am/E E7 Am
 Aqui trazemos as nossas ofer__er_tas

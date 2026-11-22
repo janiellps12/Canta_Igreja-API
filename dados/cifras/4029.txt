@@ -1,65 +1,65 @@
 Formato: cantos-cifra-v1
 Índice: 4029
-Tom original: D
+Tom original: F
 
-D    G    A
-D    G    A
+F    A#   C
+F    A#   C
 
-    D           A/C#     Bm
+    F           C/E      Dm
 Senhor, tende piedade de nós, pois
-   G      A     D
+   A#     C     F
 pecamos contra Vós
 
 
-         G       A           F#m Bm
+         A#      C           Am  Dm
 Mas confiamos em Vossa misericórdia
-           Em7              D/F#
+           Gm7              F/A
 Nos arrependemos e nos entregamos
-          G  A    D
+          A#        C    F
 Ao Vosso Infinito Amor!
-D/F#     G       A/G        F#m  Bm7
+F/A      A#      C/A#       Am   Dm7
 Mas confiamos em Vossa misericórdia
-           Em7              D/F#
+           Gm7              F/A
 Nos arrependemos e nos entregamos
-          G  A    D
-Ao Vosso Infinito Amor!
+           A#   C      F
+Ao Vosso Infi---nito Amor!
 
 
-  D            A/C#  Bm
+  F            C/E       Dm
 Cristo, tende piedade de nós pois
-      G   A      D
+  A#    C      F
 pecamos contra Vós
 
 
-D/F# G      A/G     F#m Bm
+         A#      C           Am  Dm
 Mas confiamos em Vossa misericórdia
-           Em7          D/F#
+           Gm7              F/A
 Nos arrependemos e nos entregamos
-      G     A    D
+          A#        C    F
 Ao Vosso Infinito Amor!
-D/F# G      A/G     F#m Bm
+F/A      A#      C/A#       Am   Dm7
 Mas confiamos em Vossa misericórdia
-           Em7           D/F#
+           Gm7              F/A
 Nos arrependemos e nos entregamos
-         G   A    D   B7
-Ao Vosso Infinito Amor!
+           A#   C      F
+Ao Vosso Infi---nito Amor!
 
 
-    D           A/C#  Bm
+    F           C/E      Dm
 Senhor, tende piedade de nós, pois
-    G      A     D
+  A#     C     F
 pecamos contra Vós
 
 
-         G       A         F#m Bm
+         A#      C           Am  Dm
 Mas confiamos em Vossa misericórdia
-           Em7          D/F#
+           Gm7              F/A
 Nos arrependemos e nos entregamos
-          G  A    D
+          A#        C    F
 Ao Vosso Infinito Amor!
-D/F# G      A/G      F#m        Bm7
+F/A      A#      C/A#       Am   Dm7
 Mas confiamos em Vossa misericórdia
-            Em7       D/F#
+           Gm7              F/A
 Nos arrependemos e nos entregamos
-          G  A    D
-Ao Vosso Infinito Amor!
+           A#   C      F
+Ao Vosso Infi---nito Amor!
