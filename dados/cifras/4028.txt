@@ -1,28 +1,33 @@
 Formato: cantos-cifra-v1
 Índice: 4028
-Tom original: F
+Tom original: D
 
-F        Bb     F
+D        G         D
 Senhor e Filho de Deus,
-     D    Gm
+        B            Em
 companheiro, irmão e amigo
-Bb      Bº    F   C7
-Tende piedade de nós! Tende
-      F  C
-piedade de nós!
-    F    Bb      F
-Ó Cristo, Filho do Homem, conheceis
-   D      Gm
-a nossa fraqueza
-Bb      Bº    F   C7
-Tende piedade de nós! Tende
-      F  C
-piedade de nós!
-   F    Bb     F
-Senhor e Filho do Pai, acolhei-nos
-D       Gm
-na Vossa casa!
-Bb      Bº    F   C7
-Tende piedade de nós! Tende
-      F
-piedade de nós!
+
+[b]G       G#º      D    A7[/b]
+[b]Tende piedade de nós! Tende[/b]
+[b]            D   A7[/b]
+[b]piedade de nós![/b]
+
+    D      G       D
+Ó Cristo, Filho do Homem,
+      B               Em
+conheceis a nossa fraqueza
+
+[b]G       G#º       D   A7[/b]
+[b]Tende piedade de nós! Tende[/b]
+[b]            D    A7[/b]
+[b]piedade de nós![/b]
+
+   D     G         D
+Senhor e Filho do Pai,
+    B                Em
+acolhei-nos na Vossa casa!
+
+[b]G       G#º       D   A7[/b]
+[b]Tende piedade de nós! Tende[/b]
+[b]           D[/b]
+[b]piedade de nós![/b]

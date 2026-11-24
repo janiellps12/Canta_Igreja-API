@@ -1,7 +1,7 @@
 Índice: 3501
 Título: Glória, e paz na terra aos seus
 Rótulos: Glória
-Compositores:  
+Compositores: 
 Letristas: CNBB
 Musicistas: Renato Bevilacqua
 YouTube: https://youtu.be/atirHxcp1PM
@@ -9,8 +9,7 @@ Partitura:
 CifraClub: 
 Tonalidade: G
 
-**Glória a Deus
-lá nos céus
+**Glória a Deus lá nos céus
 e paz na terra aos seus.**
 
 1. Mulheres: Glória a Deus nos altos céus,
