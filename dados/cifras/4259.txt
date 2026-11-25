@@ -2,16 +2,16 @@ Formato: cantos-cifra-v1
 Índice: 4259
 Tom original: C
 
-C                                    Am
-Cantemos glória, glória a Deus nas alturas
-           F       Dm               G
-Cantemos, glória a Deus e paz aos homens
-         C                           Am
-Cantemos glória, glória a Deus nas alturas
-           F       Dm             G
-Cantemos, glória a Deus e paz aos homens
-          F G            F    G       C
-Por Ele amados, cantemos gló o o......ria
+[b]C                                    Am[/b]
+[b]Cantemos glória, glória a Deus nas alturas[/b]
+[b]           F       Dm               G[/b]
+[b]Cantemos, glória a Deus e paz aos homens[/b]
+[b]         C                           Am[/b]
+[b]Cantemos glória, glória a Deus nas alturas[/b]
+[b]           F       Dm             G[/b]
+[b]Cantemos, glória a Deus e paz aos homens[/b]
+[b]          F G            F    G       C[/b]
+[b]Por Ele amados, cantemos gló o o......ria[/b]
 
                    F          G            Em     Am
 1. Senhor, rei dos céus, Deus Pai Todo-Poderoso

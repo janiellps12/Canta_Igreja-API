@@ -1,55 +1,55 @@
 Formato: cantos-cifra-v1
 Índice: 4012
-Tom original: Cm
+Tom original: Dm
 
-Cm
+Dm
 [b]Glória a Deus nas alturas[/b]
-    A#             G
+    C              A
 [b]E paz na terra aos homens por Ele[/b]
-   Cm G7
+   Dm A7
 [b]amados[/b]
 
-Cm                        A#
-Senhor Deus, Rei dos céus, Deus Pai
+   Dm                        C
+1. Senhor Deus, Rei dos céus, Deus Pai
 todo-poderoso
- D#
+F
 Nós Vos louvamos, Vos bendizemos
- Fm           G7
+ Gm           A7
 Vos adoramos, Vos glorificamos
- Ab    G7 Cm              Fm
+ A#    A7 Dm              Gm
 Nós vos damos graças, por vossa
-       G7       Cm
+       A7       Dm
 imensa glóri----a
 
- Cm
-Senhor Jesus Cristo, Filho Unigénito
- A#                           D#
+   Dm
+2. Senhor Jesus Cristo, Filho Unigénito
+ C                            F
 Senhor Deus, Cordeiro de Deus, Filho
-        G
+        A
 de Deus Pai
-Fm               G7
+Gm               A7
 Vós que tirais o pecado do mundo,
-Ab            G
+A#            A
 tende piedade de nós
-Fm               G7
+Gm               A7
 Vós que tirais o pecado do mundo,
-      Ab     A# D#
+      A#     C  F
 acolhei a nossa súplica
-Fm              G7
+Gm              A7
 Vós que estais à direita do pai,
- Ab      G        Cm G7
+ A#      A        Dm A7
 tende piedade de nós
 
- Cm
-Só Vós sois o Santo; só Vós, o Senhor
- A#
+   Dm
+3. Só Vós sois o Santo; só Vós, o Senhor
+ C
 Só Vós, o Altíssimo, Jesus Cristo
-D#
+F
 Com o Espírito Santo
-  Fm           G7         Ab     G7
+  Gm           A7         A#     A7
 Na glória de Deus Pai. na glória de
-     Cm  G7
+     Dm  A7
 Deus Pai
 
-Cm          A#          D#   Fm  G   Cm
+Dm          C           F    Gm  A   Dm
 [b]Amém, Amém, Amém, Amém, A------------mém![/b]
