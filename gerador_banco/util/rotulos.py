@@ -121,6 +121,7 @@ class Rotulos:
     }
 
     outros = {
+        'Ceb’s e Animação',
         'Bíblia',
         'Padroeiros',
         'Campanha da Fraternidade',
